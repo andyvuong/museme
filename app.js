@@ -1,7 +1,11 @@
-// Create an osc.js UDP Port listening on port 5000 . 
+var osc = require("osc"),
+    http = require("http"),
+    WebSocket = require("ws");
+
+// Create an osc.js UDP Port listening on port 5001 . 
 var udpPort = new osc.UDPPort({
     localAddress: "0.0.0.0",
-    localPort: 57121
+    localPort: 5001
 });
  
 // Listen for incoming OSC bundles. 
@@ -16,4 +20,4 @@ udpPort.open();
 udpPort.send({
     address: "/s_new",
     args: ["default", 100]
-}, "127.0.0.1", 57110);
+}, "127.0.0.1", 5002);
