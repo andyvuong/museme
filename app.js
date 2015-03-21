@@ -1,36 +1,19 @@
-
-/**
- * Module dependencies.
- */
-
-var express = require('express')
-  , routes = require('./routes');
-
-var app = module.exports = express.createServer();
-
-// Configuration
-
-app.configure(function(){
-  app.set('views', __dirname + '/views');
-  app.set('view engine', 'jade');
-  app.use(express.bodyParser());
-  app.use(express.methodOverride());
-  app.use(app.router);
-  app.use(express.static(__dirname + '/public'));
+// Create an osc.js UDP Port listening on port 5000 . 
+var udpPort = new osc.UDPPort({
+    localAddress: "0.0.0.0",
+    localPort: 57121
 });
-
-app.configure('development', function(){
-  app.use(express.errorHandler({ dumpExceptions: true, showStack: true }));
+ 
+// Listen for incoming OSC bundles. 
+udpPort.on("bundle", function (oscBundle) {
+    console.log("An OSC bundle just arrived!", oscBundle);
 });
-
-app.configure('production', function(){
-  app.use(express.errorHandler());
-});
-
-// Routes
-
-app.get('/', routes.index);
-
-app.listen(3000, function(){
-  console.log("Express server listening on port %d in %s mode", app.address().port, app.settings.env);
-});
+ 
+// Open the socket. 
+udpPort.open();
+ 
+// Send an OSC message to, say, SuperCollider 
+udpPort.send({
+    address: "/s_new",
+    args: ["default", 100]
+}, "127.0.0.1", 57110);

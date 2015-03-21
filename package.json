@@ -7,7 +7,8 @@
     }
   , "dependencies": {
       "socket.io": "latest",
-      "express": "2.5.8"
-    , "jade": "*"
+      "express": "2.5.8", 
+      "jade": "*",
+      "osc": "*"
   }
 }
