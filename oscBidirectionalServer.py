@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Python script for setting up a receiving OSC server between the computer and the Muse
+Python script for setting up a bidirectional OSC server between the computer and the Muse
 
 This script was tested using Python 2.7.9 and MuseIO firmware 3.6.5 ['muse-io 3.6.5 (Build-21 Jan 30 2015 20:12:18)']
 
@@ -13,9 +13,13 @@ from liblo import *
 import sys
 import time
 import signal
+import socket
 
-#port to listen on
-port_address = 5003
+# port to listen for osc messages
+listener_port = 5002
+# port to send our osc messages
+target_port = Address('10.1.101.51', 5003)
+# 10.1.101.51
 
 def handler(signum, frame):
     print 'Ctrl+Z pressed, but ignored. Try Ctrl+C instead.'
@@ -23,13 +27,15 @@ def handler(signum, frame):
 class MuseServer(ServerThread):
     #listen for messages on the specified port
     def __init__(self):
-        ServerThread.__init__(self, port_address)
+        ServerThread.__init__(self, listener_port)
 
     #receive accelrometer data
     @make_method('/muse/acc', 'fff')
     def acc_callback(self, path, args):
         acc_x, acc_y, acc_z = args
         print "%s %f %f %f" % (path, acc_x, acc_y, acc_z)
+        send(target_port, "%s %f %f %f" % (path, acc_x, acc_y, acc_z))
+        #send(target_port, path, acc_x, acc_y, acc_z)
 
     #receive battery data
     @make_method('/muse/batt', 'iiii')
