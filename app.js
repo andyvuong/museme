@@ -112,21 +112,13 @@ oscServer.on("message", function (msg, rinfo) {
 * Processes the incoming values for emotions and subsequently music, visualization, and color changing
 */
 function process(item1, item2, item3, item4, item5) {
-    if(item1.length > 5) {
+    if(item1.length > 5) { 
       // do something with 5 averaged values from the previous function right here:
       // calculate a mood
 ////
       // 1 - music generation
       // Pass all 5 values
       // needs to return 3 cords and a melodynote
-
-      // 2 - pass to the visualization
-      //  chord1 chord2 chord3 melodynote 
-      // mood
-      // communicate
-
-
-
 
       // resets the global variable to empty arrays
       val_delta = [];
