@@ -1,0 +1,65 @@
+html {
+    background-color: #FFF;
+    opacity: 1.0;
+}
+
+h1 {
+    text-align: center;
+}
+
+canvas {
+    border-radius: 3%; 
+    border: 1px solid black;
+    box-shadow: 0 0 2em black;
+}
+
+.row-tab {
+      border-radius: 3%; 
+      border: 1px solid black;
+      box-shadow: 0 0 2em black;
+}
+
+.color-shadowb {
+    color: #3D484B;
+}
+
+.color-iceb {
+    color: #8AA4B7;
+}
+
+.color-skyb {
+    color: #98C6EE;
+}
+
+.color-brown {
+    color: #7B7779;
+}
+
+.color-orange {
+    color: #E2B673;
+}
+
+.aest-transparency {
+    opacity: 0.6;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.chart {
+    height: 400px;
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}

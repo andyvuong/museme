@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/materialize.min.css">
+        <link rel="stylesheet" href="style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+        <script src="processing.min.js"></script>
+        <title>Museme</title>
+    </head>
+    <body>
+        <div class="container aest-transparency">
+            <!-- Top Row-->
+            <div class="row row_tab">
+                <h1>
+                    Muse Me!
+                </h1>
+            </div>
+            <!-- Visualizer Row -->
+            <div class="row">
+                <div class="col s12">
+                            <canvas data-processing-sources="seeker.pde" height="500" width="1000"></canvas>
+                </div>
+            </div>
+            <!-- Wolfram Row -->
+            <div class="row">
+                <div class="col s7">
+                    <div id="chart1" class="chart"></div>
+                </div>
+                <div class="col s5">
+                    <div id="chart2" class="chart"></div>
+                </div>
+            </div>
+
+        </div>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/js/materialize.min.js"></script>
+        <script src="canvasjs.js"></script>
+
+        <!-- CHART SCRIPTS CHART SCRIPTS CHART SCRIPTS CHART SCRIPTS CHART SCRIPTS -->
+        <script type="text/javascript">
+            window.onload = function () {
+            // data points
+                var dataPoints5 = []; // gamma
+                var dataPoints4 = []; // beta
+                var dataPoints3 = []; // alpha
+                var dataPoints2 = []; // theta
+                var dataPoints1 = []; // delta
+
+                var chart = new CanvasJS.Chart("chart1",{
+                    zoomEnabled: true,
+                    title: { text: "Brain Wave Measure" },
+                    toolTip: { shared: true },
+                    legend: {
+                        verticalAlign: "top",
+                        horizontalAlign: "center",
+                                        fontSize: 14,
+                        fontWeight: "bold",
+                        fontFamily: "calibri",
+                        fontColor: "dimGrey"
+                    },
+                    axisX: { title: "Elapsed Time", valueFormatString: "mm:ss" },
+                    axisY:{ prefix: '', includeZero: false }, 
+                    data: [{ 
+                        // dataSeries1
+                        type: "line",
+                        xValueType: "dateTime",
+                        showInLegend: true,
+                        name: "Gamma",
+                        dataPoints: dataPoints5
+                    },
+                    {               
+                        // dataSeries2
+                        type: "line",
+                        xValueType: "dateTime",
+                        showInLegend: true,
+                        name: "Beta" ,
+                        dataPoints: dataPoints4
+                    },
+                    {               
+                        // dataSeries3
+                        type: "line",
+                        xValueType: "dateTime",
+                        showInLegend: true,
+                        name: "Alpha" ,
+                        dataPoints: dataPoints3
+                    },
+                    {               
+                        // dataSeries4
+                        type: "line",
+                        xValueType: "dateTime",
+                        showInLegend: true,
+                        name: "Beta" ,
+                        dataPoints: dataPoints2
+                    },
+                    {               
+                        // dataSeries5
+                        type: "line",
+                        xValueType: "dateTime",
+                        showInLegend: true,
+                        name: "Delta" ,
+                        dataPoints: dataPoints1
+                    }],
+                  legend:{
+                    cursor:"pointer",
+                    itemclick : function(e) {
+                      if (typeof(e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
+                        e.dataSeries.visible = false;
+                      }
+                      else {
+                        e.dataSeries.visible = true;
+                      }
+                      chart.render();
+                    }
+                  }
+                });
+                var updateInterval = 300;
+                // initial value
+                var yValue5 = 640; 
+                var yValue4 = 604;
+                var yValue3 = 540; 
+                var yValue2 = 504;
+                var yValue1 = 440; 
+
+                var time = new Date;
+                time.setHours(0);
+                time.setMinutes(00);
+                time.setSeconds(00);
+                time.setMilliseconds(00);
+
+                var updateChart = function (count) {
+                    count = count || 1;
+                    // count is number of times loop runs to generate random dataPoints. 
+                    for (var i = 0; i < count; i++) {
+                        
+                        // add interval duration to time                
+                        time.setTime(time.getTime()+ updateInterval);
+
+                        // generating random values
+                        var deltaY1 = .5 + Math.random() *(-.5-.5);
+                        var deltaY2 = .5 + Math.random() *(-.5-.5);
+                        var deltaY3 = .5 + Math.random() *(-.5-.5);
+                        var deltaY4 = .5 + Math.random() *(-.5-.5);
+                        var deltaY5 = .5 + Math.random() *(-.5-.5);
+                        // adding random value and rounding it to two digits. 
+                        yValue1 = Math.round((yValue1 + deltaY1)*100)/100;
+                        yValue2 = Math.round((yValue2 + deltaY2)*100)/100;
+                        yValue3 = Math.round((yValue3 + deltaY3)*100)/100;
+                        yValue4 = Math.round((yValue4 + deltaY4)*100)/100;
+                        yValue5 = Math.round((yValue5 + deltaY5)*100)/100;
+                        // pushing the new values
+                        dataPoints1.push({
+                            x: time.getTime(),
+                            y: yValue1
+                        });
+                        dataPoints2.push({
+                            x: time.getTime(),
+                            y: yValue2
+                        });
+                        dataPoints3.push({
+                            x: time.getTime(),
+
+                            y: yValue3
+                        });
+                        dataPoints4.push({
+                            x: time.getTime(),
+                            y: yValue4
+                        });
+                        dataPoints5.push({
+                            x: time.getTime(),
+                            y: yValue5
+                        });
+                    };
+                    // updating legend text with  updated with y Value 
+                    //chart.options.data[0].legendText = " Company A  $" + yValue1;
+                    //chart.options.data[1].legendText = " Company B  $" + yValue2; 
+                    chart.render();
+                };
+                // generates first set of dataPoints 
+                updateChart(250);  
+                // update chart after specified interval 
+                setInterval(function(){updateChart()}, updateInterval);
+            }
+        </script> 
+
+    </body>
+</html>
