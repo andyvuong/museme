@@ -1,5 +1,5 @@
 import oscP5.*;
-import netP5.*;
+//import netP5.*;
   
 OscP5 oscP5_0;
 
@@ -20,9 +20,9 @@ int dest_y = height/2;
 Seeker[] ball = new Seeker[numBalls];
 
 void setup(){
-  oscP5_0 = new OscP5(this,9002);
-  //size(640,480);
-  size(displayWidth, displayHeight);
+  oscP5_0 = new OscP5(this,9001);
+  size(640,480);
+  //size(displayWidth, displayHeight);
   colorMode(HSB, 255);
   noStroke();
   WQY10 = loadFont("WenQuanYiMicroHei-10.vlw");
@@ -160,6 +160,15 @@ void oscEvent(OscMessage theOscMessage)
     println(firstValue + " " + secondValue + " " + thirdValue + " " + mood + " " + fourthValue);
     
   moveBalls(fourthValue);
+}
+
+void jsEvent(int chord1, int chord2, int chord3, int mood, int melodynote) 
+{  
+    // print out the message
+    print("Message Received: ");
+    print(theOscMessage.addrPattern() + " ");
+    println(firstValue + " " + secondValue + " " + thirdValue + " " + mood + " " + fourthValue);
+    moveBalls(fourthValue);
 }
 
 void moveBalls(int last)
