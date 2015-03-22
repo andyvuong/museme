@@ -23,8 +23,9 @@ class Seeker{
   }
   
   public void render(){
+    stroke(color(0,0,0));
     fill(fillColor);
-    radius = sq(map(velocity.mag(), 0, maxVelocity, 4, 1));
+    radius = sq(map(velocity.mag(), 2, maxVelocity*2, 4, 1));
     if(shapeType == 0){
       rect(position.x, position.y, radius, radius);
     }
