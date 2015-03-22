@@ -1,9 +1,9 @@
-import oscP5.*;
+//import oscP5.*;
 //import netP5.*;
   
-OscP5 oscP5_0;
+//OscP5 oscP5_0;
 
-PFont WQY10;
+//PFont WQY10;
 
 int numBalls = 25600;
 int maxBalls = numBalls;
@@ -13,22 +13,22 @@ int shapeType;
 float maxVelocity = 6, minAccel = 0.2, maxAccel = 0.6;
 int time = 0;
 int changingcol = 0;
-
+int mymood = 6;
 int last_melody_note = 0;
 int dest_x = width/2;
 int dest_y = height/2;
 Seeker[] ball = new Seeker[numBalls];
 
 void setup(){
-  oscP5_0 = new OscP5(this,9001);
+  //oscP5_0 = new OscP5(this,9001);
   size(640,480);
   //size(displayWidth, displayHeight);
   colorMode(HSB, 255);
   noStroke();
-  WQY10 = loadFont("WenQuanYiMicroHei-10.vlw");
-  textFont(WQY10);
+  //WQY10 = loadFont("WenQuanYiMicroHei-10.vlw");
+  //textFont(WQY10);
   clearBG = true;
-  doSmooth = false;
+  doSmooth = true;
   shapeType = 1;
   
   for(int i=0; i<numBalls; i++){
@@ -44,14 +44,18 @@ void draw(){
     background(#111421);
   }
    
+
    
   time++;
-  if(time > 200)
+  if(mymood == 6 && time > 100)
   {
-    
+      moveBalls(int(random(1000)));
      time = 0;
      changingcol = (changingcol+32)%255;
   } 
+  else{
+    changingcol = 255/6 * mymood + int(random(-3, 3));
+  }
   rectMode(CENTER);
   for(int i=0; i<numBalls; i++){
     smoothColor(ball[i], changingcol);
@@ -59,7 +63,7 @@ void draw(){
     ball[i].render();
   }
   
-  statusWindow();
+  //statusWindow();
 
 }
 
@@ -142,7 +146,7 @@ void keyPressed() {
     numBalls = min(maxBalls, numBalls);
   }
 }
-
+/*
 void oscEvent(OscMessage theOscMessage) 
 {  
   // get the first value as an float
@@ -161,14 +165,15 @@ void oscEvent(OscMessage theOscMessage)
     
   moveBalls(fourthValue);
 }
+*/
 
 void jsEvent(int chord1, int chord2, int chord3, int mood, int melodynote) 
 {  
     // print out the message
     print("Message Received: ");
-    print(theOscMessage.addrPattern() + " ");
-    println(firstValue + " " + secondValue + " " + thirdValue + " " + mood + " " + fourthValue);
-    moveBalls(fourthValue);
+    mymood = mood;
+    println(chord1 + " " + chord2 + " " + chord3 + " " + mood + " " + melodynote);
+    moveBalls(melodynote);
 }
 
 void moveBalls(int last)
