@@ -18,8 +18,8 @@ import socket
 # port to listen for osc messages
 listener_port = 5002
 # port to send our osc messages
-target_port = Address('10.1.101.51', 5003)
-# 10.1.101.51
+target_port = Address('localhost', 5003)
+# 10.1.101.51 for remote
 
 def handler(signum, frame):
     print 'Ctrl+Z pressed, but ignored. Try Ctrl+C instead.'
@@ -42,24 +42,28 @@ class MuseServer(ServerThread):
     def batt_callback(self, path, args):
         state_charge, fuel_gauge, adc, temperature = args
         print "%s %i %i %i %i" % (path, state_charge, fuel_gauge, adc, temperature)
+        send(target_port, "%s %i %i %i %i" % (path, state_charge, fuel_gauge, adc, temperature))
 
     #receive EEG data
     @make_method('/muse/eeg', 'ffff')
     def eeg_callback(self, path, args):
         l_ear, l_forehead, r_forehead, r_ear = args
         print "%s %f %f %f %f" % (path, l_ear, l_forehead, r_forehead, r_ear)
+        send(target_port, "%s %f %f %f %f" % (path, l_ear, l_forehead, r_forehead, r_ear))
 
     #receive EEG quantization data
     @make_method('/muse/eeg/quantization', 'iiii')
     def eeg_quantize_callback(self, path, args):
         l_ear, l_forehead, r_forehead, r_ear = args
         print "%s %i %i %i %i" % (path, l_ear, l_forehead, r_forehead, r_ear)
+        send(target_port, "%s %i %i %i %i" % (path, l_ear, l_forehead, r_forehead, r_ear))
 
     #receive DRLREF data
     @make_method('/muse/drlref', 'ff')
     def drlref_callback(self, path, args):
         drl, reference = args
         print "%s %f %f" % (path, drl, reference)
+        send(target_port, "%s %f %f" % (path, drl, reference))
 
     #
     #this block is devoted to picking up elements data [digital signal processing portions]
@@ -96,36 +100,42 @@ class MuseServer(ServerThread):
     def lowfreqabs_callback(self, path, args):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+        send(target_port, "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4))
 
     #1-4Hz, log band power (B)
     @make_method('/muse/elements/delta_absolute', 'ffff')
     def deltaabs_callback(self, path, args):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+        send(target_port, "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4))
 
     #5-8Hz, log band power (B)
     @make_method('/muse/elements/theta_absolute', 'ffff')
     def thetaabs_callback(self, path, args):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+        send(target_port, "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4))
 
     #9-13Hz, log band power (B)
     @make_method('/muse/elements/alpha_absolute', 'ffff')
     def alphaabs_callback(self, path, args):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+        send(target_port, "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4))
 
     #13-30Hz, log band power (B)
     @make_method('/muse/elements/beta_absolute', 'ffff')
     def betaabs_callback(self, path, args):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+        send(target_port, "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4))
 
     #0-50Hz, log band power (B)
     @make_method('/muse/elements/gamma_absolute', 'ffff')
     def gammaabs_callback(self, path, args):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+        send(target_port, "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4))
 
     """
     #Relative Band Powers
@@ -139,26 +149,31 @@ class MuseServer(ServerThread):
     def deltarel_callback(self, path, args):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+        send(target_port, "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4))
     #theta relative
     @make_method('/muse/elements/theta_relative', 'ffff')
     def thetarel_callback(self, path, args):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+        send(target_port, "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4))
     #alpha relative
     @make_method('/muse/elements/alpha_relative', 'ffff')
     def alpharel_callback(self, path, args):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+        send(target_port, "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4))
     #beta relative
     @make_method('/muse/elements/beta_relative', 'ffff')
     def betarel_callback(self, path, args):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+        send(target_port, "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4))
     #gamma relative
     @make_method('/muse/elements/gamma_relative', 'ffff')
     def gammarel_callback(self, path, args):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+        send(target_port, "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4))
 
     """
     #Band Power Sessions Scores
@@ -199,6 +214,7 @@ class MuseServer(ServerThread):
     def forehead_callback(self, path, args):
         touching = args
         print "%s %r" % (path, touching)
+        send(target_port, "%s %r" % (path, touching))
 
     #Status indicator for each channel (think of the Muse status indicator that looks like a horseshoe).
     #1 = good, 2 = ok, >=3 bad
@@ -206,12 +222,14 @@ class MuseServer(ServerThread):
     def horseshoe(self, path, args):
         l_ear, l_forehead, r_forehead, r_ear = args
         print "%s %f %f %f %f" % (path, l_ear, l_forehead, r_forehead, r_ear)
+        send(target_port, "%s %f %f %f %f" % (path, l_ear, l_forehead, r_forehead, r_ear))
 
     #Strict data quality indicator for each channel, 0= bad, 1 = good.
     @make_method('/muse/elements/is_good', 'iiii')
     def qualitycheck(self, path, args):
         l_ear, l_forehead, r_forehead, r_ear = args
         print "%s %i %i %i %i" % (path, l_ear, l_forehead, r_forehead, r_ear)
+        send(target_port, "%s %i %i %i %i" % (path, l_ear, l_forehead, r_forehead, r_ear))
 
     """
     #Muscle Movement
@@ -222,12 +240,14 @@ class MuseServer(ServerThread):
     def blinkcheck(self, path, args):
         blink = args
         print "%s %r" % (path, blink)
+        send(target_port, "%s %r" % (path, blink))
 
     #Boolean value 1 represents a jaw clench was detected
     @make_method('/muse/elements/jaw_clench', 'i')
     def jawcheck(self, path, args):
         clench = args
         print "%s %r" % (path, clench)
+        send(target_port, "%s %r" % (path, clench))
 
     
     #Experimental
@@ -257,6 +277,7 @@ class MuseServer(ServerThread):
     def concentrationcheck(self, path, args):
         fromconcentrate = args
         print "%s %s" % (path, fromconcentrate)
+        send(target_port, "%s %s" % (path, fromconcentrate))
 
     #Mellow
     #based on alpha, but with additional processing to make it more reflective of the user's experience
@@ -271,6 +292,7 @@ class MuseServer(ServerThread):
     def mellowcheck(self, path, args):
         mellowing = args
         print "%s %s" % (path, mellowing)
+        send(target_port, "%s %s" % (path, mellowing))
     
     #handle unexpected messages
     @make_method(None, None)

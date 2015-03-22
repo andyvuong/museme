@@ -269,12 +269,10 @@ class MuseServer(ServerThread):
     #handle unexpected messages
     @make_method(None, None)
     def fallback(self, path, args, types, src):
-        print "Unknown message \
-        \n\t Source: '%s' \
-        \n\t Address: '%s' \
-        \n\t Types: '%s ' \
-        \n\t Payload: '%s'" \
-        % (src.url, path, types, args)
+        print "Received message \
+        \n\t Source: %s \
+        \n\t Address: %s" \
+        % (src.url, path)
 
 signal.signal(signal.SIGTSTP, handler)
 
