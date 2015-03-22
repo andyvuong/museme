@@ -1,0 +1,1742 @@
+/muse/eeg 847.164856 815.910278 830.715088 834.005005
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 840.584961 804.395386 830.715088 832.360046
+/muse/eeg 837.294983 817.555237 834.005005 825.780151
+/muse/eeg 847.164856 814.265259 840.584961 834.005005
+/muse/eeg 840.584961 802.750427 822.490173 829.070068
+/muse/eeg 840.584961 807.685364 825.780151 819.200195
+/muse/eeg 843.874939 806.040344 835.650024 829.070068
+/muse/eeg 850.454834 819.200195 842.229919 830.715088
+/muse/eeg 857.034729 819.200195 838.940002 837.294983
+/muse/eeg 853.744812 815.910278 830.715088 837.294983
+/muse/eeg 853.744812 807.685364 825.780151 837.294983
+/muse/eeg 840.584961 822.490173 825.780151 829.070068
+/muse/eeg 847.164856 801.105408 848.809875 830.715088
+/muse/eeg 842.229919 789.590576 843.874939 824.135132
+/muse/eeg 840.584961 806.040344 835.650024 822.490173
+/muse/eeg 843.874939 815.910278 832.360046 830.715088
+/muse/acc -136.718964 964.845276 246.094131
+/muse/acc -132.812714 968.751526 242.187881
+/muse/acc -128.906448 968.751526 242.187881
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc -125.000198 968.751526 242.187881
+/muse/eeg 825.780151 825.780151 822.490173 809.330322
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 827.425110 815.910278 829.070068 812.620300
+/muse/eeg 832.360046 815.910278 832.360046 815.910278
+/muse/eeg 840.584961 814.265259 834.005005 824.135132
+/muse/elements/alpha_relative 0.224403 0.248202 0.135527 0.281014
+/muse/elements/beta_relative 0.219218 0.283531 0.460998 0.214228
+/muse/elements/delta_relative 0.259933 0.075365 0.111102 0.286741
+/muse/elements/gamma_relative 0.126212 0.337965 0.265382 0.134253
+/muse/elements/theta_relative 0.170234 0.054937 0.026991 0.083764
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.019272 0.329152 0.568388 0.878415
+/muse/elements/alpha_absolute 0.736665 0.609006 0.560242 0.758348
+/muse/elements/beta_absolute 0.726512 0.666802 1.091915 0.640498
+/muse/elements/delta_absolute 0.800497 0.091373 0.473938 0.767111
+/muse/elements/gamma_absolute 0.486737 0.743073 0.852088 0.437546
+/muse/elements/theta_absolute 0.616681 -0.045937 -0.140562 0.232676
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7592592835426331, 1.0, 1.0, 0.698113203048706]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7555555701255798, 0.43689319491386414, 0.7916666865348816, 0.7400000095367432]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7878788113594055, 0.5384615659713745, 0.529411792755127, 0.37078651785850525]'
+/muse/eeg 850.454834 824.135132 838.940002 837.294983
+/muse/eeg 848.809875 815.910278 822.490173 835.650024
+/muse/eeg 843.874939 809.330322 806.040344 834.005005
+/muse/eeg 840.584961 810.975281 827.425110 829.070068
+/muse/eeg 834.005005 812.620300 834.005005 815.910278
+/muse/eeg 843.874939 827.425110 832.360046 824.135132
+/muse/eeg 852.099792 829.070068 838.940002 832.360046
+/muse/eeg 842.229919 806.040344 824.135132 829.070068
+/muse/eeg 832.360046 804.395386 827.425110 820.845215
+/muse/eeg 843.874939 810.975281 835.650024 829.070068
+/muse/eeg 848.809875 799.460449 838.940002 832.360046
+/muse/eeg 834.005005 824.135132 837.294983 817.555237
+/muse/acc -121.093941 968.751526 246.094131
+/muse/acc -117.187683 968.751526 246.094131
+/muse/acc -113.281425 968.751526 246.094131
+/muse/eeg 832.360046 809.330322 834.005005 822.490173
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 830.715088 827.425110 834.005005 814.265259
+/muse/eeg 834.005005 820.845215 832.360046 812.620300
+/muse/eeg 837.294983 802.750427 819.200195 819.200195
+/muse/eeg 834.005005 812.620300 827.425110 812.620300
+/muse/eeg 842.229919 809.330322 834.005005 817.555237
+/muse/eeg 830.715088 830.715088 835.650024 802.750427
+/muse/eeg 840.584961 822.490173 837.294983 809.330322
+/muse/eeg 838.940002 789.590576 834.005005 812.620300
+/muse/eeg 837.294983 796.170471 824.135132 817.555237
+/muse/elements/alpha_relative 0.216732 0.227212 0.141664 0.270573
+/muse/elements/beta_relative 0.220054 0.294157 0.456309 0.219016
+/muse/elements/delta_relative 0.264297 0.083063 0.105787 0.289664
+/muse/elements/gamma_relative 0.125013 0.337793 0.265522 0.139122
+/muse/elements/theta_relative 0.173904 0.057774 0.030718 0.081626
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.027188 0.343811 0.553827 0.865913
+/muse/elements/alpha_absolute 0.721438 0.551525 0.569937 0.728483
+/muse/elements/beta_absolute 0.728044 0.663673 1.077938 0.636675
+/muse/elements/delta_absolute 0.807607 0.114502 0.443111 0.758094
+/muse/elements/gamma_absolute 0.482471 0.723744 0.842779 0.439594
+/muse/elements/theta_absolute 0.625825 -0.043173 -0.093929 0.208026
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7407407164573669, 0.9180327653884888, 1.0, 0.6415094137191772]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7555555701255798, 0.4563106894493103, 0.7666666507720947, 0.7400000095367432]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.8030303120613098, 0.5384615659713745, 0.6078431606292725, 0.3255814015865326]'
+/muse/eeg 830.715088 797.815491 832.360046 819.200195
+/muse/eeg 834.005005 819.200195 837.294983 817.555237
+/muse/eeg 832.360046 819.200195 825.780151 830.715088
+/muse/eeg 825.780151 799.460449 824.135132 827.425110
+/muse/eeg 824.135132 807.685364 822.490173 819.200195
+/muse/eeg 830.715088 825.780151 834.005005 820.845215
+/muse/acc -109.375168 972.657776 246.094131
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/config'         
+	 Types: 's '         
+	 Payload: '['{"mac_addr":"000666A069D0","serial_number":"1160-UJMN-69D0","preset":"14","filters_enabled":true,"notch_frequency_hz":60,"battery_data_enabled":true,"compression_enabled":true,"eeg_sample_frequency_hz":3520,"eeg_output_frequency_hz":220,"eeg_channel_count":4,"eeg_samples_bitwidth":10,"eeg_channel_layout":"TP9 FP1 FP2 TP10 ","eeg_downsample":16,"afe_gain":1961,"battery_percent_remaining":53,"battery_millivolts":3777,"eeg_units":"EEG_MICROVOLTS","acc_units":"ACC_GFORCE","eeg_conversion_factor":1.644980342484907,"drlref_conversion_factor":3225.806451612903,"acc_conversion_factor":3.906256109482,"acc_sample_frequency_hz":50,"drlref_sample_frequency_hz":10,"acc_data_enabled":true,"drlref_data_enabled":true,"error_data_enabled":true}\n']'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/version'         
+	 Types: 's '         
+	 Payload: '['{"hardware_version":"16.0.0","firmware_headset_version":"7.2.7","firmware_bootloader_version":"7.2.7","firmware_type":"Research","build_number":41,"protocol_version":2}\n']'
+/muse/drlref 1629032.250000 1645161.250000
+/muse/acc -105.468918 972.657776 246.094131
+/muse/acc -97.656403 976.564026 250.000397
+/muse/acc -93.750145 976.564026 250.000397
+/muse/eeg 845.519897 815.910278 838.940002 830.715088
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 834.005005 817.555237 830.715088 819.200195
+/muse/eeg 842.229919 801.105408 830.715088 827.425110
+/muse/eeg 838.940002 801.105408 820.845215 827.425110
+/muse/eeg 837.294983 812.620300 807.685364 824.135132
+/muse/eeg 834.005005 815.910278 825.780151 824.135132
+/muse/eeg 830.715088 809.330322 825.780151 820.845215
+/muse/eeg 837.294983 804.395386 838.940002 824.135132
+/muse/eeg 837.294983 819.200195 845.519897 820.845215
+/muse/eeg 830.715088 815.910278 838.940002 815.910278
+/muse/eeg 842.229919 817.555237 842.229919 830.715088
+/muse/eeg 847.164856 809.330322 842.229919 838.940002
+/muse/eeg 845.519897 815.910278 837.294983 834.005005
+/muse/eeg 848.809875 825.780151 834.005005 835.650024
+/muse/eeg 848.809875 824.135132 837.294983 834.005005
+/muse/eeg 845.519897 801.105408 825.780151 832.360046
+/muse/elements/alpha_relative 0.209358 0.205522 0.144719 0.264732
+/muse/elements/beta_relative 0.220887 0.308517 0.448524 0.225398
+/muse/elements/delta_relative 0.263710 0.087904 0.100978 0.284438
+/muse/elements/gamma_relative 0.125062 0.338624 0.270894 0.145362
+/muse/elements/theta_relative 0.180982 0.059433 0.034884 0.080070
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.032931 0.345881 0.545876 0.845545
+/muse/elements/alpha_absolute 0.705762 0.490428 0.573304 0.706646
+/muse/elements/beta_absolute 0.729042 0.666848 1.064564 0.636789
+/muse/elements/delta_absolute 0.805999 0.121577 0.417005 0.737826
+/muse/elements/gamma_absolute 0.481996 0.707287 0.845578 0.446291
+/muse/elements/theta_absolute 0.642507 -0.048401 -0.044594 0.187307
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7037037014961243, 0.8196721076965332, 1.0, 0.5849056839942932]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7555555701255798, 0.4660194218158722, 0.7416666746139526, 0.7200000286102295]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.8333333134651184, 0.5384615659713745, 0.7058823704719543, 0.302325576543808]'
+/muse/acc -89.843887 972.657776 250.000397
+/muse/acc -89.843887 972.657776 250.000397
+/muse/acc -89.843887 972.657776 250.000397
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc -89.843887 972.657776 253.906647
+/muse/eeg 830.715088 794.525513 815.910278 819.200195
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 830.715088 810.975281 832.360046 817.555237
+/muse/eeg 842.229919 822.490173 834.005005 832.360046
+/muse/eeg 837.294983 810.975281 829.070068 829.070068
+/muse/eeg 834.005005 799.460449 819.200195 820.845215
+/muse/eeg 840.584961 807.685364 812.620300 817.555237
+/muse/eeg 843.874939 835.650024 830.715088 824.135132
+/muse/eeg 838.940002 825.780151 835.650024 822.490173
+/muse/eeg 829.070068 796.170471 838.940002 815.910278
+/muse/eeg 822.490173 797.815491 838.940002 806.040344
+/muse/eeg 829.070068 809.330322 827.425110 809.330322
+/muse/eeg 835.650024 819.200195 825.780151 812.620300
+/muse/eeg 848.809875 829.070068 840.584961 827.425110
+/muse/eeg 842.229919 810.975281 838.940002 827.425110
+/muse/eeg 837.294983 810.975281 838.940002 820.845215
+/muse/eeg 835.650024 817.555237 834.005005 819.200195
+/muse/acc -89.843887 976.564026 250.000397
+/muse/acc -97.656403 976.564026 250.000397
+/muse/acc -101.562660 972.657776 246.094131
+/muse/eeg 834.005005 815.910278 824.135132 814.265259
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 843.874939 810.975281 825.780151 824.135132
+/muse/eeg 853.744812 834.005005 848.809875 830.715088
+/muse/eeg 853.744812 807.685364 838.940002 830.715088
+/muse/eeg 850.454834 799.460449 837.294983 829.070068
+/muse/eeg 842.229919 810.975281 829.070068 820.845215
+/muse/elements/alpha_relative 0.208336 0.190937 0.147471 0.261719
+/muse/elements/beta_relative 0.219290 0.322254 0.437082 0.230900
+/muse/elements/delta_relative 0.260542 0.088660 0.096509 0.279141
+/muse/elements/gamma_relative 0.126677 0.339355 0.280674 0.152533
+/muse/elements/theta_relative 0.185155 0.058794 0.038264 0.075707
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.036037 0.334404 0.539120 0.825876
+/muse/elements/alpha_absolute 0.705762 0.446636 0.578225 0.693668
+/muse/elements/beta_absolute 0.728016 0.673945 1.050082 0.639257
+/muse/elements/delta_absolute 0.802874 0.113476 0.394085 0.721657
+/muse/elements/gamma_absolute 0.489696 0.696401 0.857721 0.459198
+/muse/elements/theta_absolute 0.654533 -0.064921 -0.007692 0.154971
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7037037014961243, 0.7377049326896667, 1.0, 0.5660377144813538]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7640449404716492, 0.4563106894493103, 0.7226890921592712, 0.7070707082748413]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.8484848737716675, 0.5076923370361328, 0.800000011920929, 0.25581395626068115]'
+/muse/eeg 832.360046 807.685364 810.975281 812.620300
+/muse/eeg 835.650024 832.360046 820.845215 810.975281
+/muse/eeg 843.874939 819.200195 822.490173 817.555237
+/muse/eeg 852.099792 797.815491 817.555237 832.360046
+/muse/eeg 840.584961 796.170471 814.265259 822.490173
+/muse/eeg 843.874939 824.135132 834.005005 822.490173
+/muse/eeg 855.389771 827.425110 838.940002 835.650024
+/muse/eeg 843.874939 815.910278 843.874939 824.135132
+/muse/eeg 837.294983 802.750427 838.940002 819.200195
+/muse/eeg 843.874939 804.395386 824.135132 827.425110
+/muse/acc -101.562660 968.751526 246.094131
+/muse/drlref 1625806.500000 1645161.250000
+/muse/acc -109.375168 968.751526 246.094131
+/muse/acc -113.281425 968.751526 246.094131
+/muse/acc -121.093941 972.657776 246.094131
+/muse/eeg 843.874939 825.780151 830.715088 822.490173
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 840.584961 814.265259 843.874939 824.135132
+/muse/eeg 837.294983 814.265259 843.874939 825.780151
+/muse/eeg 840.584961 807.685364 842.229919 835.650024
+/muse/eeg 834.005005 812.620300 840.584961 830.715088
+/muse/eeg 832.360046 820.845215 827.425110 825.780151
+/muse/eeg 840.584961 819.200195 827.425110 834.005005
+/muse/eeg 842.229919 809.330322 834.005005 837.294983
+/muse/eeg 835.650024 807.685364 829.070068 827.425110
+/muse/eeg 837.294983 825.780151 837.294983 829.070068
+/muse/eeg 843.874939 806.040344 825.780151 838.940002
+/muse/eeg 852.099792 810.975281 807.685364 843.874939
+/muse/elements/alpha_relative 0.207287 0.182416 0.154715 0.251819
+/muse/elements/beta_relative 0.214637 0.333368 0.421879 0.236402
+/muse/elements/delta_relative 0.257950 0.086129 0.091105 0.276956
+/muse/elements/gamma_relative 0.131287 0.341058 0.291725 0.163462
+/muse/elements/theta_relative 0.188839 0.057028 0.040576 0.071362
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.039293 0.313522 0.526578 0.807695
+/muse/elements/alpha_absolute 0.705762 0.418770 0.596586 0.666808
+/muse/elements/beta_absolute 0.720894 0.680631 1.032243 0.639370
+/muse/elements/delta_absolute 0.800725 0.092859 0.366598 0.708130
+/muse/elements/gamma_absolute 0.507410 0.690535 0.872029 0.479135
+/muse/elements/theta_absolute 0.665282 -0.086202 0.015323 0.119183
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7037037014961243, 0.7049180269241333, 1.0, 0.5094339847564697]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7613636255264282, 0.43689319491386414, 0.6974790096282959, 0.6938775777816772]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0317460335791111]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.8636363744735718, 0.4769230782985687, 0.8399999737739563, 0.2023809552192688]'
+/muse/eeg 857.034729 817.555237 838.940002 852.099792
+/muse/eeg 840.584961 827.425110 834.005005 830.715088
+/muse/eeg 835.650024 817.555237 829.070068 824.135132
+/muse/eeg 842.229919 791.235535 842.229919 834.005005
+/muse/eeg 843.874939 796.170471 838.940002 834.005005
+/muse/acc -125.000198 972.657776 242.187881
+/muse/acc -128.906448 972.657776 242.187881
+/muse/acc -128.906448 972.657776 242.187881
+/muse/drlref 1629032.250000 1645161.250000
+/muse/acc -132.812714 972.657776 238.281616
+/muse/eeg 845.519897 825.780151 853.744812 834.005005
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 857.034729 837.294983 842.229919 847.164856
+/muse/eeg 848.809875 817.555237 829.070068 834.005005
+/muse/eeg 834.005005 789.590576 809.330322 820.845215
+/muse/eeg 840.584961 791.235535 819.200195 829.070068
+/muse/eeg 827.425110 824.135132 838.940002 814.265259
+/muse/eeg 838.940002 817.555237 832.360046 819.200195
+/muse/eeg 845.519897 806.040344 843.874939 832.360046
+/muse/eeg 850.454834 807.685364 834.005005 832.360046
+/muse/eeg 853.744812 815.910278 820.845215 835.650024
+/muse/eeg 835.650024 815.910278 819.200195 815.910278
+/muse/eeg 838.940002 806.040344 834.005005 817.555237
+/muse/eeg 847.164856 799.460449 834.005005 825.780151
+/muse/eeg 842.229919 799.460449 820.845215 825.780151
+/muse/eeg 843.874939 809.330322 815.910278 825.780151
+/muse/eeg 853.744812 825.780151 832.360046 838.940002
+/muse/acc -136.718964 964.845276 238.281616
+/muse/acc -136.718964 964.845276 238.281616
+/muse/acc -136.718964 968.751526 234.375366
+/muse/eeg 850.454834 807.685364 827.425110 835.650024
+/muse/elements/alpha_relative 0.206864 0.181729 0.160283 0.233742
+/muse/elements/beta_relative 0.204993 0.339053 0.407818 0.241040
+/muse/elements/delta_relative 0.253321 0.081576 0.085816 0.274464
+/muse/elements/gamma_relative 0.138942 0.342319 0.304019 0.179821
+/muse/elements/theta_relative 0.195880 0.055324 0.042064 0.070932
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.042266 0.289390 0.505694 0.787266
+/muse/elements/alpha_absolute 0.705511 0.412411 0.603780 0.617686
+/muse/elements/beta_absolute 0.701564 0.683255 1.009358 0.631038
+/muse/elements/delta_absolute 0.793497 0.064551 0.332459 0.687433
+/muse/elements/gamma_absolute 0.532660 0.687418 0.881792 0.503789
+/muse/elements/theta_absolute 0.681815 -0.104103 0.022803 0.099793
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7037037014961243, 0.688524603843689, 1.0, 0.4423076808452606]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.75, 0.40776699781417847, 0.6694915294647217, 0.6632652878761292]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.03448275849223137, 0.0, 0.0, 0.0634920671582222]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.8939393758773804, 0.446153849363327, 0.8600000143051147, 0.1807228922843933]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 848.809875 796.170471 829.070068 832.360046
+/muse/eeg 837.294983 817.555237 827.425110 824.135132
+/muse/eeg 838.940002 784.655640 825.780151 822.490173
+/muse/eeg 848.809875 801.105408 838.940002 830.715088
+/muse/eeg 832.360046 806.040344 838.940002 820.845215
+/muse/eeg 829.070068 810.975281 830.715088 810.975281
+/muse/eeg 830.715088 829.070068 822.490173 810.975281
+/muse/eeg 837.294983 815.910278 819.200195 825.780151
+/muse/eeg 845.519897 814.265259 824.135132 834.005005
+/muse/eeg 848.809875 802.750427 825.780151 832.360046
+/muse/eeg 842.229919 822.490173 834.005005 820.845215
+/muse/eeg 847.164856 825.780151 838.940002 827.425110
+/muse/eeg 838.940002 797.815491 830.715088 819.200195
+/muse/eeg 835.650024 789.590576 824.135132 819.200195
+/muse/eeg 843.874939 820.845215 819.200195 832.360046
+/muse/acc -140.625214 972.657776 230.469116
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc -136.718964 972.657776 230.469116
+/muse/acc -132.812714 968.751526 226.562851
+/muse/acc -132.812714 968.751526 226.562851
+/muse/eeg 834.005005 825.780151 814.265259 817.555237
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 832.360046 802.750427 824.135132 819.200195
+/muse/eeg 832.360046 799.460449 834.005005 824.135132
+/muse/eeg 840.584961 796.170471 845.519897 834.005005
+/muse/eeg 834.005005 810.975281 843.874939 824.135132
+/muse/eeg 832.360046 819.200195 832.360046 827.425110
+/muse/eeg 842.229919 814.265259 825.780151 837.294983
+/muse/elements/alpha_relative 0.199952 0.181849 0.168325 0.206373
+/muse/elements/beta_relative 0.192819 0.340356 0.393487 0.246368
+/muse/elements/delta_relative 0.245439 0.076770 0.081016 0.267245
+/muse/elements/gamma_relative 0.150194 0.346411 0.314474 0.202222
+/muse/elements/theta_relative 0.211596 0.054614 0.042699 0.077792
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.040325 0.266049 0.478440 0.759027
+/muse/elements/alpha_absolute 0.681301 0.407219 0.612168 0.535814
+/muse/elements/beta_absolute 0.665525 0.679441 0.980951 0.612746
+/muse/elements/delta_absolute 0.770318 0.032699 0.294590 0.648071
+/muse/elements/gamma_absolute 0.557027 0.687100 0.883606 0.526988
+/muse/elements/theta_absolute 0.705883 -0.115191 0.016433 0.112094
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6666666865348816, 0.6721311211585999, 1.0, 0.26923078298568726]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7272727489471436, 0.3786407709121704, 0.6355932354927063, 0.6326530575752258]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.06896551698446274, 0.0, 0.0, 0.095238097012043]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.9242424368858337, 0.4307692348957062, 0.8367347121238708, 0.1927710771560669]'
+/muse/eeg 835.650024 814.265259 815.910278 827.425110
+/muse/eeg 838.940002 822.490173 820.845215 829.070068
+/muse/eeg 837.294983 825.780151 834.005005 824.135132
+/muse/eeg 832.360046 810.975281 829.070068 819.200195
+/muse/eeg 830.715088 802.750427 825.780151 819.200195
+/muse/eeg 843.874939 815.910278 840.584961 830.715088
+/muse/eeg 832.360046 810.975281 834.005005 815.910278
+/muse/eeg 819.200195 799.460449 837.294983 806.040344
+/muse/eeg 809.330322 804.395386 829.070068 792.880554
+/muse/acc -128.906448 968.751526 230.469116
+/muse/acc -125.000198 968.751526 226.562851
+/muse/acc -121.093941 968.751526 226.562851
+/muse/drlref 1625806.500000 1641935.500000
+/muse/eeg 815.910278 809.330322 822.490173 799.460449
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 829.070068 815.910278 837.294983 817.555237
+/muse/eeg 829.070068 817.555237 840.584961 817.555237
+/muse/eeg 819.200195 806.040344 830.715088 809.330322
+/muse/eeg 832.360046 806.040344 812.620300 820.845215
+/muse/eeg 840.584961 819.200195 827.425110 822.490173
+/muse/eeg 837.294983 817.555237 835.650024 817.555237
+/muse/eeg 824.135132 802.750427 842.229919 806.040344
+/muse/eeg 824.135132 806.040344 842.229919 809.330322
+/muse/eeg 827.425110 794.525513 843.874939 810.975281
+/muse/eeg 834.005005 814.265259 852.099792 815.910278
+/muse/eeg 845.519897 810.975281 829.070068 829.070068
+/muse/eeg 842.229919 815.910278 820.845215 832.360046
+/muse/elements/alpha_relative 0.183047 0.180924 0.184860 0.173961
+/muse/elements/beta_relative 0.180251 0.336878 0.376205 0.252274
+/muse/elements/delta_relative 0.234324 0.072298 0.076681 0.251339
+/muse/elements/gamma_relative 0.163956 0.355601 0.319865 0.228081
+/muse/elements/theta_relative 0.238422 0.054299 0.042389 0.094346
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.030360 0.243145 0.448602 0.722210
+/muse/elements/alpha_absolute 0.618295 0.398219 0.639645 0.423981
+/muse/elements/beta_absolute 0.611610 0.668196 0.948225 0.585402
+/muse/elements/delta_absolute 0.725549 -0.000152 0.257486 0.583789
+/muse/elements/gamma_absolute 0.570459 0.691685 0.877768 0.541619
+/muse/elements/theta_absolute 0.733078 -0.124487 0.000055 0.158253
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5660377144813538, 0.6666666865348816, 1.0, 0.057692307978868484]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6704545617103577, 0.34951457381248474, 0.6101694703102112, 0.5612244606018066]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.10526315867900848, 0.0, 0.0, 0.1269841343164444]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.9696969985961914, 0.421875, 0.8163265585899353, 0.24390244483947754]'
+/muse/eeg 827.425110 809.330322 820.845215 817.555237
+/muse/eeg 819.200195 789.590576 817.555237 812.620300
+/muse/eeg 824.135132 817.555237 843.874939 814.265259
+/muse/acc -117.187683 972.657776 230.469116
+/muse/acc -109.375168 972.657776 230.469116
+/muse/acc -105.468918 972.657776 234.375366
+/muse/acc -101.562660 972.657776 230.469116
+/muse/eeg 832.360046 817.555237 834.005005 812.620300
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 832.360046 819.200195 840.584961 810.975281
+/muse/eeg 829.070068 815.910278 837.294983 812.620300
+/muse/eeg 843.874939 815.910278 825.780151 830.715088
+/muse/eeg 865.259644 817.555237 820.845215 850.454834
+/muse/eeg 843.874939 817.555237 824.135132 834.005005
+/muse/eeg 838.940002 825.780151 815.910278 829.070068
+/muse/eeg 830.715088 814.265259 832.360046 827.425110
+/muse/eeg 806.040344 804.395386 842.229919 807.685364
+/muse/eeg 820.845215 797.815491 848.809875 822.490173
+/muse/eeg 829.070068 799.460449 857.034729 827.425110
+/muse/eeg 835.650024 786.300598 855.389771 834.005005
+/muse/eeg 825.780151 807.685364 853.744812 825.780151
+/muse/eeg 838.940002 822.490173 838.940002 832.360046
+/muse/eeg 847.164856 815.910278 842.229919 843.874939
+/muse/eeg 837.294983 783.010620 834.005005 837.294983
+/muse/acc -97.656403 972.657776 234.375366
+/muse/drlref 1629032.250000 1645161.250000
+/muse/acc -93.750145 976.564026 238.281616
+/muse/acc -93.750145 976.564026 238.281616
+/muse/acc -89.843887 976.564026 238.281616
+/muse/eeg 827.425110 792.880554 834.005005 824.135132
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 822.490173 784.655640 837.294983 819.200195
+/muse/eeg 834.005005 787.945557 837.294983 829.070068
+/muse/elements/alpha_relative 0.183047 0.183060 0.207804 0.173961
+/muse/elements/beta_relative 0.180251 0.326991 0.357554 0.252274
+/muse/elements/delta_relative 0.234324 0.068275 0.072437 0.251339
+/muse/elements/gamma_relative 0.163956 0.368737 0.321118 0.228081
+/muse/elements/theta_relative 0.238422 0.052937 0.041086 0.094346
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 0 1 1 0
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.030360 0.219172 0.416373 0.722210
+/muse/elements/alpha_absolute 0.618295 0.398219 0.678941 0.423981
+/muse/elements/beta_absolute 0.611610 0.650161 0.914629 0.585402
+/muse/elements/delta_absolute 0.725549 -0.030110 0.221248 0.583789
+/muse/elements/gamma_absolute 0.570459 0.702343 0.867952 0.541619
+/muse/elements/theta_absolute 0.733078 -0.140616 -0.025014 0.158253
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5660377144813538, 0.6666666865348816, 1.0, 0.057692307978868484]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6704545617103577, 0.3203883469104767, 0.5762711763381958, 0.5612244606018066]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.10526315867900848, 0.0, 0.0, 0.1269841343164444]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.9696969985961914, 0.40625, 0.7551020383834839, 0.24390244483947754]'
+/muse/eeg 845.519897 810.975281 837.294983 838.940002
+/muse/eeg 850.454834 786.300598 835.650024 835.650024
+/muse/eeg 847.164856 804.395386 857.034729 820.845215
+/muse/eeg 855.389771 819.200195 845.519897 827.425110
+/muse/eeg 850.454834 807.685364 830.715088 825.780151
+/muse/eeg 850.454834 802.750427 827.425110 827.425110
+/muse/eeg 847.164856 802.750427 822.490173 832.360046
+/muse/eeg 848.809875 817.555237 842.229919 843.874939
+/muse/eeg 835.650024 799.460449 830.715088 843.874939
+/muse/eeg 835.650024 806.040344 815.910278 842.229919
+/muse/eeg 835.650024 797.815491 827.425110 842.229919
+/muse/eeg 832.360046 797.815491 850.454834 830.715088
+/muse/eeg 843.874939 796.170471 840.584961 835.650024
+/muse/acc -85.937637 980.470276 238.281616
+/muse/acc -82.031380 972.657776 242.187881
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc -78.125122 976.564026 242.187881
+/muse/eeg 840.584961 809.330322 845.519897 834.005005
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 843.874939 791.235535 840.584961 834.005005
+/muse/eeg 847.164856 802.750427 847.164856 834.005005
+/muse/eeg 842.229919 819.200195 838.940002 830.715088
+/muse/eeg 842.229919 814.265259 827.425110 832.360046
+/muse/eeg 850.454834 817.555237 825.780151 840.584961
+/muse/eeg 845.519897 810.975281 817.555237 830.715088
+/muse/eeg 832.360046 802.750427 824.135132 814.265259
+/muse/eeg 840.584961 810.975281 822.490173 827.425110
+/muse/elements/alpha_relative 0.183047 0.173447 0.231054 0.173961
+/muse/elements/beta_relative 0.180251 0.319119 0.341807 0.252274
+/muse/elements/delta_relative 0.234324 0.066486 0.066855 0.251339
+/muse/elements/gamma_relative 0.163956 0.390126 0.321007 0.228081
+/muse/elements/theta_relative 0.238422 0.050822 0.039277 0.094346
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 0 1 1 0
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.030360 0.194200 0.378259 0.722210
+/muse/elements/alpha_absolute 0.618295 0.364036 0.716124 0.423981
+/muse/elements/beta_absolute 0.611610 0.628823 0.886192 0.585402
+/muse/elements/delta_absolute 0.725549 -0.052398 0.177547 0.583789
+/muse/elements/gamma_absolute 0.570459 0.716075 0.858925 0.541619
+/muse/elements/theta_absolute 0.733078 -0.169075 -0.053451 0.158253
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5660377144813538, 0.6000000238418579, 1.0, 0.057692307978868484]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6704545617103577, 0.3009708821773529, 0.5423728823661804, 0.5612244606018066]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.10526315867900848, 0.0, 0.0, 0.1269841343164444]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.9696969985961914, 0.359375, 0.6938775777816772, 0.24390244483947754]'
+/muse/eeg 838.940002 807.685364 832.360046 824.135132
+/muse/eeg 835.650024 801.105408 843.874939 825.780151
+/muse/eeg 834.005005 815.910278 857.034729 815.910278
+/muse/eeg 848.809875 807.685364 847.164856 829.070068
+/muse/eeg 852.099792 809.330322 842.229919 835.650024
+/muse/eeg 850.454834 799.460449 832.360046 837.294983
+/muse/eeg 852.099792 807.685364 825.780151 837.294983
+/muse/acc -78.125122 976.564026 242.187881
+/muse/acc -78.125122 976.564026 242.187881
+/muse/acc -74.218864 976.564026 242.187881
+/muse/acc -74.218864 976.564026 246.094131
+/muse/eeg 850.454834 817.555237 825.780151 834.005005
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 842.229919 824.135132 822.490173 822.490173
+/muse/eeg 843.874939 819.200195 835.650024 822.490173
+/muse/eeg 840.584961 812.620300 838.940002 825.780151
+/muse/eeg 834.005005 807.685364 819.200195 819.200195
+/muse/eeg 835.650024 806.040344 838.940002 814.265259
+/muse/eeg 847.164856 814.265259 832.360046 824.135132
+/muse/eeg 863.614685 824.135132 804.395386 837.294983
+/muse/eeg 847.164856 822.490173 809.330322 824.135132
+/muse/eeg 820.845215 804.395386 814.265259 797.815491
+/muse/eeg 830.715088 797.815491 835.650024 806.040344
+/muse/eeg 838.940002 801.105408 855.389771 812.620300
+/muse/eeg 847.164856 797.815491 840.584961 822.490173
+/muse/eeg 838.940002 812.620300 829.070068 815.910278
+/muse/eeg 848.809875 807.685364 837.294983 822.490173
+/muse/elements/alpha_relative 0.183047 0.164256 0.229218 0.173961
+/muse/elements/beta_relative 0.180251 0.312618 0.341587 0.252274
+/muse/elements/delta_relative 0.234324 0.066085 0.060917 0.251339
+/muse/elements/gamma_relative 0.163956 0.409286 0.329531 0.228081
+/muse/elements/theta_relative 0.238422 0.047755 0.038746 0.094346
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 0 1 1 0
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.030360 0.171540 0.333472 0.722210
+/muse/elements/alpha_absolute 0.618295 0.330767 0.695184 0.423981
+/muse/elements/beta_absolute 0.611610 0.610260 0.868436 0.585402
+/muse/elements/delta_absolute 0.725549 -0.064653 0.119677 0.583789
+/muse/elements/gamma_absolute 0.570459 0.727273 0.852831 0.541619
+/muse/elements/theta_absolute 0.733078 -0.205736 -0.076836 0.158253
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5660377144813538, 0.550000011920929, 1.0, 0.057692307978868484]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6704545617103577, 0.27450981736183167, 0.49152541160583496, 0.5612244606018066]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.10526315867900848, 0.0, 0.0, 0.1269841343164444]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.9696969985961914, 0.2857142984867096, 0.6530612111091614, 0.24390244483947754]'
+/muse/eeg 848.809875 802.750427 829.070068 825.780151
+/muse/eeg 855.389771 801.105408 817.555237 835.650024
+/muse/acc -78.125122 980.470276 246.094131
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc -85.937637 976.564026 242.187881
+/muse/acc -89.843887 972.657776 238.281616
+/muse/acc -93.750145 968.751526 238.281616
+/muse/eeg 871.839600 814.265259 832.360046 852.099792
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 857.034729 799.460449 820.845215 838.940002
+/muse/eeg 842.229919 801.105408 810.975281 824.135132
+/muse/eeg 842.229919 812.620300 827.425110 819.200195
+/muse/eeg 848.809875 815.910278 830.715088 822.490173
+/muse/eeg 858.679749 830.715088 825.780151 834.005005
+/muse/eeg 852.099792 829.070068 842.229919 829.070068
+/muse/eeg 842.229919 817.555237 842.229919 822.490173
+/muse/eeg 861.969727 820.845215 853.744812 840.584961
+/muse/eeg 870.194580 830.715088 855.389771 850.454834
+/muse/eeg 860.324707 824.135132 845.519897 838.940002
+/muse/eeg 847.164856 804.395386 825.780151 834.005005
+/muse/eeg 832.360046 801.105408 815.910278 819.200195
+/muse/eeg 834.005005 804.395386 834.005005 817.555237
+/muse/eeg 832.360046 819.200195 827.425110 814.265259
+/muse/eeg 845.519897 822.490173 832.360046 830.715088
+/muse/acc -97.656403 968.751526 238.281616
+/muse/acc -101.562660 968.751526 238.281616
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc -105.468918 972.657776 238.281616
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/config'         
+	 Types: 's '         
+	 Payload: '['{"mac_addr":"000666A069D0","serial_number":"1160-UJMN-69D0","preset":"14","filters_enabled":true,"notch_frequency_hz":60,"battery_data_enabled":true,"compression_enabled":true,"eeg_sample_frequency_hz":3520,"eeg_output_frequency_hz":220,"eeg_channel_count":4,"eeg_samples_bitwidth":10,"eeg_channel_layout":"TP9 FP1 FP2 TP10 ","eeg_downsample":16,"afe_gain":1961,"battery_percent_remaining":53,"battery_millivolts":3777,"eeg_units":"EEG_MICROVOLTS","acc_units":"ACC_GFORCE","eeg_conversion_factor":1.644980342484907,"drlref_conversion_factor":3225.806451612903,"acc_conversion_factor":3.906256109482,"acc_sample_frequency_hz":50,"drlref_sample_frequency_hz":10,"acc_data_enabled":true,"drlref_data_enabled":true,"error_data_enabled":true}\n']'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/version'         
+	 Types: 's '         
+	 Payload: '['{"hardware_version":"16.0.0","firmware_headset_version":"7.2.7","firmware_bootloader_version":"7.2.7","firmware_type":"Research","build_number":41,"protocol_version":2}\n']'
+/muse/eeg 850.454834 817.555237 842.229919 838.940002
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 853.744812 783.010620 825.780151 842.229919
+/muse/eeg 848.809875 812.620300 829.070068 835.650024
+/muse/eeg 850.454834 830.715088 822.490173 835.650024
+/muse/elements/alpha_relative 0.183047 0.160329 0.215656 0.173961
+/muse/elements/beta_relative 0.180251 0.309090 0.351700 0.252274
+/muse/elements/delta_relative 0.234324 0.066724 0.054121 0.251339
+/muse/elements/gamma_relative 0.163956 0.418729 0.339323 0.228081
+/muse/elements/theta_relative 0.238422 0.045128 0.039200 0.094346
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 0 1 1 0
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.030360 0.158968 0.288132 0.722210
+/muse/elements/alpha_absolute 0.618295 0.315340 0.651911 0.423981
+/muse/elements/beta_absolute 0.611610 0.600413 0.864322 0.585402
+/muse/elements/delta_absolute 0.725549 -0.065393 0.051519 0.583789
+/muse/elements/gamma_absolute 0.570459 0.732261 0.848764 0.541619
+/muse/elements/theta_absolute 0.733078 -0.235230 -0.088563 0.158253
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5660377144813538, 0.5166666507720947, 1.0, 0.057692307978868484]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6704545617103577, 0.27450981736183167, 0.43220338225364685, 0.5612244606018066]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.10526315867900848, 0.0, 0.0, 0.1269841343164444]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.9696969985961914, 0.2380952388048172, 0.6326530575752258, 0.24390244483947754]'
+/muse/eeg 852.099792 807.685364 814.265259 845.519897
+/muse/eeg 850.454834 801.105408 827.425110 838.940002
+/muse/eeg 845.519897 802.750427 838.940002 834.005005
+/muse/eeg 837.294983 824.135132 848.809875 825.780151
+/muse/eeg 850.454834 834.005005 837.294983 837.294983
+/muse/eeg 845.519897 819.200195 815.910278 834.005005
+/muse/eeg 843.874939 804.395386 819.200195 830.715088
+/muse/eeg 842.229919 815.910278 847.164856 827.425110
+/muse/eeg 835.650024 806.040344 838.940002 824.135132
+/muse/eeg 840.584961 810.975281 832.360046 827.425110
+/muse/eeg 853.744812 812.620300 824.135132 838.940002
+/muse/eeg 850.454834 810.975281 829.070068 835.650024
+/muse/acc -109.375168 976.564026 242.187881
+/muse/acc -113.281425 972.657776 242.187881
+/muse/acc -113.281425 972.657776 242.187881
+/muse/acc -121.093941 972.657776 238.281616
+/muse/eeg 840.584961 809.330322 838.940002 825.780151
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 843.874939 812.620300 853.744812 830.715088
+/muse/eeg 843.874939 812.620300 838.940002 830.715088
+/muse/eeg 845.519897 829.070068 829.070068 835.650024
+/muse/eeg 840.584961 824.135132 834.005005 832.360046
+/muse/eeg 830.715088 809.330322 817.555237 820.845215
+/muse/eeg 842.229919 806.040344 820.845215 832.360046
+/muse/eeg 840.584961 801.105408 820.845215 830.715088
+/muse/eeg 838.940002 814.265259 825.780151 824.135132
+/muse/eeg 850.454834 815.910278 824.135132 837.294983
+/muse/elements/alpha_relative 0.097605 0.173023 0.219917 0.142723
+/muse/elements/beta_relative 0.379448 0.304833 0.358466 0.293921
+/muse/elements/delta_relative 0.284418 0.067555 0.046991 0.278535
+/muse/elements/gamma_relative 0.178196 0.410670 0.335248 0.145945
+/muse/elements/theta_relative 0.060332 0.043919 0.039378 0.138875
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 0.737552 0.165077 0.255992 0.892690
+/muse/elements/alpha_absolute 0.189521 0.356007 0.661892 0.426622
+/muse/elements/beta_absolute 0.779199 0.601966 0.874081 0.740357
+/muse/elements/delta_absolute 0.654004 -0.052438 -0.008350 0.717007
+/muse/elements/gamma_absolute 0.450945 0.731396 0.845000 0.436316
+/muse/elements/theta_absolute -0.019404 -0.239445 -0.085114 0.414751
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.5833333134651184, 1.0, 0.057692307978868484]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.13513512909412384, 0.0, 0.0, 0.11363636702299118]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5909090638160706, 0.2970297038555145, 0.3813559412956238, 0.6938775777816772]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.2380952388048172, 0.6326530575752258, 0.5487805008888245]'
+/muse/eeg 852.099792 815.910278 835.650024 837.294983
+/muse/eeg 835.650024 799.460449 830.715088 822.490173
+/muse/eeg 835.650024 784.655640 822.490173 825.780151
+/muse/eeg 837.294983 802.750427 827.425110 827.425110
+/muse/eeg 834.005005 812.620300 832.360046 822.490173
+/muse/eeg 830.715088 820.845215 829.070068 812.620300
+/muse/acc -121.093941 968.751526 234.375366
+/muse/drlref 1625806.500000 1645161.250000
+/muse/acc -121.093941 960.939026 238.281616
+/muse/acc -121.093941 968.751526 238.281616
+/muse/eeg 829.070068 814.265259 817.555237 815.910278
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 829.070068 820.845215 824.135132 810.975281
+/muse/eeg 837.294983 812.620300 827.425110 822.490173
+/muse/eeg 843.874939 802.750427 825.780151 830.715088
+/muse/eeg 845.519897 819.200195 827.425110 834.005005
+/muse/eeg 850.454834 814.265259 819.200195 837.294983
+/muse/eeg 829.070068 814.265259 830.715088 819.200195
+/muse/eeg 819.200195 814.265259 845.519897 804.395386
+/muse/eeg 835.650024 806.040344 848.809875 820.845215
+/muse/eeg 830.715088 791.235535 829.070068 824.135132
+/muse/eeg 822.490173 806.040344 830.715088 815.910278
+/muse/eeg 835.650024 809.330322 852.099792 830.715088
+/muse/eeg 834.005005 799.460449 825.780151 825.780151
+/muse/eeg 832.360046 807.685364 822.490173 825.780151
+/muse/eeg 830.715088 809.330322 853.744812 824.135132
+/muse/eeg 822.490173 806.040344 852.099792 814.265259
+/muse/elements/alpha_relative 0.114329 0.190489 0.221782 0.155104
+/muse/elements/beta_relative 0.390855 0.301838 0.369576 0.301819
+/muse/elements/delta_relative 0.281333 0.069050 0.043130 0.281429
+/muse/elements/gamma_relative 0.160313 0.393928 0.325649 0.134383
+/muse/elements/theta_relative 0.053170 0.044694 0.039862 0.127265
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 0.762480 0.189461 0.246724 0.908679
+/muse/elements/alpha_absolute 0.296237 0.413400 0.673613 0.487902
+/muse/elements/beta_absolute 0.830096 0.613303 0.895390 0.777026
+/muse/elements/delta_absolute 0.687300 -0.027305 -0.037533 0.746649
+/muse/elements/gamma_absolute 0.443049 0.728946 0.840436 0.425626
+/muse/elements/theta_absolute -0.036252 -0.216218 -0.071752 0.401990
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.6833333373069763, 1.0, 0.19230769574642181]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.2702702581882477, 0.0, 0.0, 0.1818181872367859]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.625, 0.31683167815208435, 0.35593220591545105, 0.7244898080825806]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.2698412835597992, 0.6734693646430969, 0.5365853905677795]'
+/muse/acc -125.000198 972.657776 242.187881
+/muse/acc -125.000198 972.657776 238.281616
+/muse/acc -121.093941 968.751526 242.187881
+/muse/drlref 1625806.500000 1645161.250000
+/muse/acc -121.093941 968.751526 242.187881
+/muse/eeg 834.005005 807.685364 857.034729 827.425110
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 825.780151 786.300598 830.715088 820.845215
+/muse/eeg 822.490173 796.170471 810.975281 815.910278
+/muse/eeg 825.780151 786.300598 824.135132 817.555237
+/muse/eeg 827.425110 807.685364 847.164856 815.910278
+/muse/eeg 830.715088 810.975281 843.874939 819.200195
+/muse/eeg 840.584961 812.620300 835.650024 829.070068
+/muse/eeg 835.650024 815.910278 827.425110 824.135132
+/muse/eeg 840.584961 822.490173 824.135132 827.425110
+/muse/eeg 848.809875 819.200195 827.425110 834.005005
+/muse/eeg 837.294983 804.395386 835.650024 827.425110
+/muse/eeg 838.940002 789.590576 845.519897 827.425110
+/muse/eeg 829.070068 809.330322 838.940002 817.555237
+/muse/eeg 830.715088 797.815491 824.135132 817.555237
+/muse/eeg 842.229919 804.395386 820.845215 827.425110
+/muse/eeg 840.584961 815.910278 825.780151 830.715088
+/muse/acc -117.187683 968.751526 242.187881
+/muse/acc -113.281425 968.751526 242.187881
+/muse/acc -109.375168 968.751526 242.187881
+/muse/acc -105.468918 968.751526 242.187881
+/muse/eeg 827.425110 802.750427 838.940002 815.910278
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 829.070068 809.330322 842.229919 814.265259
+/muse/eeg 840.584961 794.525513 827.425110 829.070068
+/muse/eeg 847.164856 786.300598 812.620300 835.650024
+/muse/eeg 853.744812 797.815491 820.845215 843.874939
+/muse/eeg 834.005005 810.975281 815.910278 827.425110
+/muse/elements/alpha_relative 0.123257 0.198407 0.220222 0.164500
+/muse/elements/beta_relative 0.399375 0.302091 0.382611 0.309586
+/muse/elements/delta_relative 0.276264 0.071851 0.042273 0.279605
+/muse/elements/gamma_relative 0.152560 0.381139 0.314731 0.128513
+/muse/elements/theta_relative 0.048544 0.046512 0.040163 0.117795
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 0.774803 0.222391 0.254315 0.912059
+/muse/elements/alpha_absolute 0.353988 0.446730 0.681059 0.528998
+/muse/elements/beta_absolute 0.864557 0.629312 0.920957 0.803613
+/muse/elements/delta_absolute 0.704501 0.005606 -0.035742 0.759377
+/muse/elements/gamma_absolute 0.446618 0.730257 0.836138 0.421780
+/muse/elements/theta_absolute -0.050689 -0.183258 -0.057971 0.383958
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.056603774428367615, 0.7333333492279053, 1.0, 0.26923078298568726]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.3513513505458832, 0.0, 0.0, 0.25]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6477272510528564, 0.3465346395969391, 0.35593220591545105, 0.7448979616165161]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.30645161867141724, 0.6938775777816772, 0.5121951103210449]'
+/muse/eeg 834.005005 822.490173 832.360046 820.845215
+/muse/eeg 832.360046 806.040344 847.164856 815.910278
+/muse/eeg 827.425110 802.750427 835.650024 814.265259
+/muse/eeg 837.294983 819.200195 838.940002 825.780151
+/muse/eeg 834.005005 815.910278 829.070068 822.490173
+/muse/eeg 837.294983 801.105408 834.005005 820.845215
+/muse/eeg 843.874939 794.525513 820.845215 824.135132
+/muse/eeg 848.809875 799.460449 824.135132 830.715088
+/muse/eeg 845.519897 810.975281 835.650024 832.360046
+/muse/eeg 845.519897 796.170471 807.685364 837.294983
+/muse/acc -101.562660 972.657776 246.094131
+/muse/drlref 1629032.250000 1645161.250000
+/muse/acc -93.750145 972.657776 246.094131
+/muse/acc -85.937637 972.657776 246.094131
+/muse/eeg 848.809875 827.425110 814.265259 837.294983
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 843.874939 812.620300 837.294983 830.715088
+/muse/eeg 832.360046 824.135132 834.005005 814.265259
+/muse/eeg 832.360046 832.360046 848.809875 809.330322
+/muse/eeg 843.874939 814.265259 850.454834 820.845215
+/muse/eeg 853.744812 825.780151 834.005005 830.715088
+/muse/eeg 858.679749 827.425110 820.845215 838.940002
+/muse/eeg 845.519897 820.845215 814.265259 827.425110
+/muse/eeg 848.809875 814.265259 815.910278 820.845215
+/muse/eeg 852.099792 802.750427 815.910278 832.360046
+/muse/eeg 848.809875 812.620300 830.715088 829.070068
+/muse/eeg 853.744812 815.910278 842.229919 830.715088
+/muse/elements/alpha_relative 0.122625 0.207054 0.218065 0.169250
+/muse/elements/beta_relative 0.404585 0.300242 0.392984 0.317444
+/muse/elements/delta_relative 0.274834 0.074150 0.042571 0.274803
+/muse/elements/gamma_relative 0.152082 0.371372 0.306250 0.128126
+/muse/elements/theta_relative 0.045874 0.047182 0.040129 0.110377
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 0.781514 0.251897 0.264995 0.904032
+/muse/elements/alpha_absolute 0.363983 0.484005 0.686073 0.546896
+/muse/elements/beta_absolute 0.882414 0.645392 0.941861 0.820036
+/muse/elements/delta_absolute 0.714475 0.038035 -0.023398 0.757390
+/muse/elements/gamma_absolute 0.457482 0.737729 0.833563 0.426007
+/muse/elements/theta_absolute -0.063028 -0.158305 -0.049050 0.361248
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.07547169923782349, 0.800000011920929, 1.0, 0.2884615361690521]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.4054054021835327, 0.0, 0.0, 0.2954545319080353]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6590909361839294, 0.3861386179924011, 0.3644067943096161, 0.7319587469100952]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.0, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.35483869910240173, 0.7083333134651184, 0.4938271641731262]'
+/muse/eeg 865.259644 817.555237 824.135132 842.229919
+/muse/eeg 858.679749 820.845215 829.070068 834.005005
+/muse/eeg 857.034729 810.975281 834.005005 835.650024
+/muse/eeg 866.904663 825.780151 825.780151 847.164856
+/muse/acc -78.125122 972.657776 246.094131
+/muse/acc -70.312607 972.657776 250.000397
+/muse/acc -66.406357 976.564026 250.000397
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc -66.406357 976.564026 250.000397
+/muse/eeg 868.549622 834.005005 806.040344 845.519897
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 861.969727 824.135132 801.105408 837.294983
+/muse/eeg 858.679749 825.780151 814.265259 829.070068
+/muse/eeg 870.194580 814.265259 827.425110 843.874939
+/muse/eeg 871.839600 827.425110 842.229919 850.454834
+/muse/eeg 868.549622 835.650024 835.650024 847.164856
+/muse/eeg 871.839600 824.135132 829.070068 847.164856
+/muse/eeg 873.484558 809.330322 825.780151 853.744812
+/muse/eeg 860.324707 824.135132 825.780151 838.940002
+/muse/eeg 861.969727 820.845215 819.200195 837.294983
+/muse/eeg 865.259644 815.910278 815.910278 843.874939
+/muse/eeg 866.904663 829.070068 801.105408 838.940002
+/muse/eeg 871.839600 819.200195 815.910278 835.650024
+/muse/eeg 858.679749 830.715088 837.294983 820.845215
+/muse/eeg 873.484558 817.555237 852.099792 830.715088
+/muse/eeg 863.614685 802.750427 847.164856 830.715088
+/muse/eeg 847.164856 799.460449 825.780151 827.425110
+/muse/acc -62.500099 980.470276 250.000397
+/muse/acc -58.593842 976.564026 250.000397
+/muse/acc -54.687584 972.657776 250.000397
+/muse/acc -58.593842 972.657776 250.000397
+/muse/eeg 850.454834 810.975281 824.135132 838.940002
+/muse/elements/alpha_relative 0.122498 0.207948 0.216718 0.170465
+/muse/elements/beta_relative 0.400321 0.299382 0.396810 0.324108
+/muse/elements/delta_relative 0.280339 0.077515 0.042851 0.268960
+/muse/elements/gamma_relative 0.152421 0.368775 0.303385 0.131235
+/muse/elements/theta_relative 0.044421 0.046379 0.040236 0.105233
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 0.795970 0.276212 0.272255 0.890030
+/muse/elements/alpha_absolute 0.372537 0.501118 0.688619 0.548571
+/muse/elements/beta_absolute 0.886816 0.659388 0.951307 0.827625
+/muse/elements/delta_absolute 0.732090 0.072549 -0.015320 0.746623
+/muse/elements/gamma_absolute 0.467451 0.749924 0.834719 0.434984
+/muse/elements/theta_absolute -0.068001 -0.150519 -0.042660 0.339086
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.09433962404727936, 0.8333333134651184, 1.0, 0.3076923191547394]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.4054054021835327, 0.0, 0.0, 0.2954545319080353]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6818181872367859, 0.41584157943725586, 0.37288135290145874, 0.7216494679450989]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.03846153989434242, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.3709677457809448, 0.7291666865348816, 0.4691357910633087]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 852.099792 832.360046 829.070068 845.519897
+/muse/eeg 853.744812 806.040344 825.780151 850.454834
+/muse/eeg 847.164856 806.040344 827.425110 838.940002
+/muse/eeg 850.454834 824.135132 832.360046 840.584961
+/muse/eeg 843.874939 830.715088 825.780151 832.360046
+/muse/eeg 845.519897 825.780151 830.715088 829.070068
+/muse/eeg 853.744812 819.200195 835.650024 832.360046
+/muse/eeg 858.679749 810.975281 825.780151 842.229919
+/muse/eeg 857.034729 822.490173 838.940002 845.519897
+/muse/eeg 853.744812 825.780151 827.425110 837.294983
+/muse/eeg 848.809875 815.910278 814.265259 835.650024
+/muse/eeg 853.744812 804.395386 827.425110 838.940002
+/muse/eeg 848.809875 807.685364 830.715088 837.294983
+/muse/eeg 832.360046 815.910278 815.910278 817.555237
+/muse/eeg 838.940002 814.265259 809.330322 824.135132
+/muse/acc -62.500099 972.657776 253.906647
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc -62.500099 968.751526 257.812897
+/muse/acc -70.312607 968.751526 257.812897
+/muse/eeg 847.164856 819.200195 819.200195 834.005005
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 855.389771 812.620300 838.940002 845.519897
+/muse/eeg 848.809875 822.490173 837.294983 835.650024
+/muse/eeg 852.099792 812.620300 845.519897 840.584961
+/muse/eeg 847.164856 814.265259 835.650024 835.650024
+/muse/eeg 843.874939 810.975281 830.715088 830.715088
+/muse/eeg 848.809875 807.685364 824.135132 835.650024
+/muse/elements/alpha_relative 0.123778 0.208319 0.216051 0.171803
+/muse/elements/beta_relative 0.386951 0.297805 0.393888 0.327108
+/muse/elements/delta_relative 0.295186 0.083065 0.042976 0.264477
+/muse/elements/gamma_relative 0.150413 0.366382 0.305745 0.135855
+/muse/elements/theta_relative 0.043672 0.044430 0.041340 0.100757
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 0.824413 0.304215 0.279973 0.876112
+/muse/elements/alpha_absolute 0.387038 0.517451 0.688619 0.548571
+/muse/elements/beta_absolute 0.882052 0.672654 0.949436 0.828232
+/muse/elements/delta_absolute 0.764490 0.118140 -0.012706 0.735928
+/muse/elements/gamma_absolute 0.471680 0.762657 0.839422 0.446617
+/muse/elements/theta_absolute -0.065397 -0.153604 -0.029571 0.316818
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.11538461595773697, 0.8500000238418579, 1.0, 0.3076923191547394]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.4054054021835327, 0.0, 0.0, 0.3181818127632141]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7159090638160706, 0.4653465449810028, 0.3813559412956238, 0.7113401889801025]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.057692307978868484, 0.0, 0.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.35483869910240173, 0.75, 0.4375]'
+/muse/eeg 847.164856 827.425110 820.845215 825.780151
+/muse/eeg 848.809875 824.135132 824.135132 829.070068
+/muse/eeg 847.164856 804.395386 829.070068 824.135132
+/muse/eeg 843.874939 802.750427 830.715088 825.780151
+/muse/eeg 853.744812 820.845215 840.584961 832.360046
+/muse/eeg 853.744812 822.490173 842.229919 834.005005
+/muse/eeg 848.809875 822.490173 830.715088 824.135132
+/muse/eeg 852.099792 809.330322 825.780151 834.005005
+/muse/eeg 847.164856 807.685364 825.780151 827.425110
+/muse/acc -70.312607 968.751526 261.719147
+/muse/acc -78.125122 968.751526 265.625427
+/muse/acc -82.031380 972.657776 265.625427
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc -89.843887 972.657776 261.719147
+/muse/eeg 838.940002 810.975281 824.135132 815.910278
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 847.164856 817.555237 832.360046 825.780151
+/muse/eeg 863.614685 830.715088 824.135132 838.940002
+/muse/eeg 875.129517 820.845215 812.620300 853.744812
+/muse/eeg 855.389771 807.685364 814.265259 834.005005
+/muse/eeg 860.324707 814.265259 837.294983 835.650024
+/muse/eeg 861.969727 812.620300 852.099792 840.584961
+/muse/eeg 837.294983 791.235535 848.809875 820.845215
+/muse/eeg 829.070068 812.620300 847.164856 807.685364
+/muse/eeg 832.360046 812.620300 829.070068 806.040344
+/muse/eeg 824.135132 819.200195 822.490173 797.815491
+/muse/eeg 824.135132 822.490173 840.584961 796.170471
+/muse/eeg 812.620300 814.265259 822.490173 786.300598
+/muse/elements/alpha_relative 0.122106 0.206675 0.215285 0.172863
+/muse/elements/beta_relative 0.366513 0.297127 0.388417 0.326149
+/muse/elements/delta_relative 0.321320 0.093350 0.043683 0.263419
+/muse/elements/gamma_relative 0.144874 0.360344 0.309048 0.140760
+/muse/elements/theta_relative 0.045187 0.042503 0.043568 0.096809
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 0.871942 0.347576 0.296370 0.867446
+/muse/elements/alpha_absolute 0.394599 0.529796 0.688619 0.548571
+/muse/elements/beta_absolute 0.871949 0.687449 0.944903 0.824284
+/muse/elements/delta_absolute 0.814798 0.184621 -0.004087 0.731515
+/muse/elements/gamma_absolute 0.468851 0.771225 0.845630 0.459348
+/muse/elements/theta_absolute -0.037131 -0.157072 -0.005233 0.296784
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.13461539149284363, 0.8833333253860474, 1.0, 0.3076923191547394]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.37837839126586914, 0.01666666753590107, 0.0, 0.302325576543808]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7727272510528564, 0.5247524976730347, 0.38461539149284363, 0.7113401889801025]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.07692307978868484, 0.0, 0.015625]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.35483869910240173, 0.7916666865348816, 0.4124999940395355]'
+/muse/eeg 794.525513 814.265259 802.750427 769.850830
+/muse/eeg 797.815491 810.975281 804.395386 769.850830
+/muse/eeg 779.720703 824.135132 806.040344 746.821106
+/muse/acc -93.750145 964.845276 261.719147
+/muse/acc -97.656403 960.939026 261.719147
+/muse/acc -101.562660 964.845276 261.719147
+/muse/eeg 791.235535 801.105408 834.005005 759.980896
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 791.235535 817.555237 824.135132 761.625916
+/muse/eeg 792.880554 806.040344 814.265259 766.560852
+/muse/eeg 791.235535 801.105408 824.135132 769.850830
+/muse/eeg 799.460449 814.265259 830.715088 771.495789
+/muse/eeg 801.105408 807.685364 837.294983 773.140747
+/muse/eeg 807.685364 827.425110 837.294983 784.655640
+/muse/eeg 815.910278 822.490173 822.490173 794.525513
+/muse/eeg 817.555237 815.910278 817.555237 796.170471
+/muse/eeg 827.425110 802.750427 812.620300 809.330322
+/muse/eeg 824.135132 815.910278 815.910278 809.330322
+/muse/eeg 845.519897 827.425110 832.360046 829.070068
+/muse/eeg 834.005005 809.330322 824.135132 824.135132
+/muse/eeg 827.425110 799.460449 820.845215 817.555237
+/muse/eeg 825.780151 802.750427 812.620300 820.845215
+/muse/eeg 827.425110 807.685364 830.715088 817.555237
+/muse/acc -105.468918 968.751526 261.719147
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc -105.468918 968.751526 261.719147
+/muse/acc -105.468918 968.751526 265.625427
+/muse/acc -105.468918 964.845276 265.625427
+/muse/eeg 834.005005 799.460449 827.425110 822.490173
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 822.490173 796.170471 830.715088 810.975281
+/muse/eeg 832.360046 797.815491 822.490173 822.490173
+/muse/elements/alpha_relative 0.117784 0.200070 0.212426 0.177920
+/muse/elements/beta_relative 0.338481 0.298836 0.386932 0.316990
+/muse/elements/delta_relative 0.357190 0.109462 0.045475 0.269198
+/muse/elements/gamma_relative 0.135241 0.350134 0.309090 0.142828
+/muse/elements/theta_relative 0.051304 0.041499 0.046078 0.093064
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 0.940562 0.407478 0.323082 0.875460
+/muse/elements/alpha_absolute 0.400462 0.529796 0.688619 0.566662
+/muse/elements/beta_absolute 0.858912 0.704047 0.949045 0.817482
+/muse/elements/delta_absolute 0.882276 0.267877 0.019183 0.746509
+/muse/elements/gamma_absolute 0.460486 0.772849 0.851496 0.471250
+/muse/elements/theta_absolute 0.039526 -0.153350 0.024902 0.285220
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.1538461595773697, 0.8833333253860474, 1.0, 0.32692307233810425]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.3513513505458832, 0.05000000074505806, 0.0, 0.27906978130340576]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.8522727489471436, 0.6100000143051147, 0.41025641560554504, 0.7291666865348816]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.07692307978868484, 0.017241379246115685, 0.03125]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.35483869910240173, 0.8541666865348816, 0.4000000059604645]'
+/muse/eeg 834.005005 814.265259 829.070068 827.425110
+/muse/eeg 848.809875 824.135132 845.519897 835.650024
+/muse/eeg 842.229919 814.265259 840.584961 825.780151
+/muse/eeg 837.294983 804.395386 825.780151 822.490173
+/muse/eeg 834.005005 810.975281 814.265259 824.135132
+/muse/eeg 837.294983 812.620300 810.975281 827.425110
+/muse/eeg 829.070068 807.685364 810.975281 822.490173
+/muse/eeg 835.650024 806.040344 825.780151 825.780151
+/muse/eeg 848.809875 806.040344 820.845215 842.229919
+/muse/eeg 840.584961 797.815491 830.715088 835.650024
+/muse/eeg 838.940002 810.975281 840.584961 835.650024
+/muse/eeg 847.164856 815.910278 835.650024 838.940002
+/muse/eeg 852.099792 817.555237 830.715088 845.519897
+/muse/acc -109.375168 968.751526 265.625427
+/muse/acc -109.375168 964.845276 261.719147
+/muse/acc -109.375168 960.939026 261.719147
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc -109.375168 960.939026 261.719147
+/muse/eeg 832.360046 797.815491 827.425110 827.425110
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 837.294983 809.330322 840.584961 830.715088
+/muse/eeg 832.360046 809.330322 838.940002 829.070068
+/muse/eeg 829.070068 812.620300 835.650024 824.135132
+/muse/eeg 835.650024 832.360046 824.135132 830.715088
+/muse/eeg 840.584961 817.555237 817.555237 830.715088
+/muse/eeg 835.650024 815.910278 845.519897 822.490173
+/muse/eeg 835.650024 804.395386 835.650024 820.845215
+/muse/eeg 842.229919 789.590576 829.070068 820.845215
+/muse/elements/alpha_relative 0.112741 0.193601 0.206922 0.200034
+/muse/elements/beta_relative 0.305063 0.300970 0.393105 0.291655
+/muse/elements/delta_relative 0.393424 0.128442 0.047556 0.279173
+/muse/elements/gamma_relative 0.122629 0.335706 0.304454 0.136185
+/muse/elements/theta_relative 0.066143 0.041281 0.047962 0.092953
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.023320 0.470773 0.352897 0.916378
+/muse/elements/alpha_absolute 0.413054 0.527941 0.688619 0.646792
+/muse/elements/beta_absolute 0.845361 0.719555 0.967320 0.810557
+/muse/elements/delta_absolute 0.955832 0.349740 0.050018 0.791561
+/muse/elements/gamma_absolute 0.449563 0.766991 0.856333 0.479817
+/muse/elements/theta_absolute 0.181455 -0.143219 0.053708 0.313953
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.17307692766189575, 0.8833333253860474, 1.0, 0.47058823704719543]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.29729729890823364, 0.0833333358168602, 0.0, 0.27906978130340576]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.9318181872367859, 0.6899999976158142, 0.43103447556495667, 0.78125]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.057692307978868484, 0.017241379246115685, 0.046875]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.1764705926179886, 0.3709677457809448, 0.9166666865348816, 0.4375]'
+/muse/eeg 840.584961 815.910278 834.005005 822.490173
+/muse/eeg 853.744812 822.490173 829.070068 835.650024
+/muse/eeg 853.744812 812.620300 820.845215 832.360046
+/muse/eeg 847.164856 794.525513 802.750427 832.360046
+/muse/eeg 843.874939 797.815491 809.330322 830.715088
+/muse/eeg 837.294983 812.620300 845.519897 820.845215
+/muse/eeg 835.650024 817.555237 853.744812 820.845215
+/muse/acc -109.375168 964.845276 265.625427
+/muse/acc -105.468918 964.845276 261.719147
+/muse/acc -105.468918 968.751526 261.719147
+/muse/eeg 840.584961 829.070068 852.099792 824.135132
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 857.034729 820.845215 838.940002 835.650024
+/muse/eeg 845.519897 822.490173 830.715088 829.070068
+/muse/eeg 837.294983 820.845215 830.715088 820.845215
+/muse/eeg 838.940002 814.265259 843.874939 824.135132
+/muse/eeg 842.229919 814.265259 845.519897 834.005005
+/muse/eeg 820.845215 810.975281 819.200195 807.685364
+/muse/eeg 820.845215 807.685364 815.910278 802.750427
+/muse/eeg 837.294983 794.525513 806.040344 827.425110
+/muse/eeg 835.650024 806.040344 810.975281 825.780151
+/muse/eeg 842.229919 807.685364 820.845215 832.360046
+/muse/eeg 834.005005 807.685364 827.425110 822.490173
+/muse/eeg 842.229919 801.105408 840.584961 815.910278
+/muse/eeg 838.940002 796.170471 827.425110 819.200195
+/muse/eeg 843.874939 817.555237 815.910278 820.845215
+/muse/elements/alpha_relative 0.142359 0.189591 0.199776 0.255540
+/muse/elements/beta_relative 0.258250 0.302915 0.405227 0.242296
+/muse/elements/delta_relative 0.405876 0.146243 0.049262 0.285407
+/muse/elements/gamma_relative 0.104139 0.319751 0.296843 0.115591
+/muse/elements/theta_relative 0.089375 0.041500 0.048891 0.101167
+/muse/elements/horseshoe 1.000000 1.000000 1.000000 1.000000
+/muse/elements/is_good 1 1 1 1
+/muse/elements/raw_fft0
+/muse/elements/raw_fft1
+/muse/elements/raw_fft2
+/muse/elements/raw_fft3
+/muse/elements/low_freqs_absolute 1.115817 0.523685 0.379978 1.007199
+/muse/elements/alpha_absolute 0.574377 0.527941 0.688619 0.827425
+/muse/elements/beta_absolute 0.833032 0.731443 0.995773 0.804313
+/muse/elements/delta_absolute 1.029385 0.415196 0.080586 0.875431
+/muse/elements/gamma_absolute 0.438603 0.754933 0.860602 0.482890
+/muse/elements/theta_absolute 0.372208 -0.131828 0.077304 0.425006
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.48076921701431274, 0.8833333253860474, 1.0, 0.8235294222831726]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.2702702581882477, 0.10000000149011612, 0.0810810774564743, 0.25581395626068115]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.75, 0.4568965435028076, 0.8645833134651184]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.0, 0.03846153989434242, 0.03448275849223137, 0.046875]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.45588234066963196, 0.4032258093357086, 0.9791666865348816, 0.574999988079071]'
+/muse/eeg 832.360046 820.845215 812.620300 812.620300
+/muse/acc -97.656403 964.845276 265.625427
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc -93.750145 964.845276 265.625427
+/muse/acc -89.843887 964.845276 265.625427
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/config'         
+	 Types: 's '         
+	 Payload: '['{"mac_addr":"000666A069D0","serial_number":"1160-UJMN-69D0","preset":"14","filters_enabled":true,"notch_frequency_hz":60,"battery_data_enabled":true,"compression_enabled":true,"eeg_sample_frequency_hz":3520,"eeg_output_frequency_hz":220,"eeg_channel_count":4,"eeg_samples_bitwidth":10,"eeg_channel_layout":"TP9 FP1 FP2 TP10 ","eeg_downsample":16,"afe_gain":1961,"battery_percent_remaining":53,"battery_millivolts":3777,"eeg_units":"EEG_MICROVOLTS","acc_units":"ACC_GFORCE","eeg_conversion_factor":1.644980342484907,"drlref_conversion_factor":3225.806451612903,"acc_conversion_factor":3.906256109482,"acc_sample_frequency_hz":50,"drlref_sample_frequency_hz":10,"acc_data_enabled":true,"drlref_data_enabled":true,"error_data_enabled":true}\n']'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/version'         
+	 Types: 's '         
+	 Payload: '['{"hardware_version":"16.0.0","firmware_headset_version":"7.2.7","firmware_bootloader_version":"7.2.7","firmware_type":"Research","build_number":41,"protocol_version":2}\n']'
+/muse/acc -89.843887 964.845276 265.625427
+/muse/eeg 822.490173 829.070068 838.940002 806.040344
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 822.490173 814.265259 837.294983 802.750427
+/muse/eeg 832.360046 812.620300 834.005005 812.620300
+/muse/eeg 848.809875 810.975281 819.200195 830.715088
+/muse/eeg 848.809875 809.330322 825.780151 830.715088
+/muse/eeg 838.940002 812.620300 847.164856 817.555237
+/muse/eeg 830.715088 810.975281 842.229919 814.265259
+/muse/eeg 832.360046 797.815491 812.620300 814.265259
+/muse/eeg 830.715088 807.685364 814.265259 814.265259
+/muse/eeg 827.425110 814.265259 827.425110 810.975281
+/muse/eeg 830.715088 812.620300 827.425110 814.265259
+/muse/eeg 847.164856 807.685364 850.454834 832.360046
+/muse/eeg 838.940002 802.750427 830.715088 822.490173
+/muse/eeg 824.135132 814.265259 829.070068 814.265259
+/muse/eeg 837.294983 799.460449 838.940002 825.780151
+/muse/eeg 838.940002 815.910278 829.070068 822.490173
+/muse/eeg 837.294983 810.975281 827.425110 822.490173
+/muse/acc -82.031380 964.845276 265.625427
+/muse/acc -78.125122 968.751526 269.531677
+/muse/acc -74.218864 972.657776 269.531677
+/muse/drlref 1625806.500000 1641935.500000

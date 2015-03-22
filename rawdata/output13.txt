@@ -1,0 +1,4073 @@
+/muse/acc 273.437927 878.907654 371.094330
+/muse/eeg 852.099792 825.780151 827.425110 825.780151
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 848.809875 830.715088 830.715088 825.780151
+/muse/eeg 850.454834 806.040344 838.940002 835.650024
+/muse/eeg 850.454834 814.265259 853.744812 837.294983
+/muse/eeg 838.940002 814.265259 850.454834 829.070068
+/muse/eeg 845.519897 814.265259 837.294983 830.715088
+/muse/eeg 857.034729 817.555237 838.940002 842.229919
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.20924042165279388, 0.12092046439647675, 0.03817795589566231, 0.14475451409816742]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.45435231924057007, 0.44726040959358215, 0.635075032711029, 0.3976711630821228]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.12510642409324646, 0.09114126861095428, 0.05960601940751076, 0.14618462324142456]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.0950176939368248, 0.2651631236076355, 0.22940537333488464, 0.1390022337436676]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.11628315597772598, 0.07551472634077072, 0.037735626101493835, 0.17238746583461761]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[0, 1, 1, 0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.868278980255127]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.3712386190891266]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.6593109965324402, 0.5563790202140808, 0.529576301574707, 0.7013524770736694]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.5972380638122559, 0.4170578718185425, 0.12309026718139648, 0.35877686738967896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.9339852333068848, 0.985118567943573, 1.3441026210784912, 0.7976688742637634]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3738721013069153, 0.29427313804626465, 0.31656771898269653, 0.36304643750190735]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.2543970048427582, 0.7580711841583252, 0.9018811583518982, 0.34116655588150024]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3421092927455902, 0.21258974075317383, 0.1180291548371315, 0.4346504509449005]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7317073345184326, 1.0, 0.7241379022598267, 0.7843137383460999]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.7966101765632629, 1.0, 0.8870967626571655]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5507246255874634, 0.976190447807312, 1.0, 0.6212121248245239]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.23333333432674408, 0.6415094137191772, 0.59375, 0.5441176295280457]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.3333333432674408, 1.0, 1.0, 0.7599999904632568]'
+/muse/eeg 850.454834 814.265259 842.229919 835.650024
+/muse/eeg 838.940002 830.715088 845.519897 824.135132
+/muse/eeg 847.164856 809.330322 835.650024 830.715088
+/muse/eeg 842.229919 820.845215 840.584961 825.780151
+/muse/eeg 837.294983 824.135132 832.360046 822.490173
+/muse/eeg 837.294983 825.780151 838.940002 820.845215
+/muse/eeg 837.294983 822.490173 840.584961 820.845215
+/muse/eeg 847.164856 819.200195 825.780151 827.425110
+/muse/eeg 847.164856 806.040344 842.229919 827.425110
+/muse/acc 265.625427 871.095093 367.188080
+/muse/acc 257.812897 863.282593 367.188080
+/muse/drlref 1629032.250000 1645161.250000
+/muse/acc 250.000397 871.095093 367.188080
+/muse/acc 238.281616 890.626404 367.188080
+/muse/eeg 842.229919 799.460449 845.519897 824.135132
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 840.584961 824.135132 845.519897 822.490173
+/muse/eeg 837.294983 812.620300 848.809875 819.200195
+/muse/eeg 830.715088 809.330322 838.940002 815.910278
+/muse/eeg 838.940002 809.330322 835.650024 824.135132
+/muse/eeg 838.940002 807.685364 830.715088 822.490173
+/muse/eeg 829.070068 827.425110 835.650024 810.975281
+/muse/eeg 835.650024 820.845215 834.005005 819.200195
+/muse/eeg 848.809875 817.555237 817.555237 830.715088
+/muse/eeg 850.454834 814.265259 835.650024 835.650024
+/muse/eeg 834.005005 809.330322 832.360046 819.200195
+/muse/eeg 855.389771 807.685364 835.650024 830.715088
+/muse/eeg 853.744812 834.005005 845.519897 834.005005
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.20924042165279388, 0.12161564826965332, 0.03898322954773903, 0.14475451409816742]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.45435231924057007, 0.4515814483165741, 0.6282288432121277, 0.3976711630821228]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.12510642409324646, 0.08828791975975037, 0.062305837869644165, 0.14618462324142456]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.0950176939368248, 0.26535269618034363, 0.23350496590137482, 0.1390022337436676]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.11628315597772598, 0.0731622576713562, 0.0369771346449852, 0.17238746583461761]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[0, 1, 1, 0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.8580707311630249]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.3838973939418793]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.6593109965324402, 0.5360797643661499, 0.529087245464325, 0.7013524770736694]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.5972380638122559, 0.4130306839942932, 0.12309026718139648, 0.35877686738967896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.9339852333068848, 0.9827773571014404, 1.3303303718566895, 0.7976688742637634]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3738721013069153, 0.2739425301551819, 0.32674118876457214, 0.36304643750190735]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.2543970048427582, 0.7518647313117981, 0.9005085825920105, 0.34116655588150024]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3421092927455902, 0.1923283487558365, 0.10014569759368896, 0.4346504509449005]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7317073345184326, 1.0, 0.7241379022598267, 0.7843137383460999]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.7966101765632629, 1.0, 0.8870967626571655]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5507246255874634, 0.9523809552192688, 1.0, 0.6212121248245239]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.23333333432674408, 0.6226415038108826, 0.5806451439857483, 0.5441176295280457]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.3333333432674408, 0.96875, 0.9722222089767456, 0.7599999904632568]'
+/muse/eeg 832.360046 815.910278 838.940002 812.620300
+/muse/eeg 827.425110 809.330322 848.809875 799.460449
+/muse/eeg 817.555237 810.975281 830.715088 794.525513
+/muse/acc 234.375366 902.345154 367.188080
+/muse/acc 238.281616 910.157654 367.188080
+/muse/acc 246.094131 910.157654 371.094330
+/muse/eeg 810.975281 809.330322 842.229919 791.235535
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 794.525513 809.330322 837.294983 778.075684
+/muse/eeg 768.205811 817.555237 820.845215 753.401001
+/muse/eeg 758.335938 815.910278 829.070068 736.951172
+/muse/eeg 753.401001 799.460449 827.425110 725.436340
+/muse/eeg 758.335938 820.845215 824.135132 732.016235
+/muse/eeg 753.401001 799.460449 824.135132 730.371277
+/muse/eeg 758.335938 802.750427 824.135132 728.726318
+/muse/eeg 769.850830 802.750427 810.975281 740.241150
+/muse/eeg 768.205811 815.910278 819.200195 741.886108
+/muse/eeg 774.785767 830.715088 827.425110 756.690979
+/muse/eeg 779.720703 837.294983 824.135132 758.335938
+/muse/eeg 786.300598 815.910278 799.460449 755.045959
+/muse/eeg 797.815491 810.975281 815.910278 766.560852
+/muse/eeg 807.685364 802.750427 829.070068 779.720703
+/muse/eeg 817.555237 812.620300 830.715088 794.525513
+/muse/acc 246.094131 914.063904 371.094330
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc 246.094131 906.251404 367.188080
+/muse/acc 246.094131 894.532654 363.281830
+/muse/acc 242.187881 886.720154 363.281830
+/muse/eeg 812.620300 827.425110 834.005005 789.590576
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 810.975281 812.620300 834.005005 787.945557
+/muse/eeg 824.135132 820.845215 832.360046 802.750427
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.20924042165279388, 0.12301633507013321, 0.04022056236863136, 0.14475451409816742]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.45435231924057007, 0.45509493350982666, 0.6209691762924194, 0.3976711630821228]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.12510642409324646, 0.08380956947803497, 0.06432392448186874, 0.14618462324142456]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.0950176939368248, 0.2665238380432129, 0.23907352983951569, 0.1390022337436676]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.11628315597772598, 0.07155533134937286, 0.03541279584169388, 0.17238746583461761]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[0, 1, 1, 0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.8478624224662781]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.39655616879463196]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.6593109965324402, 0.5045002102851868, 0.5152900218963623, 0.7013524770736694]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.5972380638122559, 0.4031101167201996, 0.12088311463594437, 0.35877686738967896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.9339852333068848, 0.9712493419647217, 1.3095049858093262, 0.7976688742637634]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3738721013069153, 0.23644091188907623, 0.3248074948787689, 0.36304643750190735]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.2543970048427582, 0.738883376121521, 0.8949664831161499, 0.34116655588150024]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3421092927455902, 0.1677893102169037, 0.06559516489505768, 0.4346504509449005]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7317073345184326, 1.0, 0.7241379022598267, 0.7843137383460999]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.7796609997749329, 1.0, 0.8870967626571655]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5507246255874634, 0.9047619104385376, 1.0, 0.6212121248245239]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.23333333432674408, 0.5882353186607361, 0.5645161271095276, 0.5441176295280457]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.3333333432674408, 0.9375, 0.9166666865348816, 0.7599999904632568]'
+/muse/eeg 822.490173 806.040344 819.200195 802.750427
+/muse/eeg 834.005005 817.555237 837.294983 809.330322
+/muse/eeg 830.715088 825.780151 822.490173 806.040344
+/muse/eeg 834.005005 820.845215 809.330322 807.685364
+/muse/eeg 847.164856 801.105408 827.425110 820.845215
+/muse/eeg 832.360046 820.845215 829.070068 806.040344
+/muse/eeg 832.360046 824.135132 842.229919 804.395386
+/muse/eeg 847.164856 827.425110 843.874939 822.490173
+/muse/eeg 845.519897 824.135132 834.005005 822.490173
+/muse/eeg 843.874939 792.880554 825.780151 817.555237
+/muse/eeg 843.874939 796.170471 815.910278 819.200195
+/muse/eeg 847.164856 801.105408 829.070068 822.490173
+/muse/eeg 850.454834 822.490173 843.874939 822.490173
+/muse/eeg 852.099792 822.490173 820.845215 825.780151
+/muse/acc 234.375366 878.907654 359.375549
+/muse/acc 222.656601 875.001343 359.375549
+/muse/drlref 1625806.500000 1641935.500000
+/muse/acc 218.750336 875.001343 363.281830
+/muse/acc 214.844086 886.720154 363.281830
+/muse/eeg 860.324707 825.780151 815.910278 827.425110
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 848.809875 837.294983 824.135132 822.490173
+/muse/eeg 837.294983 817.555237 810.975281 817.555237
+/muse/eeg 852.099792 822.490173 834.005005 830.715088
+/muse/eeg 857.034729 819.200195 850.454834 838.940002
+/muse/eeg 860.324707 832.360046 837.294983 838.940002
+/muse/eeg 853.744812 822.490173 822.490173 832.360046
+/muse/eeg 853.744812 817.555237 824.135132 840.584961
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.20924042165279388, 0.12473724782466888, 0.04339434206485748, 0.14475451409816742]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.45435231924057007, 0.45865878462791443, 0.6121598482131958, 0.3976711630821228]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.12510642409324646, 0.07757661491632462, 0.0659475177526474, 0.14618462324142456]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.0950176939368248, 0.2678259313106537, 0.2453831285238266, 0.1390022337436676]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.11628315597772598, 0.07120140641927719, 0.03311513736844063, 0.17238746583461761]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[0, 1, 1, 0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.837654173374176]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.40921494364738464]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.6593109965324402, 0.46271800994873047, 0.49028077721595764, 0.7013524770736694]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.5972380638122559, 0.38617539405822754, 0.13180391490459442, 0.35877686738967896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.9339852333068848, 0.9516689777374268, 1.281235694885254, 0.7976688742637634]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3738721013069153, 0.1799100786447525, 0.3135692775249481, 0.36304643750190735]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.2543970048427582, 0.7180318832397461, 0.8842155337333679, 0.34116655588150024]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3421092927455902, 0.14266781508922577, 0.014397360384464264, 0.4346504509449005]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7317073345184326, 0.9523809552192688, 0.7413793206214905, 0.7843137383460999]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.7457627058029175, 1.0, 0.8870967626571655]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5507246255874634, 0.8452380895614624, 1.0, 0.6212121248245239]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.23333333432674408, 0.5490196347236633, 0.5409836173057556, 0.5441176295280457]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.3333333432674408, 0.890625, 0.8472222089767456, 0.7599999904632568]'
+/muse/eeg 857.034729 801.105408 809.330322 837.294983
+/muse/eeg 848.809875 796.170471 824.135132 827.425110
+/muse/eeg 855.389771 809.330322 832.360046 830.715088
+/muse/eeg 855.389771 806.040344 840.584961 830.715088
+/muse/eeg 852.099792 829.070068 835.650024 827.425110
+/muse/eeg 852.099792 817.555237 834.005005 832.360046
+/muse/eeg 853.744812 845.519897 850.454834 830.715088
+/muse/eeg 858.679749 825.780151 824.135132 837.294983
+/muse/acc 214.844086 898.438904 367.188080
+/muse/acc 222.656601 910.157654 371.094330
+/muse/acc 230.469116 914.063904 371.094330
+/muse/eeg 855.389771 814.265259 824.135132 834.005005
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 865.259644 814.265259 834.005005 843.874939
+/muse/eeg 868.549622 817.555237 832.360046 843.874939
+/muse/eeg 857.034729 806.040344 827.425110 838.940002
+/muse/eeg 837.294983 789.590576 820.845215 825.780151
+/muse/eeg 847.164856 819.200195 835.650024 829.070068
+/muse/eeg 852.099792 815.910278 845.519897 837.294983
+/muse/eeg 829.070068 812.620300 835.650024 812.620300
+/muse/eeg 840.584961 819.200195 845.519897 820.845215
+/muse/eeg 857.034729 820.845215 822.490173 840.584961
+/muse/eeg 860.324707 815.910278 812.620300 845.519897
+/muse/eeg 855.389771 840.584961 843.874939 834.005005
+/muse/eeg 832.360046 806.040344 838.940002 815.910278
+/muse/eeg 838.940002 809.330322 830.715088 824.135132
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.20924042165279388, 0.12567879259586334, 0.04706013947725296, 0.14475451409816742]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.45435231924057007, 0.4626613259315491, 0.6014355421066284, 0.3976711630821228]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.12510642409324646, 0.06989647448062897, 0.06876660883426666, 0.14618462324142456]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.0950176939368248, 0.269493967294693, 0.2518332004547119, 0.1390022337436676]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.11628315597772598, 0.07226945459842682, 0.030904509127140045, 0.17238746583461761]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[0, 1, 1, 0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.8274458646774292]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.42187371850013733]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.6593109965324402, 0.41643741726875305, 0.46652787923812866, 0.7013524770736694]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.5972380638122559, 0.362903892993927, 0.14061173796653748, 0.35877686738967896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.9339852333068848, 0.9289050698280334, 1.2471476793289185, 0.7976688742637634]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3738721013069153, 0.10809716582298279, 0.3053361475467682, 0.36304643750190735]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.2543970048427582, 0.6941909193992615, 0.8690714836120605, 0.34116655588150024]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3421092927455902, 0.12259668111801147, -0.04201960191130638, 0.4346504509449005]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7317073345184326, 0.9047619104385376, 0.7586206793785095, 0.7843137383460999]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.7118644118309021, 1.0, 0.8870967626571655]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5507246255874634, 0.761904776096344, 1.0, 0.6212121248245239]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.23333333432674408, 0.4901960790157318, 0.5166666507720947, 0.5441176295280457]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.3333333432674408, 0.859375, 0.7777777910232544, 0.7599999904632568]'
+/muse/eeg 853.744812 825.780151 855.389771 835.650024
+/muse/eeg 843.874939 812.620300 838.940002 822.490173
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 234.375366 914.063904 371.094330
+/muse/acc 242.187881 914.063904 371.094330
+/muse/acc 242.187881 906.251404 367.188080
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/config'         
+	 Types: 's '         
+	 Payload: '['{"mac_addr":"000666A069D0","serial_number":"1160-UJMN-69D0","preset":"14","filters_enabled":true,"notch_frequency_hz":60,"battery_data_enabled":true,"compression_enabled":true,"eeg_sample_frequency_hz":3520,"eeg_output_frequency_hz":220,"eeg_channel_count":4,"eeg_samples_bitwidth":10,"eeg_channel_layout":"TP9 FP1 FP2 TP10 ","eeg_downsample":16,"afe_gain":1961,"battery_percent_remaining":48,"battery_millivolts":3755,"eeg_units":"EEG_MICROVOLTS","acc_units":"ACC_GFORCE","eeg_conversion_factor":1.644980342484907,"drlref_conversion_factor":3225.806451612903,"acc_conversion_factor":3.906256109482,"acc_sample_frequency_hz":50,"drlref_sample_frequency_hz":10,"acc_data_enabled":true,"drlref_data_enabled":true,"error_data_enabled":true}\n']'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/version'         
+	 Types: 's '         
+	 Payload: '['{"hardware_version":"16.0.0","firmware_headset_version":"7.2.7","firmware_bootloader_version":"7.2.7","firmware_type":"Research","build_number":41,"protocol_version":2}\n']'
+/muse/acc 238.281616 898.438904 367.188080
+/muse/eeg 840.584961 822.490173 834.005005 812.620300
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 845.519897 812.620300 832.360046 815.910278
+/muse/eeg 861.969727 812.620300 829.070068 830.715088
+/muse/eeg 855.389771 812.620300 812.620300 824.135132
+/muse/eeg 852.099792 801.105408 812.620300 817.555237
+/muse/eeg 860.324707 819.200195 827.425110 827.425110
+/muse/eeg 860.324707 825.780151 843.874939 825.780151
+/muse/eeg 860.324707 810.975281 837.294983 832.360046
+/muse/eeg 843.874939 810.975281 845.519897 825.780151
+/muse/eeg 829.070068 804.395386 840.584961 822.490173
+/muse/eeg 838.940002 806.040344 838.940002 829.070068
+/muse/eeg 842.229919 820.845215 832.360046 834.005005
+/muse/eeg 843.874939 802.750427 820.845215 838.940002
+/muse/eeg 835.650024 809.330322 820.845215 824.135132
+/muse/eeg 838.940002 814.265259 840.584961 825.780151
+/muse/eeg 842.229919 824.135132 857.034729 824.135132
+/muse/acc 238.281616 890.626404 363.281830
+/muse/acc 230.469116 875.001343 363.281830
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 230.469116 871.095093 363.281830
+/muse/eeg 860.324707 819.200195 857.034729 835.650024
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 868.549622 827.425110 850.454834 843.874939
+/muse/eeg 842.229919 810.975281 815.910278 817.555237
+/muse/eeg 850.454834 802.750427 830.715088 822.490173
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.20924042165279388, 0.12304211407899857, 0.05506468191742897, 0.14475451409816742]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.45435231924057007, 0.46711114048957825, 0.5861756801605225, 0.3976711630821228]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.12510642409324646, 0.06272651255130768, 0.07446448504924774, 0.14618462324142456]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.0950176939368248, 0.27305328845977783, 0.25486230850219727, 0.1390022337436676]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.11628315597772598, 0.07406695187091827, 0.029432862997055054, 0.17238746583461761]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[0, 1, 1, 0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.8172375559806824]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.43453249335289]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.6593109965324402, 0.375442773103714, 0.46060046553611755, 0.7013524770736694]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.5972380638122559, 0.3294312059879303, 0.18486915528774261, 0.35877686738967896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.9339852333068848, 0.9087976217269897, 1.2120238542556763, 0.7976688742637634]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3738721013069153, 0.03682854399085045, 0.31594520807266235, 0.36304643750190735]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.2543970048427582, 0.6756248474121094, 0.8503016233444214, 0.34116655588150024]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3421092927455902, 0.10900191962718964, -0.08717145770788193, 0.4346504509449005]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7317073345184326, 0.8333333134651184, 0.8421052694320679, 0.7843137383460999]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.6779661178588867, 0.9830508232116699, 0.8870967626571655]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5507246255874634, 0.6666666865348816, 1.0, 0.6212121248245239]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.23333333432674408, 0.4583333432674408, 0.49152541160583496, 0.5441176295280457]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.3333333432674408, 0.84375, 0.7083333134651184, 0.7599999904632568]'
+/muse/eeg 848.809875 812.620300 830.715088 822.490173
+/muse/eeg 847.164856 799.460449 809.330322 820.845215
+/muse/eeg 848.809875 814.265259 843.874939 830.715088
+/muse/eeg 838.940002 814.265259 838.940002 825.780151
+/muse/eeg 837.294983 806.040344 842.229919 824.135132
+/muse/eeg 850.454834 822.490173 861.969727 837.294983
+/muse/eeg 860.324707 824.135132 842.229919 845.519897
+/muse/eeg 853.744812 820.845215 835.650024 840.584961
+/muse/eeg 845.519897 827.425110 819.200195 825.780151
+/muse/eeg 837.294983 815.910278 825.780151 822.490173
+/muse/eeg 843.874939 824.135132 840.584961 825.780151
+/muse/eeg 843.874939 829.070068 835.650024 822.490173
+/muse/acc 226.562851 871.095093 367.188080
+/muse/acc 226.562851 886.720154 367.188080
+/muse/acc 230.469116 894.532654 375.000580
+/muse/acc 234.375366 906.251404 378.906830
+/muse/eeg 845.519897 796.170471 845.519897 824.135132
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 850.454834 809.330322 843.874939 824.135132
+/muse/eeg 858.679749 810.975281 837.294983 835.650024
+/muse/eeg 850.454834 817.555237 837.294983 832.360046
+/muse/eeg 842.229919 820.845215 837.294983 824.135132
+/muse/eeg 845.519897 827.425110 832.360046 825.780151
+/muse/eeg 850.454834 796.170471 822.490173 830.715088
+/muse/eeg 853.744812 806.040344 847.164856 835.650024
+/muse/eeg 848.809875 827.425110 865.259644 827.425110
+/muse/eeg 843.874939 801.105408 847.164856 825.780151
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.20924042165279388, 0.11723452061414719, 0.062306273728609085, 0.14475451409816742]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.45435231924057007, 0.4714767038822174, 0.5720914602279663, 0.3976711630821228]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.12510642409324646, 0.05695034936070442, 0.08343751728534698, 0.14618462324142456]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.0950176939368248, 0.279774010181427, 0.2532109320163727, 0.1390022337436676]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.11628315597772598, 0.07456441968679428, 0.028953811153769493, 0.17238746583461761]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[0, 1, 1, 0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.8070293068885803]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.4471912682056427]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.6593109965324402, 0.3410499691963196, 0.47531870007514954, 0.7013524770736694]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.5972380638122559, 0.291130930185318, 0.2191176861524582, 0.35877686738967896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.9339852333068848, 0.8955357074737549, 1.182051420211792, 0.7976688742637634]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3738721013069153, -0.022428175434470177, 0.345947265625, 0.36304643750190735]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.2543970048427582, 0.6688827872276306, 0.8280683755874634, 0.34116655588150024]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3421092927455902, 0.09460709244012833, -0.11370836943387985, 0.4346504509449005]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7317073345184326, 0.7317073345184326, 0.9122806787490845, 0.7843137383460999]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.6440678238868713, 0.9322034120559692, 0.8870967626571655]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5507246255874634, 0.6071428656578064, 1.0, 0.6212121248245239]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.23333333432674408, 0.4583333432674408, 0.4655172526836395, 0.5441176295280457]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.3333333432674408, 0.8125, 0.6666666865348816, 0.7599999904632568]'
+/muse/eeg 855.389771 812.620300 843.874939 832.360046
+/muse/eeg 840.584961 797.815491 814.265259 819.200195
+/muse/eeg 835.650024 820.845215 830.715088 815.910278
+/muse/eeg 845.519897 829.070068 847.164856 832.360046
+/muse/eeg 847.164856 827.425110 843.874939 838.940002
+/muse/eeg 837.294983 804.395386 820.845215 824.135132
+/muse/drlref 1629032.250000 1645161.250000
+/muse/acc 242.187881 914.063904 378.906830
+/muse/acc 250.000397 914.063904 378.906830
+/muse/acc 253.906647 910.157654 378.906830
+/muse/acc 257.812897 898.438904 375.000580
+/muse/eeg 842.229919 807.685364 815.910278 820.845215
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 847.164856 825.780151 850.454834 822.490173
+/muse/eeg 848.809875 812.620300 842.229919 822.490173
+/muse/eeg 837.294983 814.265259 843.874939 817.555237
+/muse/eeg 847.164856 819.200195 845.519897 832.360046
+/muse/eeg 837.294983 810.975281 827.425110 819.200195
+/muse/eeg 845.519897 814.265259 853.744812 822.490173
+/muse/eeg 853.744812 820.845215 829.070068 832.360046
+/muse/eeg 845.519897 820.845215 829.070068 825.780151
+/muse/eeg 843.874939 835.650024 843.874939 822.490173
+/muse/eeg 827.425110 810.975281 814.265259 806.040344
+/muse/eeg 829.070068 799.460449 842.229919 810.975281
+/muse/eeg 837.294983 806.040344 847.164856 819.200195
+/muse/eeg 825.780151 797.815491 837.294983 810.975281
+/muse/eeg 817.555237 812.620300 843.874939 797.815491
+/muse/eeg 840.584961 812.620300 837.294983 820.845215
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.20924042165279388, 0.11627759039402008, 0.06737727671861649, 0.14475451409816742]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.45435231924057007, 0.4742191731929779, 0.5630455017089844, 0.3976711630821228]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.12510642409324646, 0.05198114737868309, 0.0937165915966034, 0.14618462324142456]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.0950176939368248, 0.2867131233215332, 0.2469184249639511, 0.1390022337436676]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.11628315597772598, 0.07080895453691483, 0.028942223638296127, 0.17238746583461761]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[0, 1, 1, 0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.7968209981918335]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.4598500430583954]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.6593109965324402, 0.30363813042640686, 0.49873262643814087, 0.7013524770736694]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.5972380638122559, 0.27997079491615295, 0.23854732513427734, 0.35877686738967896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.9339852333068848, 0.8904538750648499, 1.1605772972106934, 0.7976688742637634]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3738721013069153, -0.0696793794631958, 0.38185033202171326, 0.36304643750190735]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.2543970048427582, 0.6719223260879517, 0.8025873303413391, 0.34116655588150024]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3421092927455902, 0.06456294655799866, -0.12843425571918488, 0.4346504509449005]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7317073345184326, 0.707317054271698, 0.9473684430122375, 0.7843137383460999]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.6440678238868713, 0.8965517282485962, 0.8870967626571655]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5507246255874634, 0.5476190447807312, 1.0, 0.6212121248245239]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.23333333432674408, 0.44680851697921753, 0.4035087823867798, 0.5441176295280457]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.3333333432674408, 0.765625, 0.6527777910232544, 0.7599999904632568]'
+/muse/acc 253.906647 898.438904 371.094330
+/muse/acc 253.906647 886.720154 367.188080
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 250.000397 871.095093 367.188080
+/muse/eeg 838.940002 817.555237 819.200195 827.425110
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 837.294983 802.750427 829.070068 829.070068
+/muse/eeg 824.135132 815.910278 850.454834 819.200195
+/muse/eeg 827.425110 814.265259 842.229919 817.555237
+/muse/eeg 842.229919 810.975281 843.874939 830.715088
+/muse/eeg 834.005005 807.685364 832.360046 829.070068
+/muse/eeg 847.164856 804.395386 832.360046 843.874939
+/muse/eeg 850.454834 822.490173 845.519897 840.584961
+/muse/eeg 829.070068 827.425110 840.584961 819.200195
+/muse/eeg 838.940002 807.685364 829.070068 824.135132
+/muse/eeg 832.360046 797.815491 806.040344 820.845215
+/muse/eeg 835.650024 809.330322 815.910278 832.360046
+/muse/eeg 847.164856 825.780151 852.099792 838.940002
+/muse/eeg 819.200195 812.620300 840.584961 810.975281
+/muse/eeg 832.360046 807.685364 825.780151 822.490173
+/muse/eeg 838.940002 822.490173 835.650024 825.780151
+/muse/acc 242.187881 863.282593 363.281830
+/muse/acc 238.281616 871.095093 367.188080
+/muse/acc 226.562851 890.626404 367.188080
+/muse/acc 234.375366 902.345154 371.094330
+/muse/eeg 834.005005 807.685364 842.229919 820.845215
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 842.229919 809.330322 842.229919 825.780151
+/muse/eeg 835.650024 807.685364 835.650024 822.490173
+/muse/eeg 845.519897 802.750427 835.650024 834.005005
+/muse/eeg 847.164856 822.490173 830.715088 837.294983
+/muse/eeg 847.164856 814.265259 834.005005 829.070068
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.14061810076236725, 0.1178436428308487, 0.07109301537275314, 0.14475451409816742]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.04225115105509758, 0.47912782430648804, 0.5589972734451294, 0.3976711630821228]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.5107287764549255, 0.04707229137420654, 0.10271511971950531, 0.14618462324142456]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.010313108563423157, 0.29355761408805847, 0.23870119452476501, 0.1390022337436676]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.2960888743400574, 0.062398623675107956, 0.028493402525782585, 0.17238746583461761]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.7856385707855225]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.47474905848503113]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[2.070953369140625, 0.24989823997020721, 0.5162965059280396, 0.7013524770736694]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.2819056510925293, 0.250161349773407, 0.35877686738967896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7900165319442749, 0.8910508751869202, 1.1457440853118896, 0.7976688742637634]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.872368335723877, -0.11663516610860825, 0.4099688231945038, 0.36304643750190735]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.17756754159927368, 0.6782928705215454, 0.7761890292167664, 0.34116655588150024]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.6356000900268555, 0.005774502642452717, -0.1469212770462036, 0.4346504509449005]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.707317054271698, 0.9649122953414917, 0.7843137383460999]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.7083333134651184, 0.6440678238868713, 0.8620689511299133, 0.8870967626571655]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.488095223903656, 1.0, 0.6212121248245239]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.11666666716337204, 0.4680851101875305, 0.3392857015132904, 0.5441176295280457]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.671875, 0.625, 0.7599999904632568]'
+/muse/eeg 845.519897 822.490173 827.425110 832.360046
+/muse/eeg 855.389771 809.330322 814.265259 845.519897
+/muse/eeg 837.294983 806.040344 827.425110 829.070068
+/muse/eeg 837.294983 830.715088 838.940002 824.135132
+/muse/eeg 848.809875 802.750427 837.294983 834.005005
+/muse/eeg 834.005005 804.395386 825.780151 817.555237
+/muse/eeg 838.940002 802.750427 815.910278 822.490173
+/muse/eeg 837.294983 812.620300 840.584961 822.490173
+/muse/eeg 850.454834 814.265259 847.164856 830.715088
+/muse/eeg 840.584961 817.555237 825.780151 822.490173
+/muse/eeg 847.164856 812.620300 817.555237 834.005005
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 242.187881 902.345154 375.000580
+/muse/acc 246.094131 910.157654 375.000580
+/muse/acc 250.000397 917.970215 375.000580
+/muse/acc 253.906647 914.063904 375.000580
+/muse/eeg 837.294983 806.040344 817.555237 825.780151
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 835.650024 819.200195 830.715088 824.135132
+/muse/eeg 847.164856 801.105408 853.744812 832.360046
+/muse/eeg 848.809875 797.815491 852.099792 830.715088
+/muse/eeg 853.744812 799.460449 837.294983 835.650024
+/muse/eeg 855.389771 832.360046 832.360046 827.425110
+/muse/eeg 850.454834 837.294983 845.519897 825.780151
+/muse/eeg 847.164856 829.070068 840.584961 830.715088
+/muse/eeg 840.584961 812.620300 804.395386 822.490173
+/muse/eeg 825.780151 804.395386 802.750427 814.265259
+/muse/eeg 834.005005 806.040344 829.070068 819.200195
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.14324167370796204, 0.10993450880050659, 0.07188345491886139, 0.11747026443481445]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.04182834550738335, 0.4934723973274231, 0.5573769211769104, 0.02883591316640377]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.515466570854187, 0.04192597419023514, 0.10967101156711578, 0.5717846155166626]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.010878768749535084, 0.30265703797340393, 0.2333715707063675, 0.008660726249217987]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.2885846197605133, 0.05201006680727005, 0.02769703045487404, 0.27324846386909485]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.7725077867507935]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.4914490580558777]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[2.0614335536956787, 0.17279888689517975, 0.5233232975006104, 2.1570324897766113]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.24110068380832672, 0.24206657707691193, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7776204943656921, 0.8932294845581055, 1.1315865516662598, 0.6900925636291504]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.8683502674102783, -0.17755021154880524, 0.42552945017814636, 1.9873913526535034]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.19272953271865845, 0.6809174418449402, 0.7534855604171753, 0.1677131950855255]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.6164230108261108, -0.08394594490528107, -0.17212916910648346, 1.6667165756225586]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.6097561120986938, 0.9473684430122375, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6666666865348816, 0.6440678238868713, 0.8421052694320679, 0.725806474685669]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.40963855385780334, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.13333334028720856, 0.45652174949645996, 0.30909091234207153, 0.29411765933036804]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.53125, 0.5972222089767456, 1.0]'
+/muse/eeg 834.005005 806.040344 830.715088 819.200195
+/muse/eeg 820.845215 783.010620 855.389771 812.620300
+/muse/eeg 827.425110 792.880554 857.034729 819.200195
+/muse/eeg 838.940002 847.164856 855.389771 827.425110
+/muse/eeg 850.454834 834.005005 847.164856 838.940002
+/muse/acc 257.812897 906.251404 375.000580
+/muse/acc 253.906647 894.532654 371.094330
+/muse/drlref 1629032.250000 1645161.250000
+/muse/acc 246.094131 882.813904 367.188080
+/muse/eeg 840.584961 837.294983 840.584961 827.425110
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 829.070068 804.395386 807.685364 810.975281
+/muse/eeg 835.650024 806.040344 825.780151 817.555237
+/muse/eeg 835.650024 796.170471 830.715088 815.910278
+/muse/eeg 834.005005 807.685364 830.715088 815.910278
+/muse/eeg 824.135132 810.975281 835.650024 814.265259
+/muse/eeg 834.005005 819.200195 837.294983 820.845215
+/muse/eeg 830.715088 837.294983 838.940002 814.265259
+/muse/eeg 832.360046 817.555237 838.940002 819.200195
+/muse/eeg 835.650024 801.105408 837.294983 824.135132
+/muse/eeg 843.874939 804.395386 845.519897 837.294983
+/muse/eeg 838.940002 825.780151 842.229919 829.070068
+/muse/eeg 837.294983 814.265259 840.584961 819.200195
+/muse/eeg 838.940002 810.975281 840.584961 822.490173
+/muse/eeg 840.584961 789.590576 825.780151 824.135132
+/muse/eeg 838.940002 819.200195 834.005005 820.845215
+/muse/acc 234.375366 867.188843 363.281830
+/muse/acc 230.469116 863.282593 359.375549
+/muse/acc 226.562851 878.907654 363.281830
+/muse/acc 230.469116 890.626404 367.188080
+/muse/eeg 835.650024 829.070068 815.910278 819.200195
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.15325243771076202, 0.1004871055483818, 0.0743078961968422, 0.12955911457538605]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.04337944835424423, 0.5098821520805359, 0.5502554178237915, 0.030665811151266098]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.5127705931663513, 0.03649124130606651, 0.11472678184509277, 0.563258171081543]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.012103420682251453, 0.31112271547317505, 0.2338767945766449, 0.009457854554057121]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.27849408984184265, 0.04201676324009895, 0.026833103969693184, 0.2670590281486511]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.7595325112342834]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.5081490874290466]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[2.0251336097717285, 0.08027227222919464, 0.5219718217849731, 2.106862783432007]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.18746864795684814, 0.24206657707691193, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7640958428382874, 0.8928281664848328, 1.1115959882736206, 0.6742732524871826]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.8367348909378052, -0.2524530291557312, 0.43069642782211304, 1.938326358795166]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.2097199261188507, 0.678290069103241, 0.7400187253952026, 0.1634114384651184]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.5716278553009033, -0.19121907651424408, -0.2002974897623062, 1.6142261028289795]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.4878048896789551, 0.9473684430122375, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6382978558540344, 0.6440678238868713, 0.8035714030265808, 0.6935483813285828]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.3253012001514435, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.1666666716337204, 0.46666666865348816, 0.290909081697464, 0.27941176295280457]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.375, 0.5555555820465088, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 838.940002 825.780151 810.975281 820.845215
+/muse/eeg 832.360046 817.555237 830.715088 812.620300
+/muse/eeg 838.940002 801.105408 837.294983 815.910278
+/muse/eeg 840.584961 807.685364 848.809875 822.490173
+/muse/eeg 845.519897 822.490173 848.809875 834.005005
+/muse/eeg 850.454834 820.845215 842.229919 838.940002
+/muse/eeg 850.454834 796.170471 822.490173 838.940002
+/muse/eeg 853.744812 824.135132 830.715088 840.584961
+/muse/eeg 863.614685 838.940002 843.874939 843.874939
+/muse/eeg 850.454834 812.620300 840.584961 829.070068
+/muse/eeg 850.454834 824.135132 848.809875 832.360046
+/muse/eeg 845.519897 802.750427 827.425110 835.650024
+/muse/eeg 827.425110 815.910278 806.040344 819.200195
+/muse/eeg 832.360046 822.490173 829.070068 822.490173
+/muse/eeg 843.874939 810.975281 840.584961 827.425110
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 238.281616 898.438904 371.094330
+/muse/acc 242.187881 906.251404 375.000580
+/muse/acc 250.000397 910.157654 375.000580
+/muse/eeg 853.744812 801.105408 830.715088 838.940002
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 850.454834 815.910278 838.940002 840.584961
+/muse/eeg 850.454834 829.070068 834.005005 837.294983
+/muse/eeg 852.099792 820.845215 832.360046 842.229919
+/muse/eeg 845.519897 807.685364 848.809875 838.940002
+/muse/eeg 838.940002 809.330322 840.584961 834.005005
+/muse/eeg 843.874939 804.395386 843.874939 840.584961
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.16772623360157013, 0.09125416725873947, 0.0773501917719841, 0.1456134021282196]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.04623235762119293, 0.5234715342521667, 0.5355502367019653, 0.0335364006459713]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.5040883421897888, 0.03163323923945427, 0.11951722949743271, 0.5499680042266846]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.013647298328578472, 0.3185007870197296, 0.24106864631175995, 0.010840965434908867]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.2683057487010956, 0.035140302032232285, 0.02651366963982582, 0.2600412368774414]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.746819257736206]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.5248490571975708]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.9754571914672852, -0.006358409766107798, 0.518049955368042, 2.045375347137451]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.1292898803949356, 0.24206657707691193, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7525642514228821, 0.8879302144050598, 1.0824054479599, 0.6624019145965576]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.7901248931884766, -0.33081915974617004, 0.43103569746017456, 1.8772228956222534]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.22266489267349243, 0.6721476912498474, 0.735745906829834, 0.17195340991020203]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.516248106956482, -0.28515732288360596, -0.22292497754096985, 1.5519276857376099]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.3414634168148041, 0.9464285969734192, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.6170212626457214, 0.6440678238868713, 0.75, 0.6774193644523621]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.22891566157341003, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.18333333730697632, 0.4545454680919647, 0.27272728085517883, 0.29411765933036804]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.21875, 0.5277777910232544, 1.0]'
+/muse/eeg 840.584961 815.910278 840.584961 832.360046
+/muse/eeg 848.809875 820.845215 832.360046 837.294983
+/muse/eeg 843.874939 807.685364 834.005005 838.940002
+/muse/eeg 834.005005 832.360046 834.005005 824.135132
+/muse/eeg 843.874939 815.910278 832.360046 834.005005
+/muse/eeg 843.874939 812.620300 832.360046 827.425110
+/muse/eeg 837.294983 814.265259 835.650024 824.135132
+/muse/eeg 834.005005 810.975281 832.360046 830.715088
+/muse/eeg 842.229919 825.780151 843.874939 829.070068
+/muse/acc 257.812897 914.063904 375.000580
+/muse/acc 261.719147 910.157654 375.000580
+/muse/acc 265.625427 898.438904 371.094330
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 265.625427 894.532654 367.188080
+/muse/eeg 838.940002 801.105408 843.874939 825.780151
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 835.650024 814.265259 843.874939 815.910278
+/muse/eeg 848.809875 807.685364 840.584961 834.005005
+/muse/eeg 850.454834 812.620300 840.584961 837.294983
+/muse/eeg 840.584961 815.910278 834.005005 827.425110
+/muse/eeg 837.294983 806.040344 814.265259 824.135132
+/muse/eeg 843.874939 809.330322 815.910278 829.070068
+/muse/eeg 840.584961 824.135132 845.519897 827.425110
+/muse/eeg 843.874939 822.490173 832.360046 825.780151
+/muse/eeg 837.294983 825.780151 845.519897 817.555237
+/muse/eeg 845.519897 822.490173 840.584961 824.135132
+/muse/eeg 840.584961 801.105408 824.135132 817.555237
+/muse/eeg 843.874939 824.135132 834.005005 814.265259
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.18373414874076843, 0.09179134666919708, 0.08080141246318817, 0.16295266151428223]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.04961836338043213, 0.526679515838623, 0.5154414772987366, 0.036977820098400116]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.4917372465133667, 0.02845926396548748, 0.12459731847047806, 0.5343195796012878]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.015157213434576988, 0.32139116525650024, 0.25255370140075684, 0.012599281966686249]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.2597530484199524, 0.03167872875928879, 0.026606088504195213, 0.2531506419181824]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.734490692615509]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.5415490865707397]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.9239526987075806, -0.061932262033224106, 0.5142091512680054, 1.9842594861984253]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.12172055244445801, 0.24206657707691193, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7436717748641968, 0.8804652094841003, 1.046826958656311, 0.6559666395187378]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.7397624254226685, -0.3868575096130371, 0.43015629053115845, 1.815826416015625]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.22864869236946106, 0.665952742099762, 0.7370012998580933, 0.18837110698223114]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.462589979171753, -0.3403134346008301, -0.24037136137485504, 1.491404414176941]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.31707316637039185, 0.9464285969734192, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5957446694374084, 0.6271186470985413, 0.6785714030265808, 0.6612903475761414]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.15662650763988495, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.20000000298023224, 0.4318181872367859, 0.27272728085517883, 0.3235294222831726]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.140625, 0.5, 1.0]'
+/muse/eeg 858.679749 834.005005 832.360046 822.490173
+/muse/eeg 847.164856 812.620300 829.070068 814.265259
+/muse/eeg 853.744812 817.555237 840.584961 814.265259
+/muse/acc 261.719147 882.813904 363.281830
+/muse/acc 253.906647 871.095093 359.375549
+/muse/acc 250.000397 867.188843 359.375549
+/muse/acc 250.000397 875.001343 359.375549
+/muse/eeg 857.034729 820.845215 848.809875 819.200195
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 848.809875 810.975281 843.874939 817.555237
+/muse/eeg 847.164856 817.555237 840.584961 824.135132
+/muse/eeg 835.650024 806.040344 834.005005 825.780151
+/muse/eeg 842.229919 799.460449 838.940002 837.294983
+/muse/eeg 838.940002 814.265259 847.164856 842.229919
+/muse/eeg 842.229919 822.490173 840.584961 837.294983
+/muse/eeg 853.744812 810.975281 847.164856 845.519897
+/muse/eeg 853.744812 801.105408 852.099792 853.744812
+/muse/eeg 858.679749 814.265259 848.809875 850.454834
+/muse/eeg 852.099792 817.555237 852.099792 850.454834
+/muse/eeg 853.744812 804.395386 848.809875 853.744812
+/muse/eeg 861.969727 806.040344 840.584961 861.969727
+/muse/eeg 866.904663 796.170471 843.874939 865.259644
+/muse/eeg 857.034729 812.620300 847.164856 852.099792
+/muse/eeg 863.614685 806.040344 842.229919 860.324707
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 246.094131 890.626404 363.281830
+/muse/acc 246.094131 894.532654 367.188080
+/muse/acc 250.000397 906.251404 367.188080
+/muse/eeg 866.904663 802.750427 843.874939 865.259644
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 861.969727 801.105408 843.874939 861.969727
+/muse/eeg 857.034729 806.040344 842.229919 858.679749
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.19935807585716248, 0.09296490997076035, 0.08395718783140182, 0.17965850234031677]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.05324583128094673, 0.5262399911880493, 0.4966593086719513, 0.040780749171972275]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.4776955544948578, 0.027646027505397797, 0.1288977712392807, 0.5178194642066956]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.016426820307970047, 0.32233926653862, 0.2636373043060303, 0.014530605636537075]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.25327372550964355, 0.030809827148914337, 0.026848426088690758, 0.24721066653728485]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.7222945690155029]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.5582490563392639]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.8764845132827759, -0.07972074300050735, 0.5104261040687561, 1.929317593574524]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.12177027761936188, 0.24206657707691193, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7388709783554077, 0.8746351003646851, 1.01406729221344, 0.6560942530632019]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.6917365789413452, -0.40491601824760437, 0.42825406789779663, 1.759817361831665]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.22813887894153595, 0.6617644429206848, 0.739015519618988, 0.20792272686958313]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.4161754846572876, -0.3578595221042633, -0.25307250022888184, 1.4387062788009644]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.30000001192092896, 0.9454545378684998, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5957446694374084, 0.6034482717514038, 0.6181818246841431, 0.6612903475761414]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.1325301229953766, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.18644067645072937, 0.4318181872367859, 0.2777777910232544, 0.3529411852359772]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.095238097012043, 0.4861111044883728, 1.0]'
+/muse/eeg 870.194580 814.265259 850.454834 866.904663
+/muse/eeg 868.549622 817.555237 845.519897 861.969727
+/muse/eeg 868.549622 815.910278 843.874939 860.324707
+/muse/eeg 866.904663 815.910278 843.874939 855.389771
+/muse/eeg 861.969727 822.490173 843.874939 848.809875
+/muse/eeg 866.904663 810.975281 842.229919 852.099792
+/muse/eeg 861.969727 797.815491 837.294983 843.874939
+/muse/eeg 871.839600 799.460449 827.425110 853.744812
+/muse/eeg 868.549622 820.845215 827.425110 852.099792
+/muse/eeg 865.259644 815.910278 837.294983 848.809875
+/muse/eeg 861.969727 814.265259 843.874939 848.809875
+/muse/eeg 866.904663 809.330322 834.005005 853.744812
+/muse/eeg 870.194580 810.975281 845.519897 853.744812
+/muse/acc 257.812897 910.157654 371.094330
+/muse/acc 265.625427 910.157654 375.000580
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 269.531677 910.157654 375.000580
+/muse/acc 265.625427 910.157654 371.094330
+/muse/eeg 866.904663 827.425110 850.454834 847.164856
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 870.194580 822.490173 852.099792 848.809875
+/muse/eeg 861.969727 815.910278 852.099792 842.229919
+/muse/eeg 858.679749 802.750427 840.584961 843.874939
+/muse/eeg 858.679749 809.330322 840.584961 835.650024
+/muse/eeg 855.389771 819.200195 830.715088 835.650024
+/muse/eeg 855.389771 814.265259 824.135132 840.584961
+/muse/eeg 848.809875 806.040344 827.425110 840.584961
+/muse/eeg 834.005005 814.265259 837.294983 827.425110
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.2141285091638565, 0.09390262514352798, 0.08599580824375153, 0.19515740871429443]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.057013846933841705, 0.525481641292572, 0.4863763153553009, 0.044779807329177856]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.46337562799453735, 0.028200197964906693, 0.1302710622549057, 0.5020942687988281]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.01735863648355007, 0.32165536284446716, 0.27060016989707947, 0.01620628498494625]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.24812336266040802, 0.03076016716659069, 0.026756659150123596, 0.2417622059583664]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.7100796699523926]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.5749490857124329]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.83371901512146, -0.07699505239725113, 0.5035656094551086, 1.8811908960342407]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.12512251734733582, 0.24206657707691193, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7375250458717346, 0.8730023503303528, 0.9945617318153381, 0.6607839465141296]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.6474778652191162, -0.3973030745983124, 0.42243725061416626, 1.7104870080947876]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.22106027603149414, 0.6598355770111084, 0.7399173378944397, 0.21938525140285492]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3762123584747314, -0.3595665395259857, -0.2649787962436676, 1.3930901288986206]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.30000001192092896, 0.9454545378684998, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5744680762290955, 0.6034482717514038, 0.581818163394928, 0.6774193644523621]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.14457830786705017, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.16949152946472168, 0.41860464215278625, 0.2777777910232544, 0.36764705181121826]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.095238097012043, 0.4583333432674408, 1.0]'
+/muse/eeg 842.229919 819.200195 834.005005 830.715088
+/muse/eeg 853.744812 819.200195 820.845215 837.294983
+/muse/eeg 843.874939 814.265259 827.425110 825.780151
+/muse/eeg 842.229919 804.395386 837.294983 824.135132
+/muse/eeg 842.229919 825.780151 857.034729 825.780151
+/muse/eeg 842.229919 815.910278 850.454834 824.135132
+/muse/eeg 838.940002 809.330322 837.294983 820.845215
+/muse/eeg 843.874939 804.395386 837.294983 824.135132
+/muse/acc 261.719147 898.438904 367.188080
+/muse/acc 257.812897 875.001343 363.281830
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/config'         
+	 Types: 's '         
+	 Payload: '['{"mac_addr":"000666A069D0","serial_number":"1160-UJMN-69D0","preset":"14","filters_enabled":true,"notch_frequency_hz":60,"battery_data_enabled":true,"compression_enabled":true,"eeg_sample_frequency_hz":3520,"eeg_output_frequency_hz":220,"eeg_channel_count":4,"eeg_samples_bitwidth":10,"eeg_channel_layout":"TP9 FP1 FP2 TP10 ","eeg_downsample":16,"afe_gain":1961,"battery_percent_remaining":48,"battery_millivolts":3755,"eeg_units":"EEG_MICROVOLTS","acc_units":"ACC_GFORCE","eeg_conversion_factor":1.644980342484907,"drlref_conversion_factor":3225.806451612903,"acc_conversion_factor":3.906256109482,"acc_sample_frequency_hz":50,"drlref_sample_frequency_hz":10,"acc_data_enabled":true,"drlref_data_enabled":true,"error_data_enabled":true}\n']'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/version'         
+	 Types: 's '         
+	 Payload: '['{"hardware_version":"16.0.0","firmware_headset_version":"7.2.7","firmware_bootloader_version":"7.2.7","firmware_type":"Research","build_number":41,"protocol_version":2}\n']'
+/muse/acc 250.000397 859.376343 355.469299
+/muse/acc 246.094131 859.376343 355.469299
+/muse/eeg 852.099792 807.685364 843.874939 832.360046
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 857.034729 825.780151 843.874939 835.650024
+/muse/eeg 850.454834 799.460449 820.845215 829.070068
+/muse/eeg 852.099792 815.910278 822.490173 834.005005
+/muse/eeg 857.034729 829.070068 825.780151 837.294983
+/muse/eeg 847.164856 822.490173 825.780151 824.135132
+/muse/eeg 845.519897 809.330322 848.809875 820.845215
+/muse/eeg 840.584961 796.170471 857.034729 820.845215
+/muse/eeg 842.229919 791.235535 842.229919 827.425110
+/muse/eeg 830.715088 815.910278 842.229919 814.265259
+/muse/eeg 842.229919 820.845215 845.519897 825.780151
+/muse/eeg 852.099792 804.395386 843.874939 840.584961
+/muse/eeg 845.519897 799.460449 819.200195 835.650024
+/muse/eeg 837.294983 812.620300 812.620300 832.360046
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.2277558296918869, 0.09400399029254913, 0.08631239086389542, 0.20886243879795074]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.06074081361293793, 0.5257195234298706, 0.4864344894886017, 0.04860107973217964]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.44974398612976074, 0.028588782995939255, 0.12824618816375732, 0.48699986934661865]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.018030069768428802, 0.3206077516078949, 0.2726544439792633, 0.01742561161518097]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.24372929334640503, 0.031079959124326706, 0.02635248750448227, 0.2381109893321991]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.6977452039718628]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.591649055480957]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.7957794666290283, -0.07086155563592911, 0.4943631887435913, 1.8406308889389038]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.12653785943984985, 0.2412305474281311, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.738230288028717, 0.8741456270217896, 0.9921817779541016, 0.6668723821640015]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.6077150106430054, -0.3904127776622772, 0.41320186853408813, 1.667755365371704]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.21074707806110382, 0.6593655943870544, 0.7407699823379517, 0.2214145064353943]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3416574001312256, -0.35412800312042236, -0.2740209996700287, 1.3570058345794678]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.30000001192092896, 0.9454545378684998, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5957446694374084, 0.6034482717514038, 0.5740740895271301, 0.6774193644523621]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.15662650763988495, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.1551724076271057, 0.41860464215278625, 0.2641509473323822, 0.36764705181121826]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.095238097012043, 0.4571428596973419, 1.0]'
+/muse/eeg 832.360046 819.200195 829.070068 822.490173
+/muse/eeg 840.584961 815.910278 843.874939 825.780151
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 238.281616 875.001343 359.375549
+/muse/acc 238.281616 890.626404 363.281830
+/muse/acc 246.094131 898.438904 371.094330
+/muse/eeg 842.229919 814.265259 848.809875 822.490173
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 840.584961 799.460449 835.650024 829.070068
+/muse/eeg 832.360046 815.910278 837.294983 820.845215
+/muse/eeg 847.164856 819.200195 832.360046 832.360046
+/muse/eeg 847.164856 806.040344 838.940002 835.650024
+/muse/eeg 842.229919 794.525513 845.519897 829.070068
+/muse/eeg 847.164856 810.975281 829.070068 835.650024
+/muse/eeg 842.229919 822.490173 847.164856 830.715088
+/muse/eeg 827.425110 810.975281 847.164856 819.200195
+/muse/eeg 824.135132 810.975281 822.490173 814.265259
+/muse/eeg 824.135132 797.815491 810.975281 815.910278
+/muse/eeg 806.040344 812.620300 837.294983 796.170471
+/muse/eeg 807.685364 806.040344 834.005005 789.590576
+/muse/eeg 794.525513 815.910278 830.715088 779.720703
+/muse/eeg 750.111023 787.945557 829.070068 745.176086
+/muse/eeg 746.821106 806.040344 834.005005 741.886108
+/muse/acc 253.906647 906.251404 375.000580
+/muse/acc 253.906647 914.063904 375.000580
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 253.906647 917.970215 375.000580
+/muse/acc 257.812897 906.251404 375.000580
+/muse/eeg 750.111023 819.200195 830.715088 735.306213
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 768.205811 802.750427 822.490173 746.821106
+/muse/eeg 763.270874 807.685364 835.650024 740.241150
+/muse/eeg 763.270874 815.910278 807.685364 741.886108
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.23974473774433136, 0.09382737427949905, 0.08510603755712509, 0.2198515236377716]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.06395765393972397, 0.5258771181106567, 0.49249961972236633, 0.051687728613615036]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.4385618567466736, 0.02853921800851822, 0.1244966983795166, 0.47366204857826233]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.018510201945900917, 0.3197508156299591, 0.2716536223888397, 0.018024953082203865]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.23922555148601532, 0.03200548514723778, 0.026244046166539192, 0.23677374422550201]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.6851440072059631]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.608349084854126]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.763563632965088, -0.0635916143655777, 0.4872719645500183, 1.8094820976257324]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.12666179239749908, 0.23900167644023895, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7383626103401184, 0.875216543674469, 1.0014472007751465, 0.6713447570800781]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.5745009183883667, -0.39022567868232727, 0.40419915318489075, 1.6334259510040283]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.19988130033016205, 0.65914386510849, 0.7430568337440491, 0.21383143961429596]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3112776279449463, -0.34044337272644043, -0.2719278931617737, 1.3322908878326416]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.30000001192092896, 0.9454545378684998, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5957446694374084, 0.6034482717514038, 0.5849056839942932, 0.7049180269241333]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.15662650763988495, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.13793103396892548, 0.41860464215278625, 0.2549019753932953, 0.3529411852359772]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.1269841343164444, 0.4714285731315613, 1.0]'
+/muse/eeg 771.495789 825.780151 822.490173 755.045959
+/muse/eeg 764.915833 827.425110 822.490173 748.466064
+/muse/eeg 773.140747 807.685364 799.460449 745.176086
+/muse/eeg 758.335938 781.365662 807.685364 728.726318
+/muse/eeg 768.205811 807.685364 825.780151 740.241150
+/muse/eeg 784.655640 820.845215 842.229919 755.045959
+/muse/eeg 786.300598 809.330322 806.040344 758.335938
+/muse/eeg 797.815491 799.460449 812.620300 771.495789
+/muse/eeg 799.460449 806.040344 801.105408 774.785767
+/muse/eeg 807.685364 819.200195 827.425110 776.430725
+/muse/eeg 817.555237 830.715088 838.940002 783.010620
+/muse/eeg 814.265259 809.330322 824.135132 784.655640
+/muse/acc 253.906647 902.345154 371.094330
+/muse/acc 246.094131 894.532654 367.188080
+/muse/acc 242.187881 878.907654 359.375549
+/muse/eeg 814.265259 806.040344 824.135132 784.655640
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 810.975281 819.200195 819.200195 784.655640
+/muse/eeg 829.070068 837.294983 838.940002 802.750427
+/muse/eeg 842.229919 819.200195 822.490173 817.555237
+/muse/eeg 845.519897 810.975281 797.815491 820.845215
+/muse/eeg 845.519897 809.330322 817.555237 819.200195
+/muse/eeg 837.294983 820.845215 834.005005 806.040344
+/muse/eeg 840.584961 815.910278 845.519897 814.265259
+/muse/eeg 840.584961 819.200195 829.070068 812.620300
+/muse/eeg 834.005005 802.750427 819.200195 810.975281
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.24898619949817657, 0.09384829550981522, 0.08140415698289871, 0.22682908177375793]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.0657234638929367, 0.5248569846153259, 0.5004421472549438, 0.05307949334383011]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.43175724148750305, 0.02838757261633873, 0.12177737057209015, 0.4635678827762604]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.018802460283041, 0.31915614008903503, 0.26897984743118286, 0.017965326085686684]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.23473064601421356, 0.03375101834535599, 0.027396507561206818, 0.23855821788311005]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.672318160533905]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.6250490546226501]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.7398362159729004, -0.052403196692466736, 0.4892430305480957, 1.7908031940460205]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.12666179239749908, 0.22619684040546417, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7337643504142761, 0.874276340007782, 1.0149041414260864, 0.6693148612976074]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.551283597946167, -0.39263635873794556, 0.40111684799194336, 1.6105014085769653]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.19025859236717224, 0.6582385897636414, 0.7452700138092041, 0.19882316887378693]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.2866137027740479, -0.3174777030944824, -0.24675455689430237, 1.321982502937317]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.30000001192092896, 0.9090909361839294, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5744680762290955, 0.6034482717514038, 0.6153846383094788, 0.7049180269241333]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.15662650763988495, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.12068965286016464, 0.41860464215278625, 0.2549019753932953, 0.34328359365463257]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.16129031777381897, 0.5, 1.0]'
+/muse/eeg 829.070068 820.845215 825.780151 804.395386
+/muse/eeg 860.324707 825.780151 812.620300 830.715088
+/muse/eeg 860.324707 825.780151 820.845215 838.940002
+/muse/eeg 840.584961 802.750427 817.555237 819.200195
+/muse/eeg 843.874939 819.200195 842.229919 825.780151
+/muse/eeg 850.454834 820.845215 853.744812 832.360046
+/muse/acc 242.187881 867.188843 355.469299
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 242.187881 867.188843 355.469299
+/muse/acc 242.187881 878.907654 359.375549
+/muse/acc 246.094131 890.626404 359.375549
+/muse/eeg 845.519897 792.880554 832.360046 824.135132
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 855.389771 825.780151 815.910278 832.360046
+/muse/eeg 863.614685 817.555237 810.975281 845.519897
+/muse/eeg 857.034729 825.780151 809.330322 835.650024
+/muse/eeg 853.744812 817.555237 834.005005 834.005005
+/muse/eeg 837.294983 806.040344 837.294983 812.620300
+/muse/eeg 842.229919 797.815491 843.874939 819.200195
+/muse/eeg 834.005005 806.040344 835.650024 810.975281
+/muse/eeg 845.519897 827.425110 819.200195 819.200195
+/muse/eeg 860.324707 825.780151 820.845215 842.229919
+/muse/eeg 847.164856 814.265259 825.780151 835.650024
+/muse/eeg 845.519897 809.330322 825.780151 842.229919
+/muse/eeg 838.940002 809.330322 845.519897 835.650024
+/muse/eeg 832.360046 804.395386 845.519897 827.425110
+/muse/eeg 838.940002 814.265259 842.229919 830.715088
+/muse/eeg 837.294983 807.685364 832.360046 822.490173
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.252697616815567, 0.09399130195379257, 0.07905261963605881, 0.22762975096702576]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.06550286710262299, 0.5226593017578125, 0.5062142610549927, 0.05265534296631813]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.43175286054611206, 0.02887336164712906, 0.12099306285381317, 0.4591113328933716]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.018834304064512253, 0.31870555877685547, 0.26365092396736145, 0.01722883991897106]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.23121236264705658, 0.035770483314991, 0.0300891250371933, 0.24337473511695862]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.6590991020202637]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.6417490839958191]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.7311087846755981, -0.036406874656677246, 0.5034735798835754, 1.7894954681396484]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.1261536180973053, 0.22217655181884766, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7258783578872681, 0.8712846636772156, 1.0285946130752563, 0.6643002033233643]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.5448533296585083, -0.38643670082092285, 0.40702077746391296, 1.6047757863998413]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.1845676451921463, 0.6564555764198303, 0.7452896237373352, 0.17911382019519806]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.273629069328308, -0.2934092581272125, -0.19733014702796936, 1.3291332721710205]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.30000001192092896, 0.9090909361839294, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5531914830207825, 0.6034482717514038, 0.6538461446762085, 0.688524603843689]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.15662650763988495, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.1034482792019844, 0.39534884691238403, 0.23999999463558197, 0.31343284249305725]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.19354838132858276, 0.5714285969734192, 1.0]'
+/muse/acc 257.812897 898.438904 363.281830
+/muse/acc 265.625427 910.157654 367.188080
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 273.437927 910.157654 371.094330
+/muse/acc 277.344177 906.251404 371.094330
+/muse/eeg 840.584961 806.040344 814.265259 820.845215
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 847.164856 807.685364 824.135132 825.780151
+/muse/eeg 830.715088 801.105408 809.330322 812.620300
+/muse/eeg 834.005005 807.685364 829.070068 817.555237
+/muse/eeg 847.164856 822.490173 847.164856 829.070068
+/muse/eeg 843.874939 820.845215 837.294983 824.135132
+/muse/eeg 842.229919 819.200195 843.874939 820.845215
+/muse/eeg 853.744812 835.650024 837.294983 825.780151
+/muse/eeg 857.034729 815.910278 830.715088 832.360046
+/muse/eeg 840.584961 819.200195 820.845215 817.555237
+/muse/eeg 837.294983 804.395386 825.780151 815.910278
+/muse/eeg 837.294983 794.525513 804.395386 817.555237
+/muse/eeg 853.744812 806.040344 820.845215 830.715088
+/muse/eeg 868.549622 822.490173 860.324707 847.164856
+/muse/eeg 845.519897 820.845215 842.229919 830.715088
+/muse/eeg 843.874939 827.425110 848.809875 829.070068
+/muse/acc 277.344177 902.345154 371.094330
+/muse/acc 269.531677 894.532654 367.188080
+/muse/acc 261.719147 882.813904 363.281830
+/muse/eeg 842.229919 822.490173 840.584961 829.070068
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 837.294983 807.685364 832.360046 820.845215
+/muse/eeg 832.360046 819.200195 840.584961 815.910278
+/muse/eeg 837.294983 809.330322 832.360046 822.490173
+/muse/eeg 855.389771 819.200195 829.070068 840.584961
+/muse/eeg 857.034729 820.845215 807.685364 838.940002
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.24744170904159546, 0.09258926659822464, 0.07671201974153519, 0.22006110846996307]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.06306563317775726, 0.5212213397026062, 0.5110000967979431, 0.05070465803146362]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.4400148093700409, 0.03048623539507389, 0.1217467337846756, 0.4619978070259094]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.018466385081410408, 0.3181149959564209, 0.25625836849212646, 0.015891049057245255]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.23101143538951874, 0.037588175386190414, 0.03428276255726814, 0.25134536623954773]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.6456308364868164]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.6584490537643433]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.745485782623291, -0.01665826328098774, 0.5269550085067749, 1.8108420372009277]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.11691849678754807, 0.2186117321252823, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7185390591621399, 0.8673800230026245, 1.0421693325042725, 0.6625913381576538]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.5622135400772095, -0.3655383586883545, 0.41920560598373413, 1.6221834421157837]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.18512818217277527, 0.6529420018196106, 0.7424263954162598, 0.15869607031345367]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.2823797464370728, -0.2745909094810486, -0.13117586076259613, 1.3578144311904907]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.2750000059604645, 0.9090909361839294, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5531914830207825, 0.5862069129943848, 0.6600000262260437, 0.688524603843689]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.1807228922843933, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.1034482792019844, 0.39534884691238403, 0.2448979616165161, 0.28358209133148193]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.22580644488334656, 0.6714285612106323, 1.0]'
+/muse/eeg 847.164856 819.200195 817.555237 835.650024
+/muse/eeg 845.519897 815.910278 843.874939 830.715088
+/muse/eeg 855.389771 809.330322 845.519897 838.940002
+/muse/eeg 848.809875 819.200195 853.744812 837.294983
+/muse/eeg 834.005005 794.525513 838.940002 822.490173
+/muse/eeg 845.519897 830.715088 830.715088 830.715088
+/muse/eeg 837.294983 825.780151 830.715088 822.490173
+/muse/eeg 835.650024 801.105408 814.265259 819.200195
+/muse/eeg 850.454834 817.555237 819.200195 834.005005
+/muse/eeg 835.650024 809.330322 835.650024 820.845215
+/muse/acc 253.906647 867.188843 359.375549
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 250.000397 859.376343 359.375549
+/muse/acc 246.094131 871.095093 363.281830
+/muse/acc 250.000397 882.813904 371.094330
+/muse/eeg 830.715088 814.265259 842.229919 810.975281
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 840.584961 815.910278 843.874939 824.135132
+/muse/eeg 845.519897 810.975281 840.584961 830.715088
+/muse/eeg 843.874939 799.460449 835.650024 830.715088
+/muse/eeg 843.874939 824.135132 840.584961 829.070068
+/muse/eeg 843.874939 827.425110 847.164856 825.780151
+/muse/eeg 835.650024 814.265259 827.425110 817.555237
+/muse/eeg 838.940002 796.170471 824.135132 825.780151
+/muse/eeg 830.715088 799.460449 838.940002 812.620300
+/muse/eeg 847.164856 822.490173 834.005005 825.780151
+/muse/eeg 852.099792 822.490173 832.360046 827.425110
+/muse/eeg 847.164856 815.910278 837.294983 819.200195
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.23605480790138245, 0.08972755819559097, 0.0743846446275711, 0.20545046031475067]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.059110578149557114, 0.5211191773414612, 0.5150124430656433, 0.048183880746364594]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.45470577478408813, 0.03339105471968651, 0.12327901273965836, 0.471216082572937]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.018006552010774612, 0.3166810870170593, 0.2485906481742859, 0.014292425476014614]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.2321222871541977, 0.039081115275621414, 0.03873327746987343, 0.26085713505744934]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.632057249546051]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.6751490831375122]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.7760543823242188, 0.005864605773240328, 0.5537498593330383, 1.8519341945648193]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3122191429138184, 0.09861921519041061, 0.21568523347377777, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7108715772628784, 0.8626304268836975, 1.05601966381073, 0.6702814698219299]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.596936821937561, -0.33067652583122253, 0.4350910484790802, 1.6605998277664185]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.19463694095611572, 0.6463154554367065, 0.7396866679191589, 0.1424856036901474]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.304923176765442, -0.26233971118927, -0.06771382689476013, 1.4037823677062988]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.25, 0.8909090757369995, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5319148898124695, 0.5789473652839661, 0.6800000071525574, 0.7049180269241333]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.2195121943950653, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.12068965286016464, 0.3658536672592163, 0.2448979616165161, 0.2537313401699066]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.26229506731033325, 0.7571428418159485, 1.0]'
+/muse/eeg 835.650024 815.910278 835.650024 809.330322
+/muse/eeg 855.389771 825.780151 838.940002 822.490173
+/muse/eeg 853.744812 830.715088 840.584961 820.845215
+/muse/eeg 840.584961 812.620300 838.940002 806.040344
+/muse/eeg 843.874939 794.525513 840.584961 819.200195
+/muse/acc 253.906647 894.532654 375.000580
+/muse/acc 261.719147 902.345154 375.000580
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 269.531677 906.251404 378.906830
+/muse/acc 273.437927 906.251404 375.000580
+/muse/eeg 830.715088 810.975281 845.519897 822.490173
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 840.584961 810.975281 840.584961 834.005005
+/muse/eeg 840.584961 804.395386 843.874939 840.584961
+/muse/eeg 835.650024 804.395386 848.809875 840.584961
+/muse/eeg 835.650024 801.105408 857.034729 842.229919
+/muse/eeg 838.940002 817.555237 857.034729 840.584961
+/muse/eeg 852.099792 814.265259 843.874939 847.164856
+/muse/eeg 860.324707 806.040344 845.519897 847.164856
+/muse/eeg 861.969727 799.460449 843.874939 850.454834
+/muse/eeg 853.744812 819.200195 843.874939 842.229919
+/muse/eeg 848.809875 814.265259 842.229919 843.874939
+/muse/eeg 853.744812 806.040344 843.874939 855.389771
+/muse/eeg 850.454834 814.265259 852.099792 853.744812
+/muse/eeg 855.389771 802.750427 848.809875 857.034729
+/muse/eeg 860.324707 817.555237 848.809875 853.744812
+/muse/eeg 866.904663 810.975281 845.519897 863.614685
+/muse/acc 281.250427 902.345154 375.000580
+/muse/acc 281.250427 890.626404 371.094330
+/muse/acc 281.250427 886.720154 367.188080
+/muse/eeg 868.549622 810.975281 842.229919 868.549622
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.22804643213748932, 0.0889182835817337, 0.06884012371301651, 0.1960180103778839]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.05567868798971176, 0.5196987390518188, 0.5204094052314758, 0.04757475107908249]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.46591514348983765, 0.03699781000614166, 0.1250477433204651, 0.47424745559692383]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.018179723992943764, 0.3134382665157318, 0.24343587458133698, 0.013222592882812023]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.23218002915382385, 0.04094690829515457, 0.0422668494284153, 0.26893720030784607]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.6188161969184875]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.6918490529060364]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.8044466972351074, 0.0308891199529171, 0.5773102641105652, 1.8788875341415405]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3185553550720215, 0.08809347450733185, 0.19161805510520935, 1.3000868558883667]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7062210440635681, 0.8548540472984314, 1.0701215267181396, 0.6851673126220703]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.6288388967514038, -0.29272156953811646, 0.45085230469703674, 1.6837958097457886]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.22011935710906982, 0.635254442691803, 0.7401610016822815, 0.12910744547843933]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3263568878173828, -0.24867644906044006, -0.020223699510097504, 1.4374417066574097]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.22499999403953552, 0.8545454740524292, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5106382966041565, 0.5614035129547119, 0.7083333134651184, 0.7166666388511658]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.2716049253940582, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.17543859779834747, 0.3414634168148041, 0.2448979616165161, 0.23880596458911896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.2786885201931, 0.8285714387893677, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 870.194580 802.750427 843.874939 870.194580
+/muse/eeg 873.484558 812.620300 853.744812 865.259644
+/muse/eeg 878.419495 809.330322 845.519897 866.904663
+/muse/eeg 863.614685 806.040344 838.940002 855.389771
+/muse/eeg 861.969727 806.040344 840.584961 852.099792
+/muse/eeg 871.839600 810.975281 847.164856 863.614685
+/muse/eeg 866.904663 815.910278 845.519897 853.744812
+/muse/eeg 870.194580 802.750427 843.874939 855.389771
+/muse/eeg 861.969727 809.330322 843.874939 853.744812
+/muse/eeg 858.679749 801.105408 840.584961 855.389771
+/muse/eeg 852.099792 824.135132 852.099792 843.874939
+/muse/eeg 860.324707 812.620300 843.874939 850.454834
+/muse/eeg 863.614685 812.620300 850.454834 848.809875
+/muse/eeg 865.259644 806.040344 845.519897 852.099792
+/muse/eeg 861.969727 807.685364 837.294983 850.454834
+/muse/acc 277.344177 875.001343 367.188080
+/muse/drlref 1629032.250000 1645161.250000
+/muse/acc 269.531677 867.188843 367.188080
+/muse/acc 261.719147 867.188843 367.188080
+/muse/acc 261.719147 875.001343 367.188080
+/muse/eeg 863.614685 830.715088 835.650024 848.809875
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 865.259644 814.265259 838.940002 853.744812
+/muse/eeg 855.389771 804.395386 838.940002 847.164856
+/muse/eeg 852.099792 799.460449 832.360046 840.584961
+/muse/eeg 852.099792 804.395386 837.294983 835.650024
+/muse/eeg 852.099792 817.555237 848.809875 834.005005
+/muse/eeg 855.389771 807.685364 855.389771 835.650024
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.213303804397583, 0.09002096205949783, 0.059699896723032, 0.17386481165885925]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.05457871034741402, 0.5153995156288147, 0.527950644493103, 0.04964623600244522]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.47699812054634094, 0.04063789173960686, 0.12672023475170135, 0.48405176401138306]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.019520267844200134, 0.31000086665153503, 0.24157187342643738, 0.013249039649963379]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.2355991154909134, 0.04394080489873886, 0.044057320803403854, 0.2791881561279297]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.6061610579490662]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.7085490822792053]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.8207547664642334, 0.05720275640487671, 0.5937145352363586, 1.894158959388733]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.296909213066101, 0.08428541570901871, 0.13725730776786804, 1.2517095804214478]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7049339413642883, 0.8420857191085815, 1.0838770866394043, 0.7073842883110046]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.6464273929595947, -0.2611270844936371, 0.4641296863555908, 1.6963897943496704]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.2583964765071869, 0.6213046312332153, 0.744330108165741, 0.13368234038352966]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3400843143463135, -0.22719021141529083, 0.005301811266690493, 1.4573949575424194]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.20000000298023224, 0.7692307829856873, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5106382966041565, 0.5438596606254578, 0.7234042286872864, 0.75]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.3086419701576233, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.24561403691768646, 0.31707316637039185, 0.25, 0.23880596458911896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.31147539615631104, 0.8571428656578064, 1.0]'
+/muse/eeg 853.744812 796.170471 835.650024 840.584961
+/muse/eeg 853.744812 819.200195 829.070068 838.940002
+/muse/eeg 848.809875 815.910278 838.940002 837.294983
+/muse/eeg 848.809875 807.685364 834.005005 832.360046
+/muse/eeg 852.099792 814.265259 837.294983 835.650024
+/muse/eeg 860.324707 804.395386 825.780151 847.164856
+/muse/eeg 858.679749 814.265259 834.005005 842.229919
+/muse/eeg 848.809875 819.200195 838.940002 829.070068
+/muse/eeg 853.744812 822.490173 834.005005 832.360046
+/muse/acc 261.719147 878.907654 371.094330
+/muse/acc 269.531677 882.813904 375.000580
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 273.437927 886.720154 378.906830
+/muse/eeg 863.614685 812.620300 840.584961 842.229919
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 847.164856 807.685364 825.780151 824.135132
+/muse/eeg 840.584961 806.040344 837.294983 819.200195
+/muse/eeg 843.874939 797.815491 853.744812 827.425110
+/muse/eeg 838.940002 806.040344 834.005005 822.490173
+/muse/eeg 840.584961 809.330322 835.650024 825.780151
+/muse/eeg 835.650024 814.265259 835.650024 820.845215
+/muse/eeg 840.584961 819.200195 824.135132 830.715088
+/muse/eeg 853.744812 812.620300 832.360046 838.940002
+/muse/eeg 845.519897 810.975281 838.940002 835.650024
+/muse/eeg 845.519897 825.780151 819.200195 837.294983
+/muse/eeg 848.809875 817.555237 837.294983 838.940002
+/muse/eeg 848.809875 812.620300 847.164856 842.229919
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.18064945936203003, 0.09105414152145386, 0.05371062830090523, 0.13370582461357117]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.05635277181863785, 0.5081794261932373, 0.5326220989227295, 0.0560295395553112]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.4940319061279297, 0.04387883469462395, 0.12870962917804718, 0.49917230010032654]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.022305158898234367, 0.3086852729320526, 0.2408425360918045, 0.014889725483953953]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.2466607242822647, 0.048202306032180786, 0.04411512613296509, 0.2962026000022888]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.5940919518470764]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.7252490520477295]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.8227388858795166, 0.08210349082946777, 0.6059924364089966, 1.8614168167114258]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.209937572479248, 0.07723250240087509, 0.09844672679901123, 1.086995244026184]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7040162086486816, 0.8239498734474182, 1.0948057174682617, 0.709261953830719]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.6468559503555298, -0.23981212079524994, 0.4779975414276123, 1.6590954065322876]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.30150625109672546, 0.6074486970901489, 0.750119686126709, 0.13373160362243652]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3452008962631226, -0.19899937510490417, 0.012974021025002003, 1.432433843612671]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.20000000298023224, 0.692307710647583, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5106382966041565, 0.5087719559669495, 0.7446808218955994, 0.7666666507720947]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.3333333432674408, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.31578946113586426, 0.2750000059604645, 0.2708333432674408, 0.23880596458911896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.3606557250022888, 0.8714285492897034, 1.0]'
+/muse/eeg 830.715088 807.685364 834.005005 824.135132
+/muse/eeg 834.005005 804.395386 843.874939 825.780151
+/muse/eeg 838.940002 824.135132 845.519897 834.005005
+/muse/acc 277.344177 898.438904 386.719360
+/muse/acc 277.344177 910.157654 382.813110
+/muse/acc 277.344177 902.345154 382.813110
+/muse/acc 277.344177 898.438904 378.906830
+/muse/eeg 840.584961 817.555237 842.229919 835.650024
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 835.650024 810.975281 840.584961 827.425110
+/muse/eeg 838.940002 806.040344 824.135132 827.425110
+/muse/eeg 837.294983 806.040344 822.490173 827.425110
+/muse/eeg 829.070068 815.910278 829.070068 819.200195
+/muse/eeg 830.715088 815.910278 845.519897 822.490173
+/muse/eeg 842.229919 810.975281 837.294983 832.360046
+/muse/eeg 840.584961 817.555237 819.200195 829.070068
+/muse/eeg 852.099792 819.200195 827.425110 834.005005
+/muse/eeg 855.389771 815.910278 834.005005 834.005005
+/muse/eeg 850.454834 819.200195 842.229919 830.715088
+/muse/eeg 840.584961 809.330322 852.099792 830.715088
+/muse/eeg 825.780151 820.845215 861.969727 819.200195
+/muse/eeg 835.650024 814.265259 853.744812 827.425110
+/muse/eeg 835.650024 815.910278 847.164856 824.135132
+/muse/eeg 842.229919 812.620300 845.519897 832.360046
+/muse/acc 269.531677 890.626404 371.094330
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 265.625427 875.001343 367.188080
+/muse/acc 265.625427 863.282593 367.188080
+/muse/acc 261.719147 867.188843 363.281830
+/muse/eeg 840.584961 814.265259 847.164856 829.070068
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 837.294983 820.845215 843.874939 824.135132
+/muse/eeg 837.294983 806.040344 840.584961 825.780151
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.15714490413665771, 0.09200617671012878, 0.04583277180790901, 0.1102108284831047]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.05832051858305931, 0.4985068440437317, 0.5360682606697083, 0.06081392616033554]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.5022924542427063, 0.046976301819086075, 0.13324148952960968, 0.5041961073875427]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.02538556605577469, 0.30987221002578735, 0.24123983085155487, 0.016038764268159866]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.2568565607070923, 0.052638471126556396, 0.04361765831708908, 0.3087403476238251]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.5826088190078735]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.7411314845085144]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.8158866167068481, 0.10341908782720566, 0.6184544563293457, 1.8402856588363647]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.1318598985671997, 0.0689123123884201, 0.032003022730350494, 0.9724532961845398]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.7013809084892273, 0.8027664422988892, 1.100046992301941, 0.7142320275306702]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.6365162134170532, -0.223025843501091, 0.4954663813114166, 1.6328284740447998]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.34014642238616943, 0.5962779521942139, 0.7532759308815002, 0.13539990782737732]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3452502489089966, -0.17360138893127441, 0.010489260777831078, 1.4198224544525146]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.9120879173278809, 0.17499999701976776, 0.557692289352417, 0.9900000095367432]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5106382966041565, 0.4736842215061188, 0.7659574747085571, 0.7666666507720947]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.3580246865749359, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.38596490025520325, 0.25, 0.2708333432674408, 0.23880596458911896]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.39344263076782227, 0.8714285492897034, 1.0]'
+/muse/eeg 843.874939 815.910278 843.874939 830.715088
+/muse/eeg 852.099792 814.265259 830.715088 845.519897
+/muse/eeg 837.294983 820.845215 830.715088 835.650024
+/muse/eeg 835.650024 809.330322 835.650024 829.070068
+/muse/eeg 824.135132 783.010620 837.294983 819.200195
+/muse/eeg 837.294983 801.105408 832.360046 830.715088
+/muse/eeg 837.294983 824.135132 838.940002 827.425110
+/muse/eeg 830.715088 814.265259 834.005005 815.910278
+/muse/eeg 842.229919 822.490173 840.584961 830.715088
+/muse/eeg 848.809875 819.200195 847.164856 837.294983
+/muse/eeg 847.164856 807.685364 832.360046 835.650024
+/muse/eeg 824.135132 807.685364 838.940002 815.910278
+/muse/eeg 834.005005 797.815491 837.294983 822.490173
+/muse/acc 253.906647 878.907654 363.281830
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/config'         
+	 Types: 's '         
+	 Payload: '['{"mac_addr":"000666A069D0","serial_number":"1160-UJMN-69D0","preset":"14","filters_enabled":true,"notch_frequency_hz":60,"battery_data_enabled":true,"compression_enabled":true,"eeg_sample_frequency_hz":3520,"eeg_output_frequency_hz":220,"eeg_channel_count":4,"eeg_samples_bitwidth":10,"eeg_channel_layout":"TP9 FP1 FP2 TP10 ","eeg_downsample":16,"afe_gain":1961,"battery_percent_remaining":48,"battery_millivolts":3755,"eeg_units":"EEG_MICROVOLTS","acc_units":"ACC_GFORCE","eeg_conversion_factor":1.644980342484907,"drlref_conversion_factor":3225.806451612903,"acc_conversion_factor":3.906256109482,"acc_sample_frequency_hz":50,"drlref_sample_frequency_hz":10,"acc_data_enabled":true,"drlref_data_enabled":true,"error_data_enabled":true}\n']'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/version'         
+	 Types: 's '         
+	 Payload: '['{"hardware_version":"16.0.0","firmware_headset_version":"7.2.7","firmware_bootloader_version":"7.2.7","firmware_type":"Research","build_number":41,"protocol_version":2}\n']'
+/muse/acc 250.000397 890.626404 363.281830
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 257.812897 894.532654 367.188080
+/muse/eeg 832.360046 801.105408 834.005005 825.780151
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 832.360046 815.910278 829.070068 815.910278
+/muse/eeg 838.940002 822.490173 829.070068 819.200195
+/muse/eeg 835.650024 814.265259 832.360046 825.780151
+/muse/eeg 857.034729 824.135132 847.164856 838.940002
+/muse/eeg 850.454834 817.555237 838.940002 832.360046
+/muse/eeg 842.229919 810.975281 834.005005 835.650024
+/muse/eeg 834.005005 799.460449 838.940002 827.425110
+/muse/eeg 830.715088 796.170471 832.360046 819.200195
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.15597210824489594, 0.09396977722644806, 0.04200532287359238, 0.10828974097967148]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.058614302426576614, 0.48822450637817383, 0.5340063571929932, 0.06318672746419907]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.4975040555000305, 0.05045762285590172, 0.1411980539560318, 0.5012058615684509]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.02743668481707573, 0.3114020526409149, 0.23924915492534637, 0.017186282202601433]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.26047283411026, 0.05594601482152939, 0.04354112595319748, 0.31013140082359314]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.5719389915466309]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.7569213509559631]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.8090639114379883, 0.12027666717767715, 0.6368011832237244, 1.8381456136703491]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.1224548816680908, 0.06630839407444, -0.006453498266637325, 0.9635315537452698]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.6974115371704102, 0.7819397449493408, 1.0977885723114014, 0.7295700907707214]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.6262046098709106, -0.2037530243396759, 0.5200708508491516, 1.628960371017456]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3677395284175873, 0.5866416692733765, 0.7490925788879395, 0.16412615776062012]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3451703786849976, -0.15891066193580627, 0.009141845628619194, 1.4204899072647095]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.901098906993866, 0.12820513546466827, 0.48076921701431274, 0.9898989796638489]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.4893617033958435, 0.4385964870452881, 0.739130437374115, 0.800000011920929]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.36250001192092896, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.4385964870452881, 0.20512820780277252, 0.2708333432674408, 0.28358209133148193]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.4262295067310333, 0.8840579986572266, 1.0]'
+/muse/eeg 835.650024 822.490173 827.425110 829.070068
+/muse/eeg 848.809875 815.910278 817.555237 837.294983
+/muse/eeg 840.584961 824.135132 852.099792 832.360046
+/muse/eeg 843.874939 815.910278 830.715088 837.294983
+/muse/eeg 832.360046 799.460449 838.940002 820.845215
+/muse/eeg 842.229919 792.880554 842.229919 829.070068
+/muse/eeg 840.584961 819.200195 834.005005 832.360046
+/muse/acc 261.719147 898.438904 371.094330
+/muse/acc 265.625427 902.345154 371.094330
+/muse/acc 265.625427 902.345154 375.000580
+/muse/acc 265.625427 898.438904 371.094330
+/muse/eeg 832.360046 810.975281 852.099792 824.135132
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 845.519897 814.265259 842.229919 830.715088
+/muse/eeg 858.679749 819.200195 834.005005 848.809875
+/muse/eeg 870.194580 797.815491 835.650024 865.259644
+/muse/eeg 838.940002 802.750427 829.070068 834.005005
+/muse/eeg 810.975281 797.815491 843.874939 801.105408
+/muse/eeg 815.910278 822.490173 829.070068 799.460449
+/muse/eeg 819.200195 817.555237 838.940002 801.105408
+/muse/eeg 824.135132 824.135132 817.555237 804.395386
+/muse/eeg 810.975281 817.555237 837.294983 797.815491
+/muse/eeg 761.625916 784.655640 842.229919 755.045959
+/muse/eeg 735.306213 779.720703 835.650024 722.146362
+/muse/eeg 740.241150 796.170471 840.584961 732.016235
+/muse/eeg 750.111023 810.975281 834.005005 730.371277
+/muse/eeg 758.335938 814.265259 810.975281 733.661255
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.1485956907272339, 0.09374357759952545, 0.04653400555253029, 0.10385273396968842]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.05709795653820038, 0.48029544949531555, 0.5245833992958069, 0.06192078813910484]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.501366376876831, 0.05463387072086334, 0.15143729746341705, 0.5033701658248901]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.026936018839478493, 0.31328198313713074, 0.23326504230499268, 0.016320932656526566]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_relative'         
+	 Types: 'ffff '         
+	 Payload: '[0.26600396633148193, 0.058045100420713425, 0.0441802479326725, 0.3145354092121124]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/horseshoe'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 1.0, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/is_good'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/blink'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/jaw_clench'         
+	 Types: 'i '         
+	 Payload: '[0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/touching_forehead'         
+	 Types: 'i '         
+	 Payload: '[1]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/concentration'         
+	 Types: 'f '         
+	 Payload: '[0.5611785650253296]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/experimental/mellow'         
+	 Types: 'f '         
+	 Payload: '[0.7726194262504578]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/low_freqs_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.8272793292999268, 0.132903590798378, 0.6596548557281494, 1.8598167896270752]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.1142805814743042, 0.05300222709774971, 0.03601750731468201, 0.9635315537452698]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.6988949179649353, 0.7625691890716553, 1.0880615711212158, 0.7389500737190247]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.6424295902252197, -0.18147732317447662, 0.5484799146652222, 1.649001121520996]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[0.3726077377796173, 0.5769961476325989, 0.7360967397689819, 0.1598585993051529]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_absolute'         
+	 Types: 'ffff '         
+	 Payload: '[1.3671624660491943, -0.15517371892929077, 0.013475222513079643, 1.444783091545105]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/alpha_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.8901098966598511, 0.10256410390138626, 0.557692289352417, 0.9898989796638489]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/beta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.5, 0.4035087823867798, 0.7111111283302307, 0.8166666626930237]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/delta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.4000000059604645, 1.0, 1.0]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/gamma_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[0.4385964870452881, 0.1794871836900711, 0.2291666716337204, 0.27272728085517883]'
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/elements/theta_session_score'         
+	 Types: 'ffff '         
+	 Payload: '[1.0, 0.4262295067310333, 0.8970588445663452, 1.0]'
+/muse/eeg 761.625916 837.294983 809.330322 738.596191
+/muse/eeg 781.365662 830.715088 809.330322 759.980896
+/muse/drlref 1629032.250000 1641935.500000
+/muse/acc 261.719147 890.626404 371.094330
+/muse/acc 261.719147 878.907654 371.094330
+/muse/acc 257.812897 863.282593 371.094330
+/muse/acc 257.812897 859.376343 371.094330
+/muse/eeg 786.300598 842.229919 829.070068 766.560852
+Unknown message         
+	 Source: 'osc.udp://127.0.0.1:55693/'         
+	 Address: '/muse/eeg/quantization'         
+	 Types: 'iiii '         
+	 Payload: '[1, 1, 1, 1]'
+/muse/eeg 774.785767 792.880554 822.490173 751.756042
+/muse/eeg 771.495789 773.140747 835.650024 741.886108
+/muse/eeg 778.075684 814.265259 832.360046 748.466064
+/muse/eeg 791.235535 815.910278 801.105408 766.560852
+/muse/eeg 817.555237 863.614685 835.650024 786.300598
+/muse/eeg 797.815491 815.910278 814.265259 764.915833
+/muse/eeg 804.395386 809.330322 809.330322 781.365662
+/muse/eeg 824.135132 822.490173 830.715088 801.105408
+/muse/eeg 820.845215 825.780151 829.070068 797.815491
+/muse/eeg 822.490173 815.910278 827.425110 796.170471
+/muse/eeg 834.005005 810.975281 840.584961 806.040344
+/muse/eeg 848.809875 809.330322 838.940002 820.845215
+/muse/eeg 852.099792 827.425110 810.975281 827.425110
+/muse/eeg 847.164856 827.425110 792.880554 814.265259
+/muse/eeg 843.874939 814.265259 809.330322 812.620300

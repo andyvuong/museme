@@ -4,6 +4,9 @@
 Python script for setting up a OSC server between the computer and the Muse
 
 This script was tested using Python 2.7.9 and MuseIO firmware 3.6.5 ['muse-io 3.6.5 (Build-21 Jan 30 2015 20:12:18)']
+
+tested with 'muse-io --osc osc.udp://localhost:5001,osc.udp://localhost:5002'
+need to add condition with timestamp flag
 """
 
 from liblo import *
@@ -31,13 +34,19 @@ class MuseServer(ServerThread):
     @make_method('/muse/batt', 'iiii')
     def batt_callback(self, path, args):
         state_charge, fuel_gauge, adc, temperature = args
-        print "%s %i %i %i %i" % (state_charge, fuel_gauge, adc, temperature)
+        print "%s %i %i %i %i" % (path, state_charge, fuel_gauge, adc, temperature)
 
     #receive EEG data
     @make_method('/muse/eeg', 'ffff')
     def eeg_callback(self, path, args):
         l_ear, l_forehead, r_forehead, r_ear = args
         print "%s %f %f %f %f" % (path, l_ear, l_forehead, r_forehead, r_ear)
+
+    #receive EEG quantization data
+    @make_method('/muse/eeg/quantization', 'iiii')
+    def eeg_quantize_callback(self, path, args):
+        l_ear, l_forehead, r_forehead, r_ear = args
+        print "%s %i %i %i %i" % (path, l_ear, l_forehead, r_forehead, r_ear)
 
     #receive DRLREF data
     @make_method('/muse/drlref', 'ff')
@@ -50,9 +59,26 @@ class MuseServer(ServerThread):
     #[DO NOT THINK THIS IS NEEDED]
     #
     #receive Fourier Fast Trasform [for each channel]
-    #@make_method('/muse/element/raw_fft0', 'fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff')
-    #def fft0_callback(self, path, args):
+    @make_method('/muse/elements/raw_fft0', 'fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff')
+    def fft0_callback(self, path, args):
+        myList = args
+        #print "%s" % (path)
 
+    @make_method('/muse/elements/raw_fft1', 'fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff')
+    def fft1_callback(self, path, args):
+        myList = args
+        #print "%s" % (path)
+
+    @make_method('/muse/elements/raw_fft2', 'fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff')
+    def fft2_callback(self, path, args):
+        myList = args
+        #print "%s" % (path)
+
+    @make_method('/muse/elements/raw_fft3', 'fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff')
+    def fft3_callback(self, path, args):
+        myList = args
+        #print "%s" % (path)
+    
     """
     #Absolute Band Powers
     #logarithm of the Power Spectral Density of the EEG data for each channel (may have negative values)
@@ -127,9 +153,35 @@ class MuseServer(ServerThread):
         channel_1, channel_2, channel_3, channel_4 = args
         print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
 
-    #
+    """
     #Band Power Sessions Scores
     #[DO NOT THINK THIS IS NEEDED]
+    """
+    #delta relative
+    @make_method('/muse/elements/delta_session_score', 'ffff')
+    def delta_score_callback(self, path, args):
+        channel_1, channel_2, channel_3, channel_4 = args
+        #print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+    #theta relative
+    @make_method('/muse/elements/theta_session_score', 'ffff')
+    def theta_score_callback(self, path, args):
+        channel_1, channel_2, channel_3, channel_4 = args
+        #print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+    #alpha relative
+    @make_method('/muse/elements/alpha_session_score', 'ffff')
+    def alpha_score_callback(self, path, args):
+        channel_1, channel_2, channel_3, channel_4 = args
+        #print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+    #beta relative
+    @make_method('/muse/elements/beta_session_score', 'ffff')
+    def beta_score_callback(self, path, args):
+        channel_1, channel_2, channel_3, channel_4 = args
+        #print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
+    #gamma relative
+    @make_method('/muse/elements/gamma_session_score', 'ffff')
+    def gamma_score_callback(self, path, args):
+        channel_1, channel_2, channel_3, channel_4 = args
+        #print "%s %f %f %f %f" % (path, channel_1, channel_2, channel_3, channel_4)
 
     """
     #Headband Status
@@ -139,7 +191,7 @@ class MuseServer(ServerThread):
     @make_method('/muse/elements/touching_forehead', 'i')
     def forehead_callback(self, path, args):
         touching = args
-        print "%s %i" % (touching)
+        print "%s %r" % (path, touching)
 
     #Status indicator for each channel (think of the Muse status indicator that looks like a horseshoe).
     #1 = good, 2 = ok, >=3 bad
@@ -162,15 +214,15 @@ class MuseServer(ServerThread):
     @make_method('/muse/elements/blink', 'i')
     def blinkcheck(self, path, args):
         blink = args
-        print "%s %i" % (blink)
+        print "%s %r" % (path, blink)
 
     #Boolean value 1 represents a jaw clench was detected
     @make_method('/muse/elements/jaw_clench', 'i')
     def jawcheck(self, path, args):
         clench = args
-        print "%s %i" % (clench)
+        print "%s %r" % (path, clench)
 
-    #
+    
     #Experimental
     #paths in this section can change with each release - they may even disappear entirely!
     #will approximately take 1 minute with Muse on the head to start producing meaningful values
@@ -182,33 +234,37 @@ class MuseServer(ServerThread):
     #Concentration
     #based on gamma, but with additional processing to make it more reflective of the user's experience
     """
-    This value goes up when you are focusing on something particular, thinking about something with intensity, 
-    concentrating on something, waiting in expectation for something to happen, trying to solve a problem, 
-    or working your intellectual mind. 
-    Warning: If you tense up your muscles, 
-    it can get confuse this measure in that this value may go up when you do that.
+    #This value goes up when you are focusing on something particular, thinking about something with intensity, 
+    #concentrating on something, waiting in expectation for something to happen, trying to solve a problem, 
+    #or working your intellectual mind. 
+    #Warning: If you tense up your muscles, 
+    #it can get confuse this measure in that this value may go up when you do that.
 
-    The concentration score is 1 when your attention is directed at something very particular 
-    and with high intensity. The dynamics of the score (i.e. the range and the variations) 
-    haven't been tuned since it is an experimental release. The transitions between high 
-    concentration and low concentration are usually abrupt, so the score is currently 
-    more of a "yes/no" type score instead of a gradient from 0-1.
+    #The concentration score is 1 when your attention is directed at something very particular 
+    #and with high intensity. The dynamics of the score (i.e. the range and the variations) 
+    #haven't been tuned since it is an experimental release. The transitions between high 
+    #concentration and low concentration are usually abrupt, so the score is currently 
+    #more of a "yes/no" type score instead of a gradient from 0-1.
     """
     @make_method('/muse/elements/experimental/concentration', 'f')
     def concentrationcheck(self, path, args):
         fromconcentrate = args
-        print "%s %i" % (clench)
+        print "%s %s" % (path, fromconcentrate)
 
     #Mellow
     #based on alpha, but with additional processing to make it more reflective of the user's experience
     """
-    This value goes up when you are relaxing, letting go of judgement, letting go of trying to control things, 
-    letting go of attachment to outcome, not thinking about anything with a goal, 
-    or being without an active task.  
-    You are not engaged in strenuous mental processing but still alert to your senses. 
-    A ready, waiting state.
+    #This value goes up when you are relaxing, letting go of judgement, letting go of trying to control things, 
+    #letting go of attachment to outcome, not thinking about anything with a goal, 
+    #or being without an active task.  
+    #You are not engaged in strenuous mental processing but still alert to your senses. 
+    #A ready, waiting state.
     """
-
+    @make_method('/muse/elements/experimental/mellow', 'f')
+    def mellowcheck(self, path, args):
+        mellowing = args
+        print "%s %s" % (path, mellowing)
+    
     #handle unexpected messages
     @make_method(None, None)
     def fallback(self, path, args, types, src):
@@ -225,8 +281,8 @@ try:
     server = MuseServer()
 except (KeyboardInterrupt, SystemExit):
     raise
-except (signal.SIGTSTP, SystemExit):
-    raise
+#except (signal.SIGTSTP, SystemExit):
+#    raise
 except ServerError, err:
     print str(err)
     sys.exit()
