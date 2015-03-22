@@ -1,9 +1,9 @@
-import oscP5.*;
+//import oscP5.*;
 //import netP5.*;
   
-OscP5 oscP5_0;
+//OscP5 oscP5_0;
 
-PFont WQY10;
+//PFont WQY10;
 
 int numBalls = 25600;
 int maxBalls = numBalls;
@@ -20,13 +20,13 @@ int dest_y = height/2;
 Seeker[] ball = new Seeker[numBalls];
 
 void setup(){
-  oscP5_0 = new OscP5(this,9001);
-  size(640,480);
+  //oscP5_0 = new OscP5(this,9001);
+  size(1000,500);
   //size(displayWidth, displayHeight);
   colorMode(HSB, 255);
   noStroke();
-  WQY10 = loadFont("WenQuanYiMicroHei-10.vlw");
-  textFont(WQY10);
+  //WQY10 = loadFont("WenQuanYiMicroHei-10.vlw");
+  //textFont(WQY10);
   clearBG = true;
   doSmooth = false;
   shapeType = 1;
@@ -41,7 +41,7 @@ void setup(){
 
 void draw(){
   if(clearBG){
-    background(#111421);
+    background(#98C6EE);
   }
    
    
@@ -54,7 +54,7 @@ void draw(){
   } 
   rectMode(CENTER);
   for(int i=0; i<numBalls; i++){
-    smoothColor(ball[i], changingcol);
+    //smoothColor(ball[i], changingcol);
     ball[i].seek(new PVector(dest_x, dest_y));
     ball[i].render();
   }
@@ -142,7 +142,7 @@ void keyPressed() {
     numBalls = min(maxBalls, numBalls);
   }
 }
-
+/*
 void oscEvent(OscMessage theOscMessage) 
 {  
   // get the first value as an float
@@ -161,12 +161,12 @@ void oscEvent(OscMessage theOscMessage)
     
   moveBalls(fourthValue);
 }
-
+*/
 void jsEvent(int chord1, int chord2, int chord3, int mood, int melodynote) 
 {  
     // print out the message
     print("Message Received: ");
-    print(theOscMessage.addrPattern() + " ");
+  //  print(theOscMessage.addrPattern() + " ");
     println(firstValue + " " + secondValue + " " + thirdValue + " " + mood + " " + fourthValue);
     moveBalls(fourthValue);
 }
@@ -181,17 +181,58 @@ void moveBalls(int last)
   }
 }
 
-void smoothColor(Seeker s, int hue)
+void smoothColor(Seeker s, int myhue)
 {
   int randnum = int(random(-3, 3));
-  if(hue > hue(s.fillColor))
+  if(myhue > hue(s.fillColor))
   {
-    float newcolor = randnum + int((hue-hue(s.fillColor))/64) + hue(s.fillColor);
+    float newcolor = randnum + int((myhue-hue(s.fillColor))/64) + hue(s.fillColor);
     s.fillColor = color(newcolor, 180, 255);
   }
   else
   {
-    float newcolor = randnum + int((hue(s.fillColor)-hue)/64) + hue(s.fillColor);
+    float newcolor = randnum + int((hue(s.fillColor)-myhue)/64) + hue(s.fillColor);
     s.fillColor = color(newcolor, 180, 255);
+  }
+}
+
+
+
+
+
+class Seeker{
+  PVector position;
+  float accelRate, radius;
+  PVector velocity = new PVector(0, 0);
+  color fillColor;
+  float rnd;
+    
+  public Seeker(PVector pos){
+    position = pos;
+    rnd = random(1);
+    fillColor = color((int) (rnd*255), 180, 255);
+  }
+  
+  public void seek(PVector target){
+    accelRate = map(rnd, 0, 1, minAccel, maxAccel);
+    target.sub(position);
+    target.normalize();
+    target.mult(accelRate);
+    velocity.add(target);
+    velocity.limit(maxVelocity);
+
+    position.add(velocity);
+  }
+  
+  public void render(){
+    stroke(color(0,0,0));
+    fill(fillColor);
+    radius = sq(map(velocity.mag(), 2, maxVelocity*2, 4, 1));
+    if(shapeType == 0){
+      rect(position.x, position.y, radius, radius);
+    }
+    else{
+      ellipse(position.x, position.y, radius, radius);
+    }
   }
 }

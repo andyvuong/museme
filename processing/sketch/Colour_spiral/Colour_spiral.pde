@@ -165,7 +165,7 @@ void oscEvent(OscMessage theOscMessage)
 void jsEvent(int chord1, int chord2, int chord3, int mood, int melodynote) 
 {  
     // print out the message
-    print("Message Received: ");
+    print("Message Received (JS): ");
     print(theOscMessage.addrPattern() + " ");
     println(firstValue + " " + secondValue + " " + thirdValue + " " + mood + " " + fourthValue);
     moveBalls(fourthValue);
