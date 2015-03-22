@@ -13,7 +13,7 @@ int shapeType;
 float maxVelocity = 6, minAccel = 0.2, maxAccel = 0.6;
 int time = 0;
 int changingcol = 0;
-
+int mymood = 6;
 int last_melody_note = 0;
 int dest_x = width/2;
 int dest_y = height/2;
@@ -28,7 +28,7 @@ void setup(){
   //WQY10 = loadFont("WenQuanYiMicroHei-10.vlw");
   //textFont(WQY10);
   clearBG = true;
-  doSmooth = false;
+  doSmooth = true;
   shapeType = 1;
   
   for(int i=0; i<numBalls; i++){
@@ -44,14 +44,18 @@ void draw(){
     background(#111421);
   }
    
+
    
   time++;
-  if(time > 200)
+  if(mymood == 6 && time > 100)
   {
       moveBalls(int(random(1000)));
      time = 0;
      changingcol = (changingcol+32)%255;
   } 
+  else{
+    changingcol = 255/6 * mymood + int(random(-3, 3));
+  }
   rectMode(CENTER);
   for(int i=0; i<numBalls; i++){
     smoothColor(ball[i], changingcol);
@@ -167,6 +171,7 @@ void jsEvent(int chord1, int chord2, int chord3, int mood, int melodynote)
 {  
     // print out the message
     print("Message Received: ");
+    mymood = mood;
     println(chord1 + " " + chord2 + " " + chord3 + " " + mood + " " + melodynote);
     moveBalls(melodynote);
 }
