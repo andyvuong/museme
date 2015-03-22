@@ -33,7 +33,7 @@ class MuseServer(ServerThread):
     @make_method('/muse/acc', 'fff')
     def acc_callback(self, path, args):
         acc_x, acc_y, acc_z = args
-        print "%s %f %f %f" % (path, acc_x, acc_y, acc_z)
+        #print "%s %f %f %f" % (path, acc_x, acc_y, acc_z)
         send(target_port, "%s %f %f %f" % (path, acc_x, acc_y, acc_z))
         #send(target_port, path, acc_x, acc_y, acc_z)
 
@@ -41,7 +41,7 @@ class MuseServer(ServerThread):
     @make_method('/muse/batt', 'iiii')
     def batt_callback(self, path, args):
         state_charge, fuel_gauge, adc, temperature = args
-        print "%s %i %i %i %i" % (path, state_charge, fuel_gauge, adc, temperature)
+        #print "%s %i %i %i %i" % (path, state_charge, fuel_gauge, adc, temperature)
         send(target_port, "%s %i %i %i %i" % (path, state_charge, fuel_gauge, adc, temperature))
 
     #receive EEG data
@@ -213,7 +213,7 @@ class MuseServer(ServerThread):
     @make_method('/muse/elements/touching_forehead', 'i')
     def forehead_callback(self, path, args):
         touching = args
-        print "%s %r" % (path, touching)
+        #print "%s %r" % (path, touching)
         send(target_port, "%s %r" % (path, touching))
 
     #Status indicator for each channel (think of the Muse status indicator that looks like a horseshoe).
@@ -221,14 +221,14 @@ class MuseServer(ServerThread):
     @make_method('/muse/elements/horseshoe', 'ffff')
     def horseshoe(self, path, args):
         l_ear, l_forehead, r_forehead, r_ear = args
-        print "%s %f %f %f %f" % (path, l_ear, l_forehead, r_forehead, r_ear)
+        #print "%s %f %f %f %f" % (path, l_ear, l_forehead, r_forehead, r_ear)
         send(target_port, "%s %f %f %f %f" % (path, l_ear, l_forehead, r_forehead, r_ear))
 
     #Strict data quality indicator for each channel, 0= bad, 1 = good.
     @make_method('/muse/elements/is_good', 'iiii')
     def qualitycheck(self, path, args):
         l_ear, l_forehead, r_forehead, r_ear = args
-        print "%s %i %i %i %i" % (path, l_ear, l_forehead, r_forehead, r_ear)
+        #print "%s %i %i %i %i" % (path, l_ear, l_forehead, r_forehead, r_ear)
         send(target_port, "%s %i %i %i %i" % (path, l_ear, l_forehead, r_forehead, r_ear))
 
     """
@@ -239,14 +239,14 @@ class MuseServer(ServerThread):
     @make_method('/muse/elements/blink', 'i')
     def blinkcheck(self, path, args):
         blink = args
-        print "%s %r" % (path, blink)
+        #print "%s %r" % (path, blink)
         send(target_port, "%s %r" % (path, blink))
 
     #Boolean value 1 represents a jaw clench was detected
     @make_method('/muse/elements/jaw_clench', 'i')
     def jawcheck(self, path, args):
         clench = args
-        print "%s %r" % (path, clench)
+        #print "%s %r" % (path, clench)
         send(target_port, "%s %r" % (path, clench))
 
     
@@ -276,7 +276,7 @@ class MuseServer(ServerThread):
     @make_method('/muse/elements/experimental/concentration', 'f')
     def concentrationcheck(self, path, args):
         fromconcentrate = args
-        print "%s %s" % (path, fromconcentrate)
+        #print "%s %s" % (path, fromconcentrate)
         send(target_port, "%s %s" % (path, fromconcentrate))
 
     #Mellow
@@ -291,9 +291,9 @@ class MuseServer(ServerThread):
     @make_method('/muse/elements/experimental/mellow', 'f')
     def mellowcheck(self, path, args):
         mellowing = args
-        print "%s %s" % (path, mellowing)
+        #print "%s %s" % (path, mellowing)
         send(target_port, "%s %s" % (path, mellowing))
-    
+    """
     #handle unexpected messages
     @make_method(None, None)
     def fallback(self, path, args, types, src):
@@ -303,6 +303,7 @@ class MuseServer(ServerThread):
         \n\t Types: '%s ' \
         \n\t Payload: '%s'" \
         % (src.url, path, types, args)
+    """
 
 signal.signal(signal.SIGTSTP, handler)
 
