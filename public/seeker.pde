@@ -36,7 +36,7 @@ void setup(){
   }
   
   // numBalls adjusted to a sane default for web distribution
-  numBalls = 400;
+  numBalls = 1200;
 }
 
 void draw(){
@@ -48,18 +48,18 @@ void draw(){
   time++;
   if(time > 200)
   {
-    
+      moveBalls(int(random(1000)));
      time = 0;
      changingcol = (changingcol+32)%255;
   } 
   rectMode(CENTER);
   for(int i=0; i<numBalls; i++){
-    //smoothColor(ball[i], changingcol);
+//    smoothColor(ball[i], changingcol);
     ball[i].seek(new PVector(dest_x, dest_y));
     ball[i].render();
   }
   
-  statusWindow();
+  //statusWindow();
 
 }
 
@@ -162,13 +162,13 @@ void oscEvent(OscMessage theOscMessage)
   moveBalls(fourthValue);
 }
 */
+
 void jsEvent(int chord1, int chord2, int chord3, int mood, int melodynote) 
 {  
     // print out the message
     print("Message Received: ");
-  //  print(theOscMessage.addrPattern() + " ");
-    println(firstValue + " " + secondValue + " " + thirdValue + " " + mood + " " + fourthValue);
-    moveBalls(fourthValue);
+    println(chord1 + " " + chord2 + " " + chord3 + " " + mood + " " + melodynote);
+    moveBalls(melodynote);
 }
 
 void moveBalls(int last)
@@ -195,6 +195,8 @@ void smoothColor(Seeker s, int myhue)
     s.fillColor = color(newcolor, 180, 255);
   }
 }
+
+
 
 
 
@@ -236,3 +238,4 @@ class Seeker{
     }
   }
 }
+
